@@ -1,4 +1,4 @@
-## Teaching Assistant, CSC 473 Automata, Grammars and Languages, Aug 2023 - ongoing
+## Teaching Assistant, CSC 473 Automata, Grammars and Languages, Aug 2023 - May 2023.
 
 I have been working as Teaching Assistant for CSC 473 Automata, Grammars and Languages taught by and under supervision of Prof. Cesim Erten.
 
@@ -13,7 +13,7 @@ I have been working as Teaching Assistant for CSC 473 Automata, Grammars and Lan
 - Completed: IA  699 - Teaching Writing in All Disciplines
 - Ongoing Spring 2024: IA 699 - Teaching as a Research
 
-- I previously studied this subject out of interest in languages theory.
+- I previously studied this subject out of interest in languages and theory.
 
 ### 🏆Acheivements as a Teaching Assistant
 
