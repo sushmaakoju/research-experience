@@ -104,16 +104,17 @@ The course projects and details are at:
 
 ## Teaching Assistant for MSBC 5180 Machine Learning in Python and MSBC 5190 Artificial Intelligence
 
+I worked on developing a course curriculum with the course instructor for MSBC 5190 Artificial Intelligence which begins with Neural Networks, introduces CNNs, LSTMs, RNNs, Transformers, etc. I also implemented homework assignments that which professor updated and shared. I also shared templates for creating homework assignments on some datasets for basic Linear regressions, Multilayer perceptron, Generalized linear models, etc. I also was a teaching assistant for a Machine Learning course that begins from the topics of Linear regression, logistic regression, gradient descent optimization, multilayer perceptron, basic neural networks model for linear regression, etc which was also programming and theory intensive. Both of these classes contained 70+ students and one Teaching Assistant. I was glad to stretch myself and learn not only from re-learning concepts of neural networks but also to learn from challenging questions from students. As a Teaching Assistant, I got a chance to learn more and expand my skills towards stronger foundational knowledge in Machine Learning and Neural Networks models.
+
 #### MSBC 5180 Machine Learning in Python, Fall 2021
 
-Helped students with Python programming and concept-to-implementation related questions and evaluated
-homework and conducted recitations on Support Vector Machines for hard vs Soft margins, Gradient Descent
+Helped students with Python programming and concept-to-implementation related questions and evaluated homework and conducted recitations on Support Vector Machines for hard vs Soft margins, Gradient Descent
 & Stochastic Gradient Descent algorithms, Logistic Regression, sklearn packages, Perceptrons & Multilayer
-Perceptron, Convolutional Neural Networks. <a href="https://drive.google.com/drive/folders/1ZxJXWJBVtpwqMg95O9e1YJgu7eVjCdnW?usp=sharing">Recitations</a>
+Perceptron, Convolutional Neural Networks. <a href="https://drive.google.com/drive/folders/1ZxJXWJBVtpwqMg95O9e1YJgu7eVjCdnW?usp=sharing">Recitations</a>.
 
 <a href="https://www.colorado.edu/hr/content/contact-hr.">For Employment verification</a>
 
-#### MSBC 5190 Artificial Intelligence, Spring 2022
+#### MSBC 5190 Artificial Intelligence & Neural Networks, Spring 2022
 
 Helped create course content (topic selection, materials, discussion, and brainstorming), helped students
 towards programming and concept-to-implementation related questions, evaluated homework, conducted
@@ -128,4 +129,10 @@ Proctored exams for Student Testing Center. Helped to create process guidelines 
 ## Student Assistant, July 2022 - August 2022, Dr. Jane Wall and Kaitlyn Rye
 
 Worked on reviewing and editing changes to quizzes and course content for Coursera Specialization for
-Pathways. Worked on Survey Data Analysis for Coursera courses for Data Science. <a href="https://www.colorado.edu/hr/content/contact-hr.">For Employment verification</a>
+Pathways. 
+- I mentored two team members.
+- I studies research methods on learning methodologies in online learning platforms and the survey of engagement and successful completion of students.
+- I incorporated those research studies into developing a data analysis in R programming.
+- Adding to this, I worked on this project for merely 1 month, we also received good reception for the research analysis we presented not only from the group I was working with but also from the conference this work was specifically presented.
+
+Worked on Survey Data Analysis for Coursera courses for Data Science. <a href="https://www.colorado.edu/hr/content/contact-hr.">For Employment verification</a>

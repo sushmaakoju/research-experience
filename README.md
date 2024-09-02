@@ -1,6 +1,8 @@
 ## Research experience of Sushma Akoju
 
-1. <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-arizona">University of Arizona: Ongoing, PhD, since Fall 2022</a>. 
+<!-- 1. <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-new-hampshire"> Prof. Laura Dietz, University of New Hampshire: Ongoing, PhD, since Fall 2024</a>. -->
+
+1. <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-arizona">University of Arizona Fall 2022 - July 31st 2024.
 
 2. <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-colorado-boulder"> the University of Colorado Boulder: Masters in Data Science, 2021 - 2022 </a>.
 
@@ -14,6 +16,7 @@ Credential verification <a href="https://badges.wes.org/Evidence?i=48995b02-2e99
 6. <a href="https://github.com/sushmaakoju/research-experience/tree/main/JNTU"> Jawaharlal Nehru Technological University, Hyderabad: Bachelor of Technology, Computer Science and Engineering.</a> 
 Credential verification: <a href="https://badges.wes.org/Evidence?i=48995b02-2e99-4670-906a-6f4063642959&type=us">from World Education Services (WES)</a>.
 
+7. A note about programming: <a href="https://github.com/sushmaakoju/research-experience/blob/main/note-about-programming.md"> Note about programming </a>
 
 ## :wind_chime: :wind_chime: Research interests, skills and works-in-progress:
 
@@ -23,13 +26,55 @@ I am interested towards developing proofs of correctness for logical reasoning o
 
 **Looking for potential advisors and research alignment:**
 
-I am looking for continuing my study such that it puts my past research experience (see my posts on twitter or aforementioned section on Research Experience) and acquired skills to good use as well as providing me chances to learn and explore. Nothing is set in stone but I am interested in finding a research alignment so my acquired skills as well as my interests help me to progress.
-
-https://github.com/sushmaakoju/research-experience
-
-**I am looking for potential collaborators and if you know any Universities still accepting PhD admissions and any potential advisors looking for students, for Fall 2024, please let me know.**
-
 I recently completed reading a few notes on LLMs, Automated Reasoning, Neurosymbolic AI and Generative AI.
+
+## Note as graduate of forensic science and criminal justice from University of Hyderabad, India:
+
+"Following lead to violation of civil rights and human rights:
+
+Narcissistic abuse, emotional abuse, academic abuse, Psychological violence, abuse, stalking, character assassination, misrepresentation, spreading false allegations, victim bias and prejudice such as imposing that victim has PTSD, misrepresenting, becoming an unconsented spokesperson of someone, creating abnormal situations, by falsely imposing a wrong doing, stealing ideas and work, claiming false ownership of someone else's ideas, quid pro quo, creating false rumours to cover up retaliation, hurting, belittling the achievements, undermining the successes, life threats, blackmails, threats, generating controversial content using Generative AI tools to attack/defame, creating fake evidences using AI tools, generating false defenses using AI tools to gain sympathy from communities by targeting one individual, discrimination and harassment from religion/race/nationality/age/political beliefs and exploitation of the like for competitive advantages/ for testing resilience of female students/ for financial gains/ from false sense of poetic justice/ from envy/ for any reason. 
+
+- I urge everyone to get acquainted with your campus policies for sex-based discrimination, although you may be familiar about Title IX, but its important to know the terminology your university and campus uses to implement Title IX. (for example your university would have sexual harassment training module).
+
+- Whether you are a domestic student or an International student, please do not hesitate to contact your University's resources that help you as needed. You can also support a fellow student by informing about any interpersonal violence/abuse student is undergoing, to the Dean of Students at your University.
+
+- If anyone tells you they feel envious and threatened by your success/work and starts spreading misinformation about you, it is in violation of civil rights and human rights and can be reported.
+
+- If you see anyone experiencing or if you are experiencing aforementioned situations, please contact the nearest confidential resources to talk to the Dean of Students, and the Office of Equity at your university or this other external resource <a href="https://www.thehotline.org/">NDVH</a>.
+
+- To get yourself acquainted with Title IX and sexual harassment <a href="https://www.hhs.gov/civil-rights/for-individuals/sex-discrimination/title-ix-education-amendments/index.html#:~:text=Title%20IX%20of%20the%20Education%20Amendments%20of%201972%20(Title%20IX,is%20prohibited%20by%20Title%20IX%3F">Title IX of the Education Amendments of 1972</a>
+
+<!-- 
+- If you like to read further about Title IX <a href="https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-86"> and <a href="https://www.ed.gov/about/news/press-release/us-department-of-education-releases-final-title-ix-regulations-providing"> You are protected by your university and organization</a> -->
+
+<!-- <a href="https://www.aclu.org/files/pdfs/womensrights/titleixandsexualassaultknowyourrightsandyourcollege%27sresponsibilities.pdf">know-your-rights</a> -->
+
+There is a difference between Intellectual challenge to solve a problem versus using sexual violence to test the resilience of an Intellectual challenge and the work of a victim.  Don't let speaking up about creepiness of being stalked/harassed be a taboo. Don't let someone who has little/no information of your lived experience, to intellectualize an unfamiliar situation. Stalking, hacking, blackmailing are a crime. **I'd hope that no one should ever have to be familiar with/ have experience of such harassment. Supporting causes based on moral values you uphold should never lead to loss of reputation or retaliation.** It is not volunteer's/victim's responsibility to "explain" about her harassment to people around for the rest of their lives, since such harassment requires to have legal representation and only a lawyer/attorney/certified legal professional can mediate & explain the intricacies and complexities of such harassment, after closure. Let us together **denormalize** such harassment by taking a stand against it and to protect our communities. We cannot allow someone, who violated your civil rights and human rights and failed to respect you, to define you, your present and your future."
+
+## Causes I support:
+- Safety of children and women 
+- Safety from exploitation sexual violence
+- Safety from narcissistic abuse
+- Safety from interpersonal violence
+- Safety from stalking
+- Bringing awareness about stalking
+- Safety from Discrimination by age, race, nationality, sex
+- Safety from Discrimination and retaliation by spreading false information with the event organizers to deprive the person of equal opportunity to participate in workshops and events
+- Protection of your work-related online accounts
+- **Safety from anonymous users/known users deleting git histories, hacking your accounts (both of which are in violation of code of conduct)**
+- Safety from protecting privacy
+- **Safety from coercion and retaliation**
+- **Protection from penalties based on false allegations of perpetrators**
+- Climate change
+- Safety from Plagiarism
+- Safety from misuse of AI tools
+- DEFIANCE act
+- AI for non-profit
+- Virtue ethics
+- Safety from retroactive jealousy
+- Safety from misrepresentation, sexual harassment, abuse, discrimination
+- Human rights and civil rights
+- And more!!!
 
 #### :high_brightness: Acquired skills/learning in NLP and AI:
 
@@ -176,7 +221,7 @@ This example shows basic proof sequents from Z3 prover and pseudo-Entscheidung i
 
 University of Arizona: I worked with Prof. Mihai Surdeanu on Natural logic and had a chance to learn and study the "Natural logic for textual inference" work from Bill MacCartney and Johan Van Bentham's texts on Monotonicity Calculus. 
 
-In my work https://arxiv.org/abs/2307.05034  under supervision of Prof. Mihai Surdeanu, we introduced Sentences Involving Complex Compositional Knowledge (SICCK) and a novel analysis that investigates the performance of Natural Language Inference (NLI) models to understand compositionality in logic. We selected modifier phrases based on - universal quantifiers, existential quantifiers, negation, and other concept modifiers in Natural Logic (NL) (MacCartney, 2009). We used these phrases to modify the subject, verb, and object parts of the premise and hypothesis. Lastly, we annotate these modified texts with the corresponding entailment labels following NL rules. We conduct a preliminary verification of how well the change in the structural and semantic composition is captured by neural NLI models, in both zero-shot and fine-tuned scenarios. After fine-tuning this dataset, we observe that models continue to perform poorly over negation, existential and universal modifiers. https://github.com/sushmaakoju/clulab-releases/tree/master/acl2023-nlrse-sicck…… 🧵   
+In my work https://arxiv.org/abs/2307.05034  under supervision of Prof. Mihai Surdeanu, we introduced Sentences Involving Complex Compositional Knowledge (SICCK) and a novel analysis that investigates the performance of Natural Language Inference (NLI) models to understand compositionality in logic. We selected modifier phrases based on - universal quantifiers, existential quantifiers, negation, and other concept modifiers in Natural Logic (NL) (MacCartney, 2009). We used these phrases to modify the subject, verb, and object parts of the premise and hypothesis. Lastly, we annotate these modified texts with the corresponding entailment labels following NL rules. We conduct a preliminary verification of how well the change in the structural and semantic composition is captured by neural NLI models, in both zero-shot and fine-tuned scenarios. After fine-tuning this dataset, we observe that models continue to perform poorly over negation, existential and universal modifiers. <a href="https://github.com/sushmaakoju/acl2023-nlrse-clulab-SICCK-dataset">NLRSE submission @ ACL 2023, SICCK</a> 🧵   
 
 This paper stands as proof of work under certain extreme situations like a test for resilience for me. 
 Thanks to Prof. Mihai Surdeanu for the chances to learn and for the guidance.
