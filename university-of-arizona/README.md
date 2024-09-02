@@ -18,6 +18,8 @@ PhD Student
 
 - <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/first-order-logic-formal-verification/sushma-akoju-Natural%20Language%20to%20First%20Order%20Logic.pdf"> Natural Language to First Order Logic, Sep 29th 2022.</a>
 
+- <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/Natural-logic-group-meeting.pdf"> Natural Logic Meeting notes and weekly statuses. </a>
+
 ## Courses @ UA
 
 - <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/sushma-akoju-cogsci-Summary_of_Talks_related_to_Consciousness__Metacognition_and_Representation_Similarity_Analysis.pdf"> CogSci Colloquium Fall 2022</a>
