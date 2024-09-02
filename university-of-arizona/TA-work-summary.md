@@ -2,7 +2,9 @@
 
 I have been working as Teaching Assistant for CSC 473 Automata, Grammars and Languages taught by and under supervision of Prof. Cesim Erten.
 
-- As a Teaching Assistant, I had regular duties like any other student TAs. I think being a TA is chance to continuosly learn and be open to new questions and challenging own comprehension. Not limiting to any point of view.
+- As a Teaching Assistant, I had regular duties like any other student TAs. I think being a TA is chance to continuously learn and be open to new questions and challenging own comprehension. Not limiting to any point of view.
+
+- A key observation as reported by many students during Teaching Assistant Office Hours from Fall 2023, was students felt homeworks were long and difficult if they never came to Office hours of either the professor or the Teaching Assistant. I had conducted couple of hours longer Office hours during Fall 2023 to help students voluntarily. Based on feedback, homework assignments' design was modified for Spring 2024 by professor.
 
 - I have prior experience working as a Teaching Assistant at University of Colorado Boulder on Machine Learning and Artificial Intelligence courses.
 
@@ -17,7 +19,11 @@ I have been working as Teaching Assistant for CSC 473 Automata, Grammars and Lan
 
 ### 🏆Acheivements as a Teaching Assistant
 
-- Suggestions/ideas proposes in Fall 2023, implemented in Spring 2024: I proposed ideas to conduct syllabus-driven Supplemental Instruction sessions for practice, add quizzes in-class, idea to accomodate points for piazza questions and answers from students in October 2023.
+- Students found me approachable to seek academic help and ask questions to better the concepts. Students connected with me to ask questions lecture materials and course topics.
+
+- Suggestions/ideas proposed in Fall 2023, implemented in Spring 2024: I proposed ideas to conduct syllabus-driven Supplemental Instruction sessions for practice, add quizzes in-class, idea to accommodate points for piazza questions and answers from students in October 2023.
+
+- I responded to Piazza questions constantly during both semesters (fall 2023, Spring 2024) and interacted with lot of students whenever they had questions and I received appreciation for comprehension and helping students as well as being open to receiving feedback from students as a Teaching Assistant. Please do contact me for more details.
 
 - I planned to continue a studying stress among students for this course if the students take advantage of opportunities provided to help them and if that really helps/helped them to reduce stress and improve scores. So I work on this as part of **Teaching as a Research (TAR) course** is part of CIRTL, taught by Instructors Kristin Winet and Byron Richard Hempel and I am grateful for amazing instructors.
 

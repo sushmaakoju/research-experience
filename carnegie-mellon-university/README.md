@@ -18,6 +18,9 @@ About SARA: <a href="http://articulab.hcii.cs.cmu.edu/projects/sara/"> SARA (Soc
 
 - <a href="https://github.com/inmind-project/inmind-development">InMind development and Middleware for Android InMind App</a>
 
+#### Note 
+During my work at Carnegie Mellon University, my first ever assignment was towards working on Conversational AI in March 2016. At that time I had no background in ConversationalAI, it was also soon after I graduated from University of Pittsburgh. And I was only given software programming code in C++, C\#, Java, javascript and Android Java. I was recruited as an Android Research programmer, but I was glad to be flexible enough to work on multiple programming languages as needed with some guidance from experts. That was my first-hand experience of learning about conversational AI and by looking at the software code as a language to learn the concepts. During this first assignment, I modified some parts of the software code to extract facial features (movement) from live video streams, using OpenFace modules and extract audio features such as fundamental frequency, etc from audio streams using OpenSmile. **It was during this work, I completed my first course on Neural Networks.** I have worked on and modified software programs in C\# for Unity3D modeling of the Socially-aware animated intelligent personal assistant. I also worked on integrating modules to Android programs and various other rule-based event frameworks. Bug fixing, integration of modules written by others into Android framework was an important part of work. Main goal was to help researchers with proof-of-concept software modules.
+
 ### Computational Biology Department Mar 2019 - Jan 2020
 
 Worked part of HubMAP project for prototype demonstration. Worked on Imaging Mass Spectrometry analysis combined with Segmentation over Microscopy Imaging data for (MALDI), metabolites and images datasets.
