@@ -21,11 +21,13 @@ Credential verification: <a href="https://badges.wes.org/Evidence?i=48995b02-2e9
 
 ## Causes I support:
 - Safety of children and women 
-- Safety from misappropriation of a person's name for advertisement/commercial or professional gains
-- Safety from invasion of privacy, narcissistic abuse, interpersonal violence
-- Safety from misrepresentation, sexual misconduct/harassment, abuse, discrimination, coercion
 - Safety from stalking
+- Safety from misappropriation of a person's name for advertisement/commercial or professional gains
+- Safety from invasion of privacy, narcissistic abuse, interpersonal violence, obsessive sexual harassment
+- Safety from misrepresentation, sexual misconduct/harassment, abuse, discrimination, coercion
 - Bringing awareness about stalking
+- Bringing awareness about methods to detect logical fallacies and liar's paradoxes
+- Bringing awareness about methods to protect from falling prey to misinformation and disinformation
 - Climate change
 - Safety from Plagiarism
 - Safety from misuse of AI tools
