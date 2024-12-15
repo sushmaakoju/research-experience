@@ -21,16 +21,11 @@ Credential verification: <a href="https://badges.wes.org/Evidence?i=48995b02-2e9
 
 ## Causes I support:
 - Safety of children and women 
-- Safety from the exploitation of sexual violence
 - Safety from misappropriation of a person's name for advertisement/commercial or professional gains
-- Safety from people with obsessive love disorder (OLD)
 - Safety from invasion of privacy, narcissistic abuse, interpersonal violence
-- Safety from 
-- **Safety from any form of coercion from discrimination by race, nationality, sex, age etc.**
-- **Safety from coercion and retaliation**
+- Safety from misrepresentation, sexual misconduct/harassment, abuse, discrimination, coercion
 - Safety from stalking
 - Bringing awareness about stalking
-- Safety from Discrimination by age, race, nationality, sex
 - Climate change
 - Safety from Plagiarism
 - Safety from misuse of AI tools
@@ -38,10 +33,8 @@ Credential verification: <a href="https://badges.wes.org/Evidence?i=48995b02-2e9
 - AI for non-profit
 - Virtue ethics
 - Safety from retroactive jealousy
-- Safety from misrepresentation, sexual harassment, abuse, discrimination
 - Human rights and civil rights
 - And more!!!
-
 
 - I urge everyone to get acquainted with your campus policies for sex-based discrimination, although you may be familiar with Title IX, it's important to know the terminology your university and campus uses to implement Title IX. (for example, your university would have a sexual harassment training module).
 
