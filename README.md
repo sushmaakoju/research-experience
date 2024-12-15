@@ -23,13 +23,13 @@ Credential verification: <a href="https://badges.wes.org/Evidence?i=48995b02-2e9
 - Safety of children and women 
 - Safety from stalking
 - Safety from misappropriation of a person's name for advertisement/commercial or professional gains
-- Safety from invasion of privacy, narcissistic abuse, interpersonal violence, obsessive sexual harassment
+- Safety from invasion of privacy, interpersonal violence and obsessive sexual harassment
+- Safety from Plagiarism, stereotyping, in-group & out-group derogation
 - Safety from misrepresentation, sexual misconduct/harassment, abuse, discrimination, coercion
 - Bringing awareness about stalking
 - Bringing awareness about methods to detect logical fallacies and liar's paradoxes
 - Bringing awareness about methods to protect from falling prey to misinformation and disinformation
 - Climate change
-- Safety from Plagiarism
 - Safety from misuse of AI tools
 - DEFIANCE act
 - AI for non-profit
