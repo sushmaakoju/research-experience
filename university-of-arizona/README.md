@@ -40,6 +40,14 @@ I worked as Teaching Assistant for CSC 473 Automata, Grammars and Languages taug
 - Learning from students' questions as well as helping them with concepts had been a great experience. Main goal is to make the subject fun for students with reduced stress levels.
 - For more details on this, please refer: <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/TA-work-summary.md">TA Work summary</a>
 
+## Spring 2024 Course Projects
+
+I worked on short literature review on Adaptive Machine Unlearning. 
+<a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/csc-588-project-report-sushma-akoju.pdf">
+This is mainly to set the foundations for unlearning methods in Large Language Models.
+I also worked on studying unlearning approached on LLMs such as unlearning Harry Potter novels and verifying if the LLM can be probed for any keywords from Harry Potter world.
+
+- to include the report for the unlearning in LLMs.
 
 <!-- 
 ### 🏆Acheivements as a Teaching Assistant
