@@ -32,14 +32,16 @@ PhD Student
 
 <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/RA-work-summary.md">Research Assistant, for a DARPA project, at Clulab, University of Arizona. Aug 19th, 2022 - July 22nd, 2023</a>
 
-## Teaching Assistant, CSC 473 Automata, Grammars and Languages, Aug 2023 - ongoing
+## Teaching Assistant, CSC 473 Automata, Grammars and Languages, Aug 2023 - May 2023
 
-I worked as Teaching Assistant for CSC 473 Automata, Grammars and Languages taught by Prof. Cesim Erten.
-As a Teaching Assistant, I had regular duties like any other students. **Prof. Cesim Erten mentored me and I learnt a lot by also reading research works.** It was greatly helpful.
+I worked as Teaching Assistant for CSC 473 Automata, Grammars and Languages taught by Prof. Cesim Erten. As a Teaching Assistant, I had regular duties like any other students. **Prof. Cesim Erten mentored me and I learnt a lot by also reading research works.** It was greatly helpful.
 
 - I previously studied this subject out of interest in languages theory.
 - Learning from students' questions as well as helping them with concepts had been a great experience. Main goal is to make the subject fun for students with reduced stress levels.
+- For more details on this, please refer: <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/TA-work-summary.md">TA Work summary</a>
 
+
+<!-- 
 ### 🏆Acheivements as a Teaching Assistant
 
 - I proposed ideas to conduct syllabus-driven Supplemental Instruction sessions for practice, add quizzes in-class, idea to accomodate points for piazza questions and answers from students in October 2023 were actually implemented in Spring 2024.
@@ -50,4 +52,4 @@ As a Teaching Assistant, I had regular duties like any other students. **Prof. C
 
 - Implementing these ideas is a lot of hard work and I am truly grateful for working with Prof. Cesim Erten.
 
-<a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/TA-work-summary.md"> Teaching Assistant for CSC 473 Automata, Grammars and Languages Fall 2023 - Ongoing </a>
+<a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/TA-work-summary.md"> Teaching Assistant for CSC 473 Automata, Grammars and Languages Fall 2023 - Ongoing </a> -->
