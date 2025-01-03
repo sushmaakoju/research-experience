@@ -122,7 +122,7 @@ The following courses were completed for my learning and as a hobby, while I was
 
 - Handbook of Practical Logic and Automated Reasoning from 2009, 2022-2023
 - Natural Logic and Natural Language Inference on SICCK dataset, May 2023 
-    - $\textit{\color{brown}Proof of study, concept and understanding for NLP, Natural Logic, NLI}$
+    - $\textit{\color{brown}Proof of study, concept and understanding for NLP, Natural Logic, NLI Sep 2022 - June 2023}$
         - <a href="https://github.com/sushmaakoju/acl2023-nlrse-clulab-SICCK-dataset"> Natural Language Reasoning and Structured Explanations (NLRSE) Workshop, ACL 2023</a> 
 - Natural Logic & Handbook of Logic and Language from 1997, 2022 - 2024 $\color{blue}(notes, WIP)$
     - $\textit{\color{brown}Proof of study and concept, with details of the statuses}$
@@ -149,3 +149,21 @@ The following courses were completed for my learning and as a hobby, while I was
 - European Summer School in Logic, Language and Information, 2021 & 2022 $\color{blue}(notes, WIP)$
 
 <b>Note:</b> Some of the courses/topics are evolving, so they are repeated, may remain as an ongoing study. For some of the aforementioned courses/workshops relevant to my studies on Neurosymbolic methods and NLP/AI, I am presently preparing materials/notes, for <b>my revision</b>, for $\textit{\color{brown}Proof}$-of-study" & coursework simultaneously that are marked with a note $\color{blue}(notes, WIP)$ Work-In-Progress (WIP).
+
+### Cite this repository
+
+Thank you for visiting this repository!
+This repository receives from 10 to 35+ clones each time this repository is updated and various versions were renamed and saved for analysis of visits.
+
+If you found this repository helpful and have used any of the documents on this repository for your work/research, please cite this work to support healthy & collaborative competition:
+
+```
+@online{githubsakojuresearchstudyrecommendations,
+	title        = {github sakoju/research-experience},
+	author       = {sushmaanandakoju},
+	year         = {2015-present},
+	note         = {[Accessed in 2023/2024/2025]},
+	howpublished = {\url{https://github.com/sushmaakoju/research-experience}}
+}
+```
+
