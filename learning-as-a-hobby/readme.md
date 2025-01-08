@@ -1,8 +1,6 @@
 ## Learning as a hobby: courses, workshops, tutorials & status
 
-I initially started learning as a hobby required for my job, but I was very skeptical, but there were very few people who encouraged me to continue learning as a hobby - i.e. mainly my mentor + friend and supervisor+mentor+guide, without whom this page would be impossible to exist. The reason for putting this together now is to confront some of the stereotypes and biases, I felt compelled to share the following learning relevant information. We do not have to put everything on the internet to "demonstrate" proof of study and understanding when safety and privacy is not guaranteed. And this page is - NOT for Intellectual domination, NOT for power, and most importantly NOT for profit/gains/promotion of any sort. **The following proofs of studies are available only to put a fullstop to atleast some concerns and questions that - I, my mentors and mentor-friend - receive about showing online/internet proofs of my study.**
-
-I am grateful to everyone who supported and encouraged this hobby, knowingly or unknowingly. I am especially grateful to my mentor+friend and supervisor+mentor+guide for the support and encouragement.
+The reason for putting this together now is to confront some of the stereotypes and biases, I felt compelled to share the following learning relevant information. We do not have to put everything on the internet to "demonstrate" proof of study and understanding when safety and privacy is not guaranteed. And this page is - NOT for Intellectual domination, NOT for power, and most importantly NOT for profit/gains/promotion of any sort. **The following proofs of studies are available only to put a fullstop to atleast some concerns and questions that - I, my mentors and mentor-friend - receive about showing online/internet proofs of my study.**
 
 ### 2015 - 2017
 
@@ -182,9 +180,12 @@ The following courses were completed for my learning and as a hobby, while I was
 
 <b>Note:</b> Some of the courses/topics are evolving, so they are repeated, may remain as an ongoing study. For some of the aforementioned courses/workshops relevant to my studies on Neurosymbolic methods and NLP/AI, I am presently preparing materials/notes, for <b>my revision</b>, for $\textit{\color{brown}Proof}$-of-study" & coursework simultaneously that are marked with a note $\color{blue}(notes, WIP)$ Work-In-Progress (WIP). But these notes will be released after graduation from my PhD. I am thankful to the mentors, supervisors, friends that helped and recommended some of these courses/topics to study.
 
+For more information: <a href="https://github.com/sushmaakoju/research-experience/tree/main?tab=readme-ov-file#disclaimer">Please refer this</a> and <a href="https://github.com/sushmaakoju/research-experience/blob/main/learning-as-a-hobby/neurosymbolic-methods-study.md#learning-as-a-hobby-neurosymbolic-methods-in-ai"> this note</a>.
+
 ### Teaching relevant Certifications & Case studies - Career Pathway
 
 - Teaching Assistant for Machine Learning and Artificial Intelligence, CU Boulder, Fall 2021 & spring 2022.
+- Research studies on Online Learning using Active, Interactive & Collaborative learning methods and engagement before and after Pandemic, Summer 2022, University of Colorado Boulder for Online Learning on coursera.
 - Teaching Assistant for CSC 473 Automata, Grammars and Languages, University of Arizona, Aug 2023 - May 2023
 - Independent Study: Teaching Writing Across the Curriculum (WAC), <a href="https://academicaffairs.arizona.edu/about-cirtl">CIRTL</a>, IA 699, Fall 2023
 - Independent Study: Teaching-as-Research course, <a href="https://academicaffairs.arizona.edu/about-cirtl">CIRTL</a>, IA 699, Spring 2024

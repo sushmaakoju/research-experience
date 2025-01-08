@@ -1,34 +1,36 @@
-## Research experience of Sushma Anand Akoju, she/her/hers.
+## Research experience of Sushma Anand Akoju, she/her.
 
 <!-- 1. <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-new-hampshire"> Prof. Laura Dietz, University of New Hampshire: Ongoing, PhD, since Fall 2024</a>. -->
 
 00. <a href="https://github.com/sushmaakoju/research-experience/tree/main/learning-as-a-hobby">Learning as a hobby</a>
 
-0. <a href="https://github.com/sushmaakoju/research-experience/tree/main/learning-as-a-hobby#teaching-relevant-certifications--case-studies---career-pathway">Teaching relevant experience</a>
+0. <a href="https://github.com/sushmaakoju/research-experience/blob/main/learning-as-a-hobby/neurosymbolic-methods-study.md">Neurosymbolic methods: learning as a hobby to vocation</a>
 
-1. <a href="https://github.com/sushmaakoju/research-experience/tree/main/learning-as-a-hobby#research-relevant-work">Research relevant experience</a>
+1. <a href="https://github.com/sushmaakoju/research-experience/tree/main/learning-as-a-hobby#teaching-relevant-certifications--case-studies---career-pathway">Teaching relevant experience</a>
 
-2. <a href="https://github.com/sushmaakoju/research-experience/tree/main/learning-as-a-hobby#peer-reviewed-and-first-author-research-publications">First Author publications and Peer-reviewed publications</a>
+2. <a href="https://github.com/sushmaakoju/research-experience/tree/main/learning-as-a-hobby#research-relevant-work">Research relevant experience</a>
 
-3. <a href="https://github.com/sushmaakoju/research-experience/tree/main/learning-as-a-hobby#unpublished-works">Unpublished works and status </a>
+3. <a href="https://github.com/sushmaakoju/research-experience/tree/main/learning-as-a-hobby#peer-reviewed-and-first-author-research-publications">First Author publications and Peer-reviewed publications</a>
 
-4. <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-new-hampshire">University of New Hampshire Fall 2024 - present.</a>
+4. <a href="https://github.com/sushmaakoju/research-experience/tree/main/learning-as-a-hobby#unpublished-works">Unpublished works and status </a>
 
-5. <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-arizona">University of Arizona Fall 2022 - July 31st 2024.</a>
+5. <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-new-hampshire">University of New Hampshire Fall 2024 - present.</a>
 
-6. <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-colorado-boulder"> the University of Colorado Boulder: Masters in Data Science, 2021 - 2022 </a>.
+6. <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-arizona">University of Arizona Fall 2022 - July 31st 2024.</a>
 
-7. <a href="https://github.com/sushmaakoju/research-experience/tree/main/carnegie-mellon-university">Carnegie Mellon University : Research Programmer, 2016 - 2021 </a>. 
+7. <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-colorado-boulder"> the University of Colorado Boulder: Masters in Data Science, 2021 - 2022 </a>.
 
-8. <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-pittsburgh">University of Pittsburgh : Masters in Information Science, 2015</a>.
+8. <a href="https://github.com/sushmaakoju/research-experience/tree/main/carnegie-mellon-university">Carnegie Mellon University : Research Programmer, 2016 - 2021 </a>. 
 
-9. <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-hyderabad">University of Hyderabad: Post Graduate Diploma in Forensic Science and Criminal Justice.</a> 
+9. <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-pittsburgh">University of Pittsburgh : Masters in Information Science, 2015</a>.
+
+10. <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-hyderabad">University of Hyderabad: Post Graduate Diploma in Forensic Science and Criminal Justice.</a> 
 Credential verification <a href="https://badges.wes.org/Evidence?i=48995b02-2e99-4670-906a-6f4063642959&type=us">from World Education Services (WES)</a>.
 
-10. <a href="https://github.com/sushmaakoju/research-experience/tree/main/JNTU"> Jawaharlal Nehru Technological University, Hyderabad: Bachelor of Technology, Computer Science and Engineering.</a> 
+11. <a href="https://github.com/sushmaakoju/research-experience/tree/main/JNTU"> Jawaharlal Nehru Technological University, Hyderabad: Bachelor of Technology, Computer Science and Engineering.</a> 
 Credential verification: <a href="https://badges.wes.org/Evidence?i=48995b02-2e99-4670-906a-6f4063642959&type=us">from World Education Services (WES)</a>.
 
-11. A note about next steps: <a href="https://github.com/sushmaakoju/research-experience/blob/main/note-about-programming.md"> Note about programming </a>
+12. A note about next steps: <a href="https://github.com/sushmaakoju/research-experience/blob/main/note-about-programming.md"> Note about programming </a>
 
 
 ## Causes I support:
