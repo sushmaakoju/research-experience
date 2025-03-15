@@ -94,7 +94,7 @@ Assigned Responsibilities were :
 - **During Spring 2023,** I worked on exploring ways to help students in reducing stress levels among the students, making this subject fun and simpler. So I requested to extend Supplemental Instruction sessions to Spring Semester as well. I learnt from professor to explain in more simpler terms each time.
 
 - My main goal is that Theory is fun so I thought others can also benefit looking at the fun side. 
-  
+
 - I worked on **Teaching as a Research course** project where I conducted a case study to understand the impacts of the Supplemental Instruction session on the stress-levels and amount of time spent on homework assignments of the students, under minimally guided environment, at University of Arizona. **Teaching as a Research (TAR) course** is part of CIRTL, University of Arizona taught by Kristin Winet and Byron Richard Hempel. Prof. Cesim Erten is also part of this project. I am truly grateful from **TAR** instructors Kristin, Byron and Professor for CSC 473 course: Prof. Cesim Erten.
 
 

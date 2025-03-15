@@ -1,4 +1,9 @@
 # University of Pittsburgh & Temple University
+
+For enrollment verification, please contact: <a href="https://www.registrar.pitt.edu/students/transcriptsverifications"> Enrollment Verification, University of Pittsburgh</a>.
+
+For employment verification, please contact: <a href="https://www.hr.pitt.edu/clearances-training/employment-verification">Employment Verification, University of Pittsburgh</a>.
+
 **Advisor** : Prof. Michael Spring, School of Information Science, University of Pittsburgh, 2015.
 
 ## Mobile Application Development, Prof. Karl Morris, Fall 2014, Temple University
