@@ -2,6 +2,10 @@
 
 PhD Student
 
+For enrollment verification, the professors and officials preferred that you contact <a href="https://registrar.arizona.edu/records-enrollment/transcripts-verifications/verifications"> Enrollment verification, University of Arizona </a>.
+
+For employment verification, please contact: <a href="https://hr.arizona.edu/employment-verification-request">Employment Verification, University of Arizona</a>.
+
 ## NLP Reading group presentations
 
 - <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/sushma-akoju-NLP%20Reading%20Group%20series_%20Towards%20Teachable%20Reasoning%20Systems%20NLP%20Reading%20Group%2C%20University%20of%20Arizona.pdf">Presentation on Towards Teachable Reasoning Systems, Oct 21st, 2023.</a>
@@ -46,7 +50,9 @@ PhD Student
 
 ### Summer 2023
 
-- Self Study of policies on code of conduct, workplace harassment, selective exploitation of stereotypes and AI safety. (research-case-study report for spreading awareness & neuroscientific evidences for impacts of trauma on resilience: work-in-progress, to be updated).
+**The following work was done as a volunteer and does not belong to any specific funded research project.**
+
+- Self Study of policies on code of conduct, workplace harassment, selective exploitation of stereotypes and AI safety. (research-case-study report for spreading awareness & neuroscientific evidences for impacts of trauma on resilience: work-in-progress, to be updated). 
 
 ### Fall 2023
 
@@ -70,13 +76,17 @@ PhD Student
 - Learning Assistant Quick Start Program Fall 2023
 - Teaching: <a href="https://academicaffairs.arizona.edu/about-cirtl">CIRTL</a> Practitioner Level II Spring 2024
 - Teaching: <a href="https://academicaffairs.arizona.edu/about-cirtl">CIRTL</a> Associate Level I Fall 2023 - Spring 2024
-- My Teaching as a Research project/case study <a href="https://sites.google.com/arizona.edu/uofatarprojects/spring-2024/sushma-akoju?authuser=0">Impact of Supplemental Instruction Sessions on the stress levels & amount of time spent on homework assignments by the students in an era of Internet solutions and advanced AI tools: A case study</a>
+- My "Teaching as a Research" project/case study <a href="https://sites.google.com/arizona.edu/uofatarprojects/spring-2024/sushma-akoju?authuser=0">Impact of Supplemental Instruction Sessions on the stress levels & amount of time spent on homework assignments by the students in an era of Internet solutions and advanced AI tools: A case study</a>
 
 ## Research Assistant, for a DARPA project, at Clulab, University of Arizona. Aug 19th, 2022 - July 22nd, 2023
+
+For employment verification: please contact <a href="https://hr.arizona.edu/employment-verification-request"> Employment verification </a>.
 
 <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/RA-work-summary.md">Research Assistant, for a DARPA project, at Clulab, University of Arizona. Aug 19th, 2022 - July 22nd, 2023</a>
 
 ## Teaching Assistant, CSC 473 Automata, Grammars and Languages, Aug 2023 - May 2023
+
+For employment verification: please contact <a href="https://hr.arizona.edu/employment-verification-request"> Employment verification </a>.
 
 I worked as Teaching Assistant for CSC 473 Automata, Grammars and Languages taught by Prof. Cesim Erten. As a Teaching Assistant, I had regular duties like any other students. **Prof. Cesim Erten mentored me and I learnt a lot by also reading research works.** It was greatly helpful.
 
@@ -86,6 +96,7 @@ I worked as Teaching Assistant for CSC 473 Automata, Grammars and Languages taug
 
 ## Spring 2024 completed courses & course Projects
 
+**The following work was done as a volunteer and does not belong to any specific funded research project.**
 
 <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/csc-588-project-report-sushma-akoju.pdf">I worked on short literature review on Adaptive Machine Unlearning. </a>
 This is mainly to set the foundations for unlearning methods in Large Language Models.

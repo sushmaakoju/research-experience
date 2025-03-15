@@ -1,6 +1,12 @@
 # My contributions, achievements at University of New Hampshire
 
+For enrollment verification, the professors and officials preferred that you contact <a href="https://www.unh.edu/registrar/registration/enrollment-verification"> Enrollment Verification, University of New Hampshire</a>.
+
+For employment verification: please contact <a href="http://www.theworknumber.com/"> Employment Verification, University of New Hampshire </a>.
+
 ## May 2024 - Aug 2024 : Self Study + Research Assistant works/status for Information Retrieval & neurosymbolic Methods
+
+For employment verification: please contact <a href="http://www.theworknumber.com/"> the work number </a>.
 
 - May 15th - May 29th 2024 <a href="https://docs.google.com/document/d/1lBdI0dPcvcqz4ixG4TzM9RC59AZXjuEzSCQRitmg-eU/edit?usp=sharing">Study & Research Idea formation: to generate Atomic facts and Boolean Questions from a Paragraph (doc) </a>
 - June 2024: <a href="https://github.com/sushmaakoju/LLMJudge">LLMJudge challenge: helping team member run it on Google Colab</a>
@@ -10,6 +16,10 @@
 - Aug 30 - Sep 2024: <a href="https://drive.google.com/drive/folders/1ycrg4xJigxYKpK9yfziYMy9lfshkpB0D?usp=sharing"> RA: Neuro symbolic methods, relevance metrics and Information Retrieval study/papers & status </a>
 - Sep 2024: <a href="https://docs.google.com/presentation/d/1jVgO3Lu-JGP-VCOW50dE1AilU8WK0Ujq/edit?usp=sharing&ouid=109002193141570811635&rtpof=true&sd=true">Introduction presentation</a>
 - RA: Sep 2024: Nix Environment fixed on GPU with custom setup and running scripts from RUBRIC work on GPUs and sharing results and analysis of randomized results.  <sup><sub><sup><sub> Ended, as my skill alignment was more towards Neurosymbolic Methods in Natural Language Understanding which is a subset of Natural Language Processing.</sub></sup></sub></sup>
+
+- Works done after Sep 25th 2024, are outside of scope of this project. The volunteer works done by me after Sep 25th 2024, have not been shared towards the formal reports of this project and they are NOT funded by the RUBRIC team/NSF project. No Contract binding before or after.
+
+- September 2024: I initiated and worked with OpenAI EDU team at the University for getting the educational license for teaching OpenAI GPTx tools, for AI courses at UNH, CS department.
 
 ## My presentation on Proof systems Prior to University of New Hampshire : Sep 9th 2024 - Oct 1st 2024
 
@@ -45,7 +55,8 @@
 ### My work on Lean 4 prover from Sep 10 2024 to Dec 5th 2024.
 
 #### Presentation of my work Dec 5th, 2024: 
-I started initially as a volunteer participant for giving knowledge transfer and as a courtesy participation. Thanks for the invite to participate and be part of the RLLab, CS department, UNH organized by Prof. Marek Petrik for Fall 2024.
+
+I started working on this as a volunteer participant for giving knowledge transfer and as a courtesy participation. Thanks for the invite to participate and be part of the RLLab, CS department, UNH organized by Prof. Marek Petrik for Fall 2024. This work is a volunteer work and does not belong to any specific funded research project.
 
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vQCJ_3PrWZp_06_yQPbKDFmGYzWZZpxYI58NY47SRQMiAf6FTisMi9cVYjxAYBQUJH52YJTbdjGsZhd/pub?start=false&loop=false&delayms=3000">Final project presentation, Dec 5th 2024</a>
 
@@ -61,11 +72,17 @@ I started initially as a volunteer participant for giving knowledge transfer and
 
 ## Jan 2025 - May 2025, Teaching Assistant, UNH
 
+For employment verification: please contact <a href="http://www.theworknumber.com/"> the work number </a>.
+
 - I work as a Teaching Assistant for Machine Learning course. Responsibilities are to conduct Office Hours and grading homework assignments.
 
 ### Self-volunteered responsibilities outside of assigned TA responsibilities:
 
 - Responding to the questions on the Piazza to help students and designing grading rubric for each homework assignment.
+
+### Note
+
+Any works done after Sep 25th 2024 were outside the scope of funded projects. My works after Sep 25th 2024 do remain as volunteer works.
 
 ### Cite this repository
 
