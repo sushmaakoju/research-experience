@@ -1,11 +1,14 @@
 # University of Colorado Boulder Sep 2021 - July 2022
 
+For enrollment verification, the professors and officials preferred that you contact <a href="https://www.colorado.edu/registrar/students/records/info/verifications"> Enrollment Verification, University of Colorado Boulder</a>.
+
+For employment verification, please contact <a href="https://www.colorado.edu/hr/content/contact-hr"> Employment Verification, University of Colorado Boulder</a>.
+
 Masters in Data Science:
 
 **Not everyone likes to give up the comfort of a well-earning job to study and do research. If a research interest to help a good cause arises, what can ever go wrong with learning and studying?**
 
-I explored various forms of explainability and interpretability towards complex, black-box-style Deep Learning models.
-This is because, a lot of students and people, were in a deep-learning rush and looking at the types of millions of jobs just so focussed on Deep Learning and over-estimated use of such models. I thought learning and finding "interpretability" and "explainability" in the deep learning models was not this hard. It was nevertheless surprising that a majority of industry jobs race towards deep learning models without actually even being worried about interpretability and explainability or even backward verification of results in downstream or upstream tasks for production release in the industry. We spend so much time writing design testing, prototype testing, unit testing, functional testing, regression testing, usability, and many more types of testing that I am not really familiar with. Something must have been really promising to use Deep Learning models, even without having rough, "approximated" clarity or accounting from the output end (results) all the way back to the input data in a complex network. There were both advantages and disadvantages. I am certainly not an expert but I wanted to find out. I explored trying to address the same using logic and various following directions.
+I explored various forms of explainability and interpretability towards complex, black-box-style Deep Learning models. I explored trying to address the same using logic and various following directions. **The following works were as a volunteer and do not belong to any specific funded research project.**
 
 1. First by <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-colorado-boulder/sushma-akoju-Interpretability_explainability.pdf">comparing traditional statistical methods and their simplicity, explainability with that of unexplainable deep learning models</a>.
 2. Second by exploring <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-colorado-boulder/sushma-akoju-KRR%20Project%20Final%20Presentation.pdf">StrategyQA, EntailmentBank from Allen AI Institute's datasets and research papers, then by studying Abstract Meaning Representation (AMR) and Logical Neural Networks</a> and <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-colorado-boulder/sushma-akoju-mln-stats-fall-2021-final.pdf">Markov Logical Networks</a> and <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-colorado-boulder/sushma-akoju-Theorem%20Prover.pdf">Automated Theorem prover</a>.

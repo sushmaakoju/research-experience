@@ -1,6 +1,6 @@
 ## Learning as a hobby: courses, workshops, tutorials & status
 
-The reason for putting this together now is to confront some of the stereotypes and biases, I felt compelled to share the following learning relevant information. We do not have to put everything on the internet to "demonstrate" proof of study and understanding when safety and privacy is not guaranteed. And this page is - NOT for Intellectual domination, NOT for power, and most importantly NOT for profit/gains/promotion of any sort. **The following proofs of studies are available only to put a fullstop to atleast some concerns and questions that - I, my mentors and friends - receive about showing online/internet proofs of my study.**
+The reason for putting this together now is to confront some of the stereotypes and biases, I felt compelled to share the following learning relevant information. We do not have to put everything on the internet to "demonstrate" proof of study and understanding when safety and privacy is not guaranteed. And this page is - NOT for Intellectual domination, NOT for power, and most importantly NOT for profit/gains/promotion of any sort. **The following proofs of studies are available only to put a fullstop to atleast some concerns and questions that - I, my mentors and friends - receive about showing online/internet proofs of my study. The following works were done as a volunteer and do not belong to any specific funded research project and are not for-profit.**
 
 ### 2015 - 2017
 
