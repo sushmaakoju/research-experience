@@ -56,3 +56,41 @@ If you found this repository helpful and have used any of the documents on this 
 	howpublished = {\url{https://github.com/sushmaakoju/research-experience}}
 }
 ```
+
+# Disclaimer and Advocacy Statement
+
+April is Sexual Assault Awareness Month (SAAM). I’m sharing this statement to clarify my position and raise awareness about important issues.
+Statement from Sushma Anand Akoju (she/her/hers)
+
+# Statement from Sushma Anand Akoju (she/her/hers)
+
+I am a PhD student focused on my academic journey and have not authorized the use of my name or work for any promotional, competitive, commercial, or monetary purposes. As of September 25, 2024, I am not involved in any grants, funding, or for-profit agreements, nor have I applied for full-time jobs, as I plan to explore career opportunities closer to my graduation.
+
+I maintain a limited social media presence for personal reasons. Unfortunately, this has led to instances of coercion, misinformation, and misuse of technology targeting me, including sockpuppeting, impersonation, and falsification. Such actions can result in serious consequences like misappropriation, misinformation, and false allegations, often driven by competitive motives or "crab mentality" <a href="https://en.wikipedia.org/wiki/Crab_mentality">(Wikipedia: Crab Mentality)</a>. Research highlights the risks of technology misuse, such as in this <a href="https://arxiv.org/pdf/2406.13843">arXiv study</a> and <a href="https://deepmind.google/discover/blog/mapping-the-misuse-of-generative-ai"/>DeepMind blog</a>.
+
+I want to emphasize that holding targeted individuals accountable for disproving false information is unfair and parallels punishing them for others’ actions. I encourage everyone to be vigilant, verify information, and protect themselves from misinformation. This statement is intended as prebunking to raise awareness about technology misuse and its impact.
+
+I strongly denounce all forms of sexual harassment, particularly the coercion into inappropriate relationships to secure academic opportunities. My rejection of such advances, which I view as a clear and valid assertion of my boundaries—where "No" is both a syntactically correct and semantically valid response—has unfortunately led to retaliation from numerous interpersonal violence (IPV) perpetrators. Additionally, any false claims of academic dishonesty against me are entirely verifiable and unfounded, as my extensive work in NLP and NLU, including <a href="https://arxiv.org/abs/2307.05034">my 2023 publication at ACL</a>, demonstrates my intellectual integrity and capabilities. As a highly intelligent and accomplished researcher, I am committed to upholding the highest standards of academic excellence, and I welcome verification of my work through <a href="https://github.com/sushmaakoju/research-experience">my GitHub repository</a> (available upon request to trusted parties). Please contact sakoju2014@gmail.com for only access to GitHub repositories and if you believe you are contacting for academic verification by representing University or research lab or other government organization.
+
+For further information or support, I can help connect you with confidential resources.
+
+## Causes I Advocate For
+
+I am committed to supporting the following causes to foster a safer, more ethical academic and digital environment:
+
+- Anti-Interpersonal Violence (IPV)
+
+- Anti-Stalking and Anti-Cyberstalking
+
+- Anti-Misinformation and Anti-Defamation
+
+- Anti-Sexual Violence and Anti-Coercion
+
+- Anti-Discrimination, Anti-Bias, and Anti-Hate
+
+- Anti-Plagiarism and Anti-Academic Dishonesty
+
+- Promoting Safety and Ethical Practices
+
+
+
