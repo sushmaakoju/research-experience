@@ -4,6 +4,18 @@ For enrollment verification, the professors and officials preferred that you con
 
 For employment verification: please contact <a href="http://www.theworknumber.com/"> Employment Verification, University of New Hampshire </a>.
 
+## Volunteer work as an experienced student
+
+- I volunteered to learn a new tool such as Lean programming only for Fall 2024.
+- I volunteered to share the background to <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-new-hampshire#my-presentation-on-proof-systems-prior-to-university-of-new-hampshire--sep-9th-2024---oct-1st-2024">proof systems, logic, automata, languages, turing machine and theorem provers</a>.
+
+- I volunteered to motivate the students on <a href="https://docs.google.com/presentation/d/e/2PACX-1vQCJ_3PrWZp_06_yQPbKDFmGYzWZZpxYI58NY47SRQMiAf6FTisMi9cVYjxAYBQUJH52YJTbdjGsZhd/pub?start=false&loop=false&delayms=3000">Final project presentation, Dec 5th 2024, with a last minute notice to explain with an example to motivate students</a>.
+
+- I am volunteer Community Educator for Consent-based communication at UNHSHARPP, Spring 2025.
+- I volunteered for UNH 603 challenge for UNHSHARPP.
+
+- I was given a chance to present as a guest lecture on AI for Academic writing <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-new-hampshire#march-2025-guest-lecture-on-ai-for-academic-writing-under-supervision-of-prof-jessica-bolker">Guest lecture on AI for Academic writing, focussed on ethical, scientific and functional aspects of Large Language models for Academic writing </a> for BIOL 950 Science Communication and BIOL 902 Scientific Writing classes respectively, **under supervision of Prof. Jessica Bolker.**
+
 ## May 2024 - Aug 2024 : Self Study + Research Assistant works/status for Information Retrieval & neurosymbolic Methods
 
 For employment verification: please contact <a href="http://www.theworknumber.com/"> the work number </a>.
@@ -80,9 +92,17 @@ For employment verification: please contact <a href="http://www.theworknumber.co
 
 - Responding to the questions on the Piazza to help students and designing grading rubric for each homework assignment.
 
+## March 2025 Guest Lecture on AI for Academic Writing, under supervision of Prof. Jessica Bolker
+
+- I was given a chance by Prof. Jessica Bolker to give a guest lecture on <a href="https://googleslides.com">AI for Academic Writing</a> for BIOL 950 Science Communication and BIOL 902 Scientific Writing during March 3rd 2025 and March 7th 2025 respectively.
+
+- The presentation was focussed on ethical, scientific and functional pros and cons of using Large Language Models (GPTx, Claude AI and DeepSeek R1) for science writing.
+
+- It was a great learning experience and fun working with Prof. Jessica Bolker!
+
 ### Note
 
-Any works done after Sep 25th 2024 were outside the scope of funded projects. My works after Sep 25th 2024 do remain as volunteer works.
+Any research works done after Sep 25th 2024 were outside the scope of funded projects. My works after Sep 25th 2024 do remain as volunteer works except that of Teaching Assistant work.
 
 ### Cite this repository
 

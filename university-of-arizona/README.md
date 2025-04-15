@@ -1,6 +1,13 @@
 # University of Arizona Aug 2022 - Summer 2024
 
-PhD Student
+## Volunteer work as an experienced student
+
+- I used to explain Machine Learning theorem proofs such as for Support Vector machines, Neural networks, and for NLP algorithms: Edit distance, RNN, LSTM.
+- I shared my notes from "Advanced Operating System" and "Text retrieval and search" with the students in the class.
+- I organized some group study for exam preparations for "Advanced Operating Systems".
+- I volunteered to help students with conceptual practice for Automata, Grammars and Languages during Fall 2023, which set the precedent for Teaching-as-a-Research project for Spring 2024 that we presented at UCATT Teaching Exchange Symposium Spring 2025 and at CIRTL Spring 2025 presentations, respectively. <a href="https://docs.google.com/presentation/d/e/2PACX-1vRbvA0UqKzSfkpQTDGErZ9n7_vvTcaXi7D-CWx3Di7ENL4lYaUSILFK0ij8GL5vRw/pub?start=false&loop=false&delayms=3000&slide=id.p8">Presentation of Teaching-as-a-Research project</a>.
+
+## PhD Student
 
 For enrollment verification, the professors and officials preferred that you contact <a href="https://registrar.arizona.edu/records-enrollment/transcripts-verifications/verifications"> Enrollment verification, University of Arizona </a>.
 
