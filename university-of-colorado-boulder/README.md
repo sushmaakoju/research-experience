@@ -4,9 +4,16 @@ For enrollment verification, the professors and officials preferred that you con
 
 For employment verification, please contact <a href="https://www.colorado.edu/hr/content/contact-hr"> Employment Verification, University of Colorado Boulder</a>.
 
-Masters in Data Science:
+## Masters in Data Science:
 
-**Not everyone likes to give up the comfort of a well-earning job to study and do research. If a research interest to help a good cause arises, what can ever go wrong with learning and studying?**
+### Volunteer work as an experienced student:
+
+- I used to volunteer to explain any concepts to the students for Statistics, Data Mining, and Data Science classes.
+- I used to take active part in organizing group study preparations for exams.
+- I also did group project couple of times.
+- I also volunteered and used Image processing tools for finetuning over handwriting dataset for handwriting recognition and extracting text from attendance sheet as a Teaching Assistant. In a modern day classroom, Teaching Assistant work requires us to monitor attendance, but to have a student sign an attendance sheet on paper ensures attendance is recorded. Such paper attendance records are not invasive but also retain the integrity of attendance without proxy. handwriting recognition can also be used to detect changes in handwritten patterns for same entries, to recognize potential classroom proxies etc. This is not to scare students or anyone, just to record the results closer to ground truth such as headcounts ete. Such methods help to measure the factors impacted from Covid related transitions such as in-person to online lectures and so on.
+
+### Main focus of my study which I explored as part of this Masters program
 
 I explored various forms of explainability and interpretability towards complex, black-box-style Deep Learning models. I explored trying to address the same using logic and various following directions. **The following works were as a volunteer and do not belong to any specific funded research project.**
 
@@ -123,10 +130,9 @@ Perceptron, Convolutional Neural Networks. <a href="https://drive.google.com/dri
 
 #### MSBC 5190 Artificial Intelligence & Neural Networks, Spring 2022
 
-Helped create course content (topic selection, materials, discussion, and brainstorming), helped students
-towards programming and concept-to-implementation related questions, evaluated homework, conducted
-recitations on Word2vec, GloVE vectors, Pre-processing text corpus, Recurrent Neural Networks, Long Short
-term memory networks. <a href="https://drive.google.com/drive/folders/1o9eVgXfnxo1EduW0pxKjVBq21I3Fe77E?usp=sharing">Recitations</a>
+- Helped create course content (topic selection, materials, discussion, and brainstorming), helped students towards programming and concept-to-implementation related questions, evaluated homework, conducted recitations on Word2vec, GloVE vectors, Pre-processing text corpus, Recurrent Neural Networks, Long Short term memory networks. <a href="https://drive.google.com/drive/folders/1o9eVgXfnxo1EduW0pxKjVBq21I3Fe77E?usp=sharing">Recitations</a>.
+
+- I also volunteered and used Image processing tools for finetuning over handwriting dataset for handwriting recognition and extracting text from attendance sheet as a Teaching Assistant. In a modern day classroom, Teaching Assistant work requires us to monitor attendance, but to have a student sign an attendance sheet on paper ensures attendance is recorded. Such paper attendance records are not invasive but also retain the integrity of attendance without proxy. handwriting recognition can also be used to detect changes in handwritten patterns for same entries, to recognize potential classroom proxies etc. This is not to scare students or anyone, just to record the results closer to ground truth such as headcounts ete. Such methods help to measure the factors impacted from Covid related transitions such as in-person to online lectures and so on.
 
 <a href="https://www.colorado.edu/hr/content/contact-hr.">For Employment verification</a>
 
@@ -139,7 +145,7 @@ Worked on reviewing and editing changes to quizzes and course content for Course
 Pathways. 
 - I mentored two team members.
 - I studies research methods on learning methodologies in online learning platforms and the survey of engagement and successful completion of students.
-- I incorporated those research studies into developing a data analysis in R programming.
+- I incorporated the analysis from the research studies into developing a data analysis in R programming.
 - Adding to this, I worked on this project for merely 1 month, we also received good reception for the research analysis we presented not only from the group I was working with but also from the conference this work was specifically presented.
 
 Worked on Survey Data Analysis for Coursera courses for Data Science. <a href="https://www.colorado.edu/hr/content/contact-hr.">For Employment verification</a>

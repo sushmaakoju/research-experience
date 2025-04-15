@@ -59,8 +59,7 @@ If you found this repository helpful and have used any of the documents on this 
 
 # Disclaimer and Advocacy Statement
 
-April is Sexual Assault Awareness Month (SAAM). I’m sharing this statement to clarify my position and raise awareness about important issues.
-Statement from Sushma Anand Akoju (she/her/hers)
+April is Sexual Assault Awareness Month (SAAM). I’m sharing this statement to show my support and raise awareness about important issues surrounding SAAM.
 
 # Statement from Sushma Anand Akoju (she/her/hers)
 
@@ -68,9 +67,11 @@ I am a PhD student focused on my academic journey and have not authorized the us
 
 I maintain a limited social media presence for personal reasons. Unfortunately, this has led to instances of coercion, misinformation, and misuse of technology targeting me, including sockpuppeting, impersonation, and falsification. Such actions can result in serious consequences like misappropriation, misinformation, and false allegations, often driven by competitive motives or "crab mentality" <a href="https://en.wikipedia.org/wiki/Crab_mentality">(Wikipedia: Crab Mentality)</a>. Research highlights the risks of technology misuse, such as in this <a href="https://arxiv.org/pdf/2406.13843">arXiv study</a> and <a href="https://deepmind.google/discover/blog/mapping-the-misuse-of-generative-ai"/>DeepMind blog</a>.
 
-I want to emphasize that holding targeted individuals accountable for disproving false information is unfair and parallels punishing them for others’ actions. I encourage everyone to be vigilant, verify information, and protect themselves from misinformation. This statement is intended as prebunking to raise awareness about technology misuse and its impact.
+The reason for this statement is that there are attempts to force public declarations from me through harassment and Interpersonal Violence since 3+ years, that violate my civil rights, and I have reported such actions to external entities, including the other internal entities.
 
-I strongly denounce all forms of sexual harassment, particularly the coercion into inappropriate relationships to secure academic opportunities. My rejection of such advances, which I view as a clear and valid assertion of my boundaries—where "No" is both a syntactically correct and semantically valid response—has unfortunately led to retaliation from numerous interpersonal violence (IPV) perpetrators. Additionally, any false claims of academic dishonesty against me are entirely verifiable and unfounded, as my extensive work in NLP and NLU, including <a href="https://arxiv.org/abs/2307.05034">my 2023 publication at ACL</a>, demonstrates my intellectual integrity and capabilities. As a highly intelligent and accomplished researcher, I am committed to upholding the highest standards of academic excellence, and I welcome verification of my work through <a href="https://github.com/sushmaakoju/research-experience">my GitHub repository</a> (available upon request to trusted parties). Please contact sakoju2014@gmail.com for only access to GitHub repositories and if you believe you are contacting for academic verification by representing University or research lab or other government organization.
+I want to emphasize that holding targeted individuals accountable for disproving false information is unfair and parallels punishing them for others’ actions. I encourage everyone to be vigilant, verify information, and protect themselves from misinformation. This statement is intended as pre-bunking to raise awareness about technology misuse and its impact.
+
+I condemn any false claims, false assertions of my works such as <a href="https://github.com/sushmaakoju/research-experience">my works in research and academia</a>. These works demonstrate my hard work, dedication and contributions in NLP and NLU, including <a href="https://arxiv.org/abs/2307.05034">my 2023 publication at ACL</a>, that demonstrates my intellectual integrity and skills. Please contact sakoju2014@gmail.com for attorney attested and forensically verified copies of evidences and works, for academic verification that represents University or research lab or other government organization.
 
 For further information or support, I can help connect you with confidential resources.
 
