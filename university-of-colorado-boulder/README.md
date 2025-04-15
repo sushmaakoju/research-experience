@@ -4,9 +4,15 @@ For enrollment verification, the professors and officials preferred that you con
 
 For employment verification, please contact <a href="https://www.colorado.edu/hr/content/contact-hr"> Employment Verification, University of Colorado Boulder</a>.
 
-Masters in Data Science:
+## Masters in Data Science:
 
-**Not everyone likes to give up the comfort of a well-earning job to study and do research. If a research interest to help a good cause arises, what can ever go wrong with learning and studying?**
+### Volunteer work as an experienced student:
+
+- I used to volunteer to explain any concepts to the students for Statistics, Data Mining, and Data Science classes.
+- I used to take active part in organizing group study preparations for exams.
+- I also did group project couple of times.
+
+### Main focus of my study which I explored as part of this Masters program
 
 I explored various forms of explainability and interpretability towards complex, black-box-style Deep Learning models. I explored trying to address the same using logic and various following directions. **The following works were as a volunteer and do not belong to any specific funded research project.**
 

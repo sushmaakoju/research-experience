@@ -1,5 +1,9 @@
 # Carnegie Mellon University
 
+## Volunteer work
+
+- I donated to a lot of organizations - Feeding America, Tartan, International Rescue Committee and International Food bank and many more in the USA.
+
 ### Machine Learning Department & Human-Computer Interaction Institute Mar 2016 - Mar 2019
 
 I worked on Conversational AI, several Machine Learning and AI concepts during Yahoo InMind project under the supervision of Prof. Tom Mitchell and Prof. Justine Cassell. My work was mainly to write code and help the researchers for building the applications for InMind project.
