@@ -1,6 +1,6 @@
 ## Research experience of Sushma Anand Akoju, she/her.
-  
-<!-- 1. <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-new-hampshire"> Prof. Laura Dietz, University of New Hampshire: Ongoing, PhD, since Fall 2024</a>. -->
+
+**Keywords:** Natural Language Understanding, MultiModal models, Large Language Models (LLMs), Vision-based LLMs, Neurosymbolic Methods, Natural Language Reinforcement Learning, reasoning, teaching.
 
 00. <a href="https://github.com/sushmaakoju/research-experience/tree/main/learning-as-a-hobby">Learning as a hobby</a>
 
@@ -56,42 +56,3 @@ If you found this repository helpful and have used any of the documents on this 
 	howpublished = {\url{https://github.com/sushmaakoju/research-experience}}
 }
 ```
-
-# Disclaimer and Advocacy Statement
-
-April is Sexual Assault Awareness Month (SAAM). I’m sharing this statement to show my support and raise awareness about important issues surrounding SAAM.
-
-# Statement from Sushma Anand Akoju (she/her/hers)
-
-I am a PhD student focused on my academic journey and have not authorized the use of my name or work for any promotional, competitive, commercial, or monetary purposes. As of September 25, 2024, I am not involved in any grants, funding, or for-profit agreements, nor have I applied for full-time jobs, as I plan to explore career opportunities closer to my graduation.
-
-I maintain a limited social media presence for personal reasons. Unfortunately, this has led to instances of coercion, misinformation, and misuse of technology targeting me, including sockpuppeting, impersonation, and falsification. Such actions can result in serious consequences like misappropriation, misinformation, and false allegations, often driven by competitive motives or "crab mentality" <a href="https://en.wikipedia.org/wiki/Crab_mentality">(Wikipedia: Crab Mentality)</a>. Research highlights the risks of technology misuse, such as in this <a href="https://arxiv.org/pdf/2406.13843">arXiv study</a> and <a href="https://deepmind.google/discover/blog/mapping-the-misuse-of-generative-ai"/>DeepMind blog</a>.
-
-The reason for this statement is that there are attempts to force public declarations from me through harassment and Interpersonal Violence since 3+ years, that violate my civil rights, and I have reported such actions to external entities, including the other internal entities.
-
-I want to emphasize that holding targeted individuals accountable for disproving false information is unfair and parallels punishing them for others’ actions. I encourage everyone to be vigilant, verify information, and protect themselves from misinformation. This statement is intended as pre-bunking to raise awareness about technology misuse and its impact.
-
-I condemn any false claims, false assertions of my works such as <a href="https://github.com/sushmaakoju/research-experience">my works in research and academia</a>. These works demonstrate my hard work, dedication and contributions in NLP and NLU, including <a href="https://arxiv.org/abs/2307.05034">my 2023 publication at ACL</a>, that demonstrates my intellectual integrity and skills. Please contact sakoju2014@gmail.com for attorney attested and forensically verified copies of evidences and works, for academic verification that represents University or research lab or other government organization.
-
-For further information or support, I can help connect you with confidential resources.
-
-## Causes I Advocate For
-
-I am committed to supporting the following causes to foster a safer, more ethical academic and digital environment:
-
-- Anti-Interpersonal Violence (IPV)
-
-- Anti-Stalking and Anti-Cyberstalking
-
-- Anti-Misinformation and Anti-Defamation
-
-- Anti-Sexual Violence and Anti-Coercion
-
-- Anti-Discrimination, Anti-Bias, and Anti-Hate
-
-- Anti-Plagiarism and Anti-Academic Dishonesty
-
-- Promoting Safety and Ethical Practices
-
-
-
