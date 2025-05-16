@@ -26,31 +26,70 @@ For employment verification: please contact <a href="http://www.theworknumber.co
 
 - Responding to the questions on the Piazza to help students and designing grading rubric for each homework assignment.
 
-## March 2025 Guest Lecture on AI for Academic Writing, under supervision of Prof. Jessica Bolker
+## March 2025 Guest Lecture: AI for Academic Writing
 
-- I was given a chance by Prof. Jessica Bolker to give a guest lecture on <a href="https://googleslides.com">AI for Academic Writing</a> for BIOL 950 Science Communication and BIOL 902 Scientific Writing during March 3rd 2025 and March 7th 2025 respectively.
+Under the supervision of Professor Jessica Bolker, I had the opportunity to deliver a guest lecture on the applications of artificial intelligence in academic writing. This presentation was offered to two graduate-level courses:
 
-- The presentation was focussed on ethical, scientific and functional pros and cons of using Large Language Models (GPTx, Claude AI and DeepSeek R1) for science writing.
+- BIOL 950: Science Communication (March 3, 2025)
+- BIOL 902: Scientific Writing (March 7, 2025)
 
-- It was a great learning experience and fun working with Prof. Jessica Bolker!
+The lecture explored the ethical considerations, scientific implications, and practical advantages and limitations of using Large Language Models (including GPT models, Claude AI, and DeepSeek R1) in scientific writing contexts.
 
-## BIOL 950 Science Communication course project of my own, supervised and instructed by Prof. Jessica Bolker
+This collaborative opportunity with Professor Bolker provided valuable experience in translating complex AI concepts for audiences in biological sciences, focusing on responsible technology use in academic contexts.
 
-### This project is my OWN and I created it for introducing First order logic as a tool for complex reasoning in daily life:
+[Presentation materials available upon request]
 
-Please check out my work on an examples of using First Order Logic for real life complex reasoning situations such as logical fallacies, paradoxes, misinformation, disinformation etc @ https://tinyurl.com/fol-as-a-tool and presentation @ https://tinyurl.com/fol-llm-teaching  
+## BIOL 950 Science Communication Project: First Order Logic for Everyday Reasoning
 
-    - Check out the fun examples we face in real life under "🍘 Other examples"
-    - A made-up news premise, hypothesis with text and Image example from IBM and NewYork Times News provenance project.
-    - Would you have believed the made up hypothesis as a news headline.
+### Project Overview
 
-## CS 830 Intro to AI course project of my own
+As part of Professor Jessica Bolker's BIOL 950 Science Communication course, I developed an independent project exploring how First Order Logic can serve as a practical tool for complex reasoning in daily situations. Logic is an occult/specialized subject, the advent of LLMs creates new opportunities for making these concepts more accessible through Human-AI/Human-LLM assisted/collaborated learning approaches.
 
-1) My final course project has been worked hard for, I have a draft in a submission latex format which I did not share but I shared a preliminary write up in a rough draft in a google docs format to see how it will assessed as CS 830 since CS 830 is more robotics focussed and less on other AI topics such as Natural Language Processing and Understanding. 
+Similar to how research works used First Order Logic to evaluate logical fallacies and paradoxes in LLMs [Ontanon et all (2022), oshi, N., Saparov, A., Wang, Y., & He, H. (2024) and Lalwani, A et al (2024)], I introduce First Order Logic (FOL) as a tool for real life complex reasoning situations such as logical fallacies, paradoxes, misinformation... - on social media or in your life.
+ 
+### Project Resources
 
-2) My final course project for CS 830 is on Natural Language Understanding and I also shared it with Natural Language Understanding experts in the field for seeking feedback and evaluation of my final course project which is actually my work since early Jan 2025 as a personal project.
+This original project demonstrates applications of formal logic in addressing everyday reasoning challenges:
 
-Intro to AI is a repeat class for me since my prior work required me to learn these skills proactively for my own learning for a job as a research programmer in 2016-2018 at Carnegie Mellon University and I have also been more focussed on my research in Natural Language Understanding, as I lost time between relocating between universities for my safety.
+- **A tutorial/guide**: [First Order Logic as a Practical Tool](https://tinyurl.com/fol-as-a-tool)
+- **Presentation**: [Teaching First Order Logic with LLMs](https://tinyurl.com/fol-llm-teaching)
+
+### Real-World Applications
+
+The project examines how formal logic frameworks can help analyze and understand:
+- Logical fallacies in everyday arguments
+- Paradoxes we encounter in reasoning
+- Misinformation and disinformation detection strategies
+- Media literacy through analyzing news claims
+
+Notable examples include analysis of fabricated news premises, evaluation of text-image consistency in reporting, and examination of how presentation affects believability of headlines.
+
+This work represents my contribution to making formal reasoning techniques accessible to non-specialists in scientific communication contexts.
+
+#### Note
+The document [First Order Logic as a Practical Tool](https://tinyurl.com/fol-as-a-tool) was not reviewed by anyone. I did not receive any review from anyone. I am happy to provide any authorship verification of this document as needed. I also could not share many details during the planning stage with anyone due to other demanding priorities.
+
+
+## CS 830: Introduction to AI - Final Project
+
+### Project Overview: Natural Language Understanding Research
+
+This repository contains my final project for CS 830 (Intro to AI), focused on Natural Language Understanding research. While CS 830 typically emphasizes robotics applications, I developed this project to align with my specialization in Natural Language Processing and Understanding.
+
+### Development Timeline
+
+- Work on this project began in January 2025 as a personal research initiative
+- A preliminary draft was submitted for course assessment
+- A complete LaTeX draft has been developed (not publicly shared)
+- External feedback is being sought from Natural Language Understanding experts in the field
+
+### Academic Context
+
+This course builds upon my previous experience with AI concepts from my work as a research programmer at Carnegie Mellon University (2016-2018). As my research focus is specifically in Natural Language Understanding, this project represents the intersection of course requirements with my ongoing research interests.
+
+### Project Status
+
+The complete project documentation is available upon appropriate academic request. This work represents a continuation of my research focus despite transitions between academic institutions.
 
 ## May 2024 - Aug 2024 : Self Study + Research Assistant works/status for Information Retrieval & neurosymbolic Methods
 
