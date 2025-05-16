@@ -1,33 +1,34 @@
-## Note about programming
+## My Career Path & Professional Background
 
-I am truly grateful that a lot of people contacted me and genuinely like to support for my career opportunities for me. I really appreciate your support and I have nothing but gratitude and appreciation for your support.
+I want to express my sincere gratitude to everyone who has reached out with career suggestions and support. Your interest in my professional journey means a great deal to me.
 
+### Research Focus & Career Direction
 
-A lot of people, have been contacting me recently, about implying I should be an "Applied Scientist" or a "Programmer". When I completed my 3rd Masters degree program in USA, I received job offers to design and teach AI/Natural Language processing courses at High Schools and private corporate Institutions as well as "Applied scientist" job offers. As a graduate from 3 Master's programs in STEM related programs, I think we are not allowed to teach on H1B. These job options were available to me since 2022, even before I started my PhD and I would like to emphasize these are less known facts.
+After careful consideration and guidance from long-term mentors, I am pursuing a PhD path that aligns with my research interests and scholarly goals. This decision builds upon my academic foundation across three Master's programs in STEM fields and reflects a deliberate career strategy rather than a lack of alternatives.
 
-However now that I am pursuing my PhD, based on the feedback from my long-term mentors and people I worked with, I have planned for a career that better suits my skills, based on my well-evaluated experiences, that align with my **research work** and **research goals**. 
+Prior to beginning my doctoral studies, I received opportunities in various technical roles, including teaching positions and applied research. While I appreciate these suggestions, my current focus remains on advancing my research agenda in Natural Language Processing.
 
-About my first assignment as a research programmer: <a href="https://github.com/sushmaakoju/research-experience/tree/main/carnegie-mellon-university#note">Note</a>
+### Relevant Experience
 
-Here is a teaching-as-research project case study I worked on from Fall 2023 to Spring 2024: 
+My background includes substantial experience in both research and teaching roles:
 
-<a href="https://sites.google.com/arizona.edu/uofatarprojects/spring-2024/sushma-akoju?authuser=0">Impact of Supplemental Instruction Sessions on the stress levels & amount of time spent on homework assignments by the students in an era of Internet solutions and advanced AI tools: A case study</a>. 
+**Research Experience:**
+- [Research Programmer at Carnegie Mellon University](https://github.com/sushmaakoju/research-experience/tree/main/carnegie-mellon-university#note)
+- Research Assistant positions across multiple institutions including [University of Pittsburgh](https://github.com/sushmaakoju/research-experience), [Carnegie Mellon University](https://github.com/sushmaakoju/research-experience/blob/main/carnegie-mellon-university/README.md), [University of Colorado Boulder](https://github.com/sushmaakoju/research-experience/blob/main/university-of-colorado-boulder/README.md), and [University of Arizona](https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/README.md)
 
-Experience as a Research Assistant, Programmer in Research for projects on AI, NLP, Image processing, Text extraction from OCR scanned documents, at each one of the Universities I worked in USA: 
+**Teaching & Educational Research:**
+- [Teaching Assistant for Machine Learning and AI courses](https://github.com/sushmaakoju/research-experience/tree/main/university-of-colorado-boulder#teaching-assistant-for-msbc-5180-machine-learning-in-python-and-msbc-5190-artificial-intelligence) at University of Colorado Boulder
+- [Teaching Assistant for CSC 473](https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/TA-work-summary.md) at University of Arizona
+- Conducted educational research on [the impact of supplemental instruction on student stress and time management](https://sites.google.com/arizona.edu/uofatarprojects/spring-2024/sushma-akoju?authuser=0)
 
-- <a href="https://github.com/sushmaakoju/research-experience">University of Pittsburgh</a>,
+These experiences collectively inform my current research direction and academic objectives.
 
-- <a href="https://github.com/sushmaakoju/research-experience/blob/main/carnegie-mellon-university/README.md">Carnegie Mellon University</a>, 
+### Closing Note
 
-- <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-colorado-boulder/README.md">University of Colorado Boulder</a>, 
+I deeply appreciate the ongoing support from colleagues, mentors, and those who have reached out. While I remain focused on my doctoral research, I welcome continued professional dialogue and connections.
 
-- <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/README.md">University of Arizona</a>. 
+## Acknowledgments
 
-Experiences as Teaching assistant, student data analyst etc:
+The professional career path statement on this page were refined with assistance from Anthropic's Claude AI assistant to ensure clarity and professional communication.
 
-- <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-colorado-boulder#teaching-assistant-for-msbc-5180-machine-learning-in-python-and-msbc-5190-artificial-intelligence"> Teaching Assistant for MSBC 5180 Machine Learning in Python, Fall 2021 and MSBC 5190 Artificial Intelligence & Neural Networks, Spring 2022</a> and 
-- <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/TA-work-summary.md"> Teaching Assistant for CSC 473 Automata, Grammars and Languages Fall 2023 - May 2024, University of Arizona</a>.
- 
-I am very thankful and full of appreciation for those of you who contacted me (over phone calls/emails) with your support.
-
-Best wishes.
+---

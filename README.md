@@ -4,7 +4,7 @@
 
 00. <a href="https://github.com/sushmaakoju/research-experience/tree/main/learning-as-a-hobby">Learning as a hobby</a>
 
-0. <a href="https://github.com/sushmaakoju/research-experience/blob/main/learning-as-a-hobby/neurosymbolic-methods-study.md">Neurosymbolic methods: learning as a hobby to vocation</a>
+0. <a href="https://github.com/sushmaakoju/research-experience/blob/main/learning-as-a-hobby/neurosymbolic-methods-study.md">Neurosymbolic methods: From learning as a hobby towards academic goals</a>
 
 1. <a href="https://github.com/sushmaakoju/research-experience/tree/main/learning-as-a-hobby#teaching-relevant-certifications--case-studies---career-pathway">Teaching relevant experience</a>
 

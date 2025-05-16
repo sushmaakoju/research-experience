@@ -1,6 +1,19 @@
-## Learning as a hobby: courses, workshops, tutorials & status
+## Learning as a Hobby: Courses, Workshops, Tutorials & Status
 
-The reason for putting this together now is to confront some of the stereotypes and biases, I felt compelled to share the following learning relevant information. We do not have to put everything on the internet to "demonstrate" proof of study and understanding when safety and privacy is not guaranteed. And this page is - NOT for Intellectual domination, NOT for power, and most importantly NOT for profit/gains/promotion of any sort. This note condemns any form of Interpersonal Violence(IPV) and hazing. **The following proofs of studies are available only to put a fullstop to atleast some concerns and questions that - I, my mentors and friends - receive about showing online/internet proofs of my study. The following works were done as a volunteer and do not belong to any specific funded research project and are not for-profit.**
+This page documents my ongoing educational journey outside formal degree programs. I've created this resource to provide transparency about my learning path while maintaining professional boundaries.
+
+#### Purpose of this page 
+
+***********************
+**_This following Purpose statement refined with assistance from Anthropic's Claude AI._**
+
+This compilation serves as a record of my self-directed learning and is shared with the following principles:
+- To provide context for my academic and research background
+- To document the progression of my interests and expertise
+- Not intended for competitive purposes or professional promotion
+- Reflects voluntary learning outside of funded research projects
+
+*********************
 
 ### 2015 - 2017
 

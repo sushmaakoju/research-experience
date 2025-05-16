@@ -1,35 +1,44 @@
-
 # Disclaimer and Advocacy Statement
 
-April is Sexual Assault Awareness Month (SAAM). I’m sharing this statement to show my support and raise awareness about important issues surrounding SAAM.
+April is Sexual Assault Awareness Month (SAAM). This statement reflects my commitment to advocacy and awareness around important issues affecting academic communities.
 
-# Statement from Sushma Anand Akoju (she/her/hers)
+## Personal and Professional Boundaries
 
-I am a PhD student focused on my academic journey and have not authorized the use of my name or work for any promotional, competitive, commercial, or monetary purposes. As of September 25, 2024, I am not participating in any grants, funding, or for-profit agreements.
+As a PhD student focused on Natural Language Processing research, I establish the following boundaries:
 
-I maintain a limited social media presence for personal reasons. Unfortunately, this has led to instances of coercion, misinformation, and misuse of technology targeting me, including sockpuppeting, impersonation, and falsification. Such actions can result in serious consequences like misappropriation, misinformation, and false allegations, often driven by competitive motives or "crab mentality" <a href="https://en.wikipedia.org/wiki/Crab_mentality">(Wikipedia: Crab Mentality)</a>. Research highlights the risks of technology misuse, such as in this <a href="https://arxiv.org/pdf/2406.13843">arXiv study</a> and <a href="https://deepmind.google/discover/blog/mapping-the-misuse-of-generative-ai">DeepMind blog</a>. I want to emphasize that holding targeted individuals accountable for disproving false information is unfair and parallels punishing them for others’ actions. I encourage everyone to be vigilant, verify information, and protect themselves from misinformation. This statement is intended as pre-bunking to raise awareness about technology misuse and its impact.
+- I have not authorized the use of my name or academic work for promotional, competitive, commercial, or monetary purposes
+- As of September 25, 2024, I am not affiliated with any external grants, funding initiatives, or for-profit agreements
+- I maintain limited social media presence for personal and professional reasons
 
- <a href="https://github.com/sushmaakoju/research-experience">My works in research and academia</a>. <a href="https://arxiv.org/abs/2307.05034">My first first author publication at ACL, NLRSE 2023</a>. Please contact sakoju2014@gmail.com for attorney attested and forensically verified copies of evidences and works, for academic verification if you are contacting me on behalf of University or research lab or other government organization.
+## Digital Ethics and Information Integrity
 
-For further information or support, I can help connect you with confidential resources.
+In today's digital environment, information integrity faces numerous challenges:
 
-## Causes I Advocate For
+- Technology misuse can manifest as impersonation, sockpuppeting, and falsification of information
+- Academic spaces are not immune to misinformation and technology-enabled harassment
+- Research on these concerns is growing, as highlighted in the [arXiv study on generative AI misuse](https://arxiv.org/pdf/2406.13843) and [DeepMind's research on AI misuse patterns](https://deepmind.google/discover/blog/mapping-the-misuse-of-generative-ai)
+- The burden of disproving false information should not fall on targeted individuals
 
-I am committed to supporting the following causes to foster a safer, more ethical academic and virtual social interactions:
+## My Research and Verification
 
-- Anti-Interpersonal Violence (IPV)
+- My academic work is available at [my research experience repository](https://github.com/sushmaakoju/research-experience)
+- My first-author publication at ACL, NLRSE 2023: [arxiv.org/abs/2307.05034](https://arxiv.org/abs/2307.05034)
+- For academic or institutional verification, please contact sakoju2014@gmail.com
 
-- Anti-Stalking and Anti-Cyberstalking
+## Advocacy Commitments
 
-- Anti-Misinformation and Anti-Defamation
+I am dedicated to supporting initiatives that promote:
 
-- Anti-Sexual Violence and Anti-Coercion
+- Safe and respectful academic environments
+- Information integrity and responsible technology use
+- Anti-harassment and anti-discrimination practices
+- Academic honesty and proper attribution
+- Resources for those affected by various forms of harassment or violence
 
-- Anti-Discrimination, Anti-Bias, and Anti-Hate
+For those seeking support or resources related to any of these issues, I can help connect you with appropriate confidential services.
 
-- Anti-Plagiarism and Anti-Academic Dishonesty
+## Acknowledgments
 
-- Promoting Safety and Ethical Practices
+The advocacy statement on this page were refined with assistance from Anthropic's Claude AI assistant to ensure clarity and professional communication.
 
-
-
+---

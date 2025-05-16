@@ -16,6 +16,42 @@ For employment verification: please contact <a href="http://www.theworknumber.co
 
 - I was given a chance to present as a guest lecture on AI for Academic writing <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-new-hampshire#march-2025-guest-lecture-on-ai-for-academic-writing-under-supervision-of-prof-jessica-bolker">Guest lecture on AI for Academic writing, focussed on ethical, scientific and functional aspects of Large Language models for Academic writing </a> for BIOL 950 Science Communication and BIOL 902 Scientific Writing classes respectively, **under supervision of Prof. Jessica Bolker.**
 
+## Jan 2025 - May 2025, Teaching Assistant, UNH
+
+For employment verification: please contact <a href="http://www.theworknumber.com/"> the work number </a>.
+
+- I work as a Teaching Assistant for Machine Learning course. Responsibilities are to conduct Office Hours and grading homework assignments.
+
+### Self-volunteered responsibilities outside of assigned TA responsibilities:
+
+- Responding to the questions on the Piazza to help students and designing grading rubric for each homework assignment.
+
+## March 2025 Guest Lecture on AI for Academic Writing, under supervision of Prof. Jessica Bolker
+
+- I was given a chance by Prof. Jessica Bolker to give a guest lecture on <a href="https://googleslides.com">AI for Academic Writing</a> for BIOL 950 Science Communication and BIOL 902 Scientific Writing during March 3rd 2025 and March 7th 2025 respectively.
+
+- The presentation was focussed on ethical, scientific and functional pros and cons of using Large Language Models (GPTx, Claude AI and DeepSeek R1) for science writing.
+
+- It was a great learning experience and fun working with Prof. Jessica Bolker!
+
+## BIOL 950 Science Communication course project of my own, supervised and instructed by Prof. Jessica Bolker
+
+### This project is my OWN and I created it for introducing First order logic as a tool for complex reasoning in daily life:
+
+Please check out my work on an examples of using First Order Logic for real life complex reasoning situations such as logical fallacies, paradoxes, misinformation, disinformation etc @ https://tinyurl.com/fol-as-a-tool and presentation @ https://tinyurl.com/fol-llm-teaching  
+
+    - Check out the fun examples we face in real life under "🍘 Other examples"
+    - A made-up news premise, hypothesis with text and Image example from IBM and NewYork Times News provenance project.
+    - Would you have believed the made up hypothesis as a news headline.
+
+## CS 830 Intro to AI course project of my own
+
+1) My final course project has been worked hard for, I have a draft in a submission latex format which I did not share but I shared a preliminary write up in a rough draft in a google docs format to see how it will assessed as CS 830 since CS 830 is more robotics focussed and less on other AI topics such as Natural Language Processing and Understanding. 
+
+2) My final course project for CS 830 is on Natural Language Understanding and I also shared it with Natural Language Understanding experts in the field for seeking feedback and evaluation of my final course project which is actually my work since early Jan 2025 as a personal project.
+
+Intro to AI is a repeat class for me since my prior work required me to learn these skills proactively for my own learning for a job as a research programmer in 2016-2018 at Carnegie Mellon University and I have also been more focussed on my research in Natural Language Understanding, as I lost time between relocating between universities for my safety.
+
 ## May 2024 - Aug 2024 : Self Study + Research Assistant works/status for Information Retrieval & neurosymbolic Methods
 
 For employment verification: please contact <a href="http://www.theworknumber.com/"> the work number </a>.
@@ -81,24 +117,6 @@ I started working on this as a volunteer participant for giving knowledge transf
 ### <a href="https://api.badgr.io/public/assertions/oq0vp12ERfq3G495a62BTQ?identity__email=Sushma.Akoju%40unh.edu">Responsible Conduct of Research & Scholarly Activity for Incoming PhD Students</a>
 
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/oq0vp12ERfq3G495a62BTQ?identity__email=Sushma.Akoju%40unh.edu"><img width="120px" height="120px" src="https://media.badgr.com/uploads/badges/assertion-oq0vp12ERfq3G495a62BTQ.png"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Responsible Conduct of Research &amp; Scholarly Activity for Incoming PhD Students</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>Nov 18, 2024</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> Sushma Akoju</span></p><script async="async" src="https://badgr.com/assets/widgets.bundle.js"></script></blockquote>
-
-## Jan 2025 - May 2025, Teaching Assistant, UNH
-
-For employment verification: please contact <a href="http://www.theworknumber.com/"> the work number </a>.
-
-- I work as a Teaching Assistant for Machine Learning course. Responsibilities are to conduct Office Hours and grading homework assignments.
-
-### Self-volunteered responsibilities outside of assigned TA responsibilities:
-
-- Responding to the questions on the Piazza to help students and designing grading rubric for each homework assignment.
-
-## March 2025 Guest Lecture on AI for Academic Writing, under supervision of Prof. Jessica Bolker
-
-- I was given a chance by Prof. Jessica Bolker to give a guest lecture on <a href="https://googleslides.com">AI for Academic Writing</a> for BIOL 950 Science Communication and BIOL 902 Scientific Writing during March 3rd 2025 and March 7th 2025 respectively.
-
-- The presentation was focussed on ethical, scientific and functional pros and cons of using Large Language Models (GPTx, Claude AI and DeepSeek R1) for science writing.
-
-- It was a great learning experience and fun working with Prof. Jessica Bolker!
 
 ### Note
 
