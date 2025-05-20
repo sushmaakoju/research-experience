@@ -19,7 +19,7 @@ In today's digital environment, information integrity faces numerous challenges:
 - Research on these concerns is growing, as highlighted in the [arXiv study on generative AI misuse](https://arxiv.org/pdf/2406.13843) and [DeepMind's research on AI misuse patterns](https://deepmind.google/discover/blog/mapping-the-misuse-of-generative-ai)
 - The burden of disproving false information should not fall on targeted individuals
 
-## My Research and Verification
+## My Research and Authorship Verification
 
 - My academic work is available at [my research experience repository](https://github.com/sushmaakoju/research-experience)
 - My first-author publication at ACL, NLRSE 2023: [arxiv.org/abs/2307.05034](https://arxiv.org/abs/2307.05034)
@@ -36,6 +36,21 @@ I am dedicated to supporting initiatives that promote:
 - Resources for those affected by various forms of harassment or violence
 
 For those seeking support or resources related to any of these issues, I can help connect you with appropriate confidential services.
+
+## International Student Advocacy
+
+As an international student in computing, I've observed challenges that deserve broader recognition:
+
+- International students can face unique vulnerabilities within academic power structures
+- Contribution attribution disparities may occur based on national origin or immigration status
+- Academic evaluation should be based on merit rather than personal relationships or demographics
+- The intersection of visa dependencies and academic progress creates additional pressures
+
+I support creating academic environments where all students receive equal opportunity, recognition, and 
+protection regardless of national origin or immigration status. Faculty and leadership have a crucial 
+responsibility to foster safe workplaces, actively mitigate hostility, and model professional conduct that 
+upholds the dignity of all students. Progress in academia requires not only advancing research but also advancing 
+equity and inclusion practices that benefit the entire scientific community.
 
 ## Acknowledgments
 
