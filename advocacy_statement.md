@@ -44,6 +44,26 @@ As a PhD student & researcher in Natural Language Understanding and Natural Lang
 - I strategically withdraw from engagements where individuals attempt to "fix" non-existent problems rather than 
   engage in genuine dialogue—such approaches reveal underlying assumptions that underestimate my capabilities or 
   presumptions about my intellectual contributions.
+  
+## Enrollment, Employment and Authorship Verification & Attributions
+
+For enrollment verification, employment verification and any other confidential information about extenuating circumstances, please contact sakojuj2014@gmail.com for forensically verified AND legally attested copies of admission acceptance letters, enrollment verification as well as timeline of extenuating circumstances.
+
+### Note
+
+- My projects that were (done or completed) after July 17th 2023 after which I am not part of any grant funding and as I do not work with the PI of <a href="https://www.darpa.mil/research/programs/automating-scientific-knowledge-extraction-modeling">SKEMA</a>. All of my works done or completed after July 17th 2023, are volunteer works and are presently being reviewed by and may have potential authorship from - Natural Language Understanding experts and is outside scope of the said program.
+
+- Any unconsented written distribution of my works with the said deadline of July 17th 2023 and shared with PIs of <a href="https://www.darpa.mil/research/programs/automating-scientific-knowledge-extraction-modeling">SKEMA</a> would potentially create unneccessary complications for the party that distributed without consent and awareness of both PIs of <a href="https://www.darpa.mil/research/programs/automating-scientific-knowledge-extraction-modeling">SKEMA</a> and me. I do not work with PIs of <a href="https://www.darpa.mil/research/programs/automating-scientific-knowledge-extraction-modeling">SKEMA</a> since July 17th 2023.
+
+- My projects that were (done or completed) after September 25th 2024 after which I am not part of any grant funding and as I do not work with the PI of **NSF Award Number: 1846017**. All of my works done or completed after Sep 25th 2024, are volunteer works and are presently being reviewed by and may have potential authorship from - Natural Language Understanding experts and is outside scope of the said program/grant award.
+
+- Any unconsented written distribution of my works after the said deadline of September 25th 2024 and shared with PIs of **NSF Award Number: 1846017** would potentially create unneccessary complications for the party that distributed without consent and awareness of both PI of **NSF Award Number: 1846017** and me. I do not work with PI of **NSF Award Number: 1846017** since Sep 25th 2024.
+
+- Any use of my works towards new or existing grant applications/funding/any other works, without my explicit consent and knowledge is unauthorized. Such unauthorized use creates potential authorship conflicts as these works were shared with other Natural Language Understanding experts.
+
+- I was not informed if any of my projects were used for NSF grant applications or other funding opportunities. Had such information been provided to me, I would have included proper acknowledgment. **The absence of such disclosure to me serves as evidence of NO association between my works and any grants/funding. For authorship verification, please contact sakoju2014@gmail.com.**
+
+- If anyone contacts you regarding these works without my authorization, please report this to sakoju2014@gmail.com for authorship verification.
 
 ### Ethical Standards
 
@@ -66,6 +86,7 @@ As a PhD student & researcher in Natural Language Understanding and Natural Lang
   
   ### Personal Identification
   - <a href="https://en.wikipedia.org/wiki/Cisgender#:~:text=The%20word%20cisgender%20(often%20shortened,or%20prejudice%20favoring%20cisgender%20people).">I am a cisgender female and my pronouns are: she/her/her. </a>
+
 
 ### Position
 
@@ -150,6 +171,14 @@ communities:
 
 - **This following note is left as-is written by me and was NOT supplied to Claude AI for rephrasing.** 
 **<a href="https://docs.google.com/document/d/1ak_XRk5j5ZHixHUxXeqaiCeeaNxXySOlH1kIeEH3DXE/edit?tab=t.0#heading=h.oqdzbed1ipm8">How Can AI Accelerate Science, and How Can Our Government Help?</a>** : This work highlights helpful perspectives and modern-day research and suggests a shift from "lone ranger" paradigm in scientific research towards "community scientific discovery". I second the suggestions and recommendations from this work. I urge the readers/visitors of my repository to read this work from Prof. Tom Mitchell, who is my mentor. Thank you so much for your visit to my repository and reading this if you arrived all the way until this sentence.:-) 
+
+## References:
+1. <a href="https://www.law.cornell.edu/uscode/text/18/35">18 U.S. Code § 35 - Imparting or conveying false information</a>
+2. <a href="https://www.thefederalcriminalattorneys.com/false-information">18 U.S. Code § 1038 - False Information and Hoaxes</a>
+3. <a href="https://www.law.cornell.edu/regulations/washington/WAC-72-120-110">Prohibited student conduct</a>
+4. <a href="https://www.law.cornell.edu/regulations/tennessee/Tenn-Comp-R-Regs-1720-07-01-.12">HONOR STATEMENT</a>
+"Plagiarism is using the intellectual property or product of someone else without giving proper credit. The undocumented use of someone else's words or ideas in any medium of communication (unless such information is recognized as common knowledge) is a serious offense, subject to disciplinary action that may include failure in a course and/or dismissal from the University."
+5. 
 
 ## Acknowledgments
 

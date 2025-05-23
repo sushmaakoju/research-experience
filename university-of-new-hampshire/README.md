@@ -1,8 +1,12 @@
 # My contributions, achievements at University of New Hampshire
 
-For enrollment verification, the professors and officials preferred that you contact <a href="https://www.unh.edu/registrar/registration/enrollment-verification"> Enrollment Verification, University of New Hampshire</a>.
+## Enrollment, Employment and Authorship Verification and Attributions
 
-For employment verification: please contact <a href="http://www.theworknumber.com/"> Employment Verification, University of New Hampshire </a>.
+For enrollment verification, employment verification and any other confidential information about extenuating circumstances, please contact sakojuj2014@gmail.com for forensically verified AND legally attested copies of admission acceptance letters, enrollment verification as well as timeline of extenuating circumstances.
+
+<!--For enrollment verification, the professors and officials preferred that you contact <a href="https://www.unh.edu/registrar/registration/enrollment-verification"> Enrollment Verification, University of New Hampshire</a>.-->
+<!---->
+<!--For employment verification: please contact <a href="http://www.theworknumber.com/"> Employment Verification, University of New Hampshire </a>.-->
 
 ## Volunteer work as an experienced student
 
@@ -21,10 +25,20 @@ For employment verification: please contact <a href="http://www.theworknumber.co
 For employment verification: please contact <a href="http://www.theworknumber.com/"> the work number </a>.
 
 - I work as a Teaching Assistant for Machine Learning course. Responsibilities are to conduct Office Hours and grading homework assignments.
+- This job does NOT have an appraisal as per policy.
+- For employment verification/offer and delrivered job responsibilities, please contact sakoju2014@gmail.com.
 
 ### Self-volunteered responsibilities outside of assigned TA responsibilities:
 
 - Responding to the questions on the Piazza to help students and designing grading rubric for each homework assignment.
+
+### Observations from my analysis
+
+- The problem questions within homework assignments of this class were intentionally left open-ended by the instructor due to vastly available internet solutions and the assignments have very less weight on the final grade. This nearly restricts the scope to give zero-point score. This renders that there is ano accurate correct answer, but there are several seemingly-correct answers but there are potentially fewer true-correct answers (ground truth). This brings new aspects that students who do not follow default solution based on class lecture materials, would end up learning it while learning other correct/seemingly-correct solutions.
+
+- The homework assignments still require executing the code blocks in each one of the submissions. This is because they are programming assignments and submissions include different programming languages: julia, python, R.
+
+- Since there is no appraisal for this job, as I am an International student, I want safeguard myself from any potential false targets from anyone who is unaware of aforementioned limitations.
 
 ## March 2025 Guest Lecture: AI for Academic Writing
 
@@ -40,6 +54,10 @@ This collaborative opportunity with Professor Bolker provided valuable experienc
 [Presentation materials available upon request]
 
 ## BIOL 950 Science Communication Project: First Order Logic for Everyday Reasoning
+
+#### Note
+
+This is my initiative to spread awareness of First Order Logic as a tool for reasoning in news/social media for fact/logical verification. Logic has become an occult subject similar to many AI and computer science subjects, referring to public opinion. With the advent of LLMs, spreading awareness on First Order Logic sems to have made it easier to self-learn using Human-LLM assisted learning. This draft tutorial is fully written and prepared by me. It was not reviewed by anyone.  https://tinyurl.com/fol-as-a-tool I would be uploading a youtube video in a few days, while I review my draft on First Order Logic. I am happy to provide any authorship verification of this document as needed. Please contact sakoju2014@gmail.com. I also could not share many details during planning stage with anyone due to other demanding priorities.
 
 ### Project Overview
 
@@ -78,10 +96,20 @@ This repository contains my final project for CS 830 (Intro to AI), focused on N
 
 ### Development Timeline
 
-- Work on this project began in January 2025 as a personal research initiative
+- Work on this project began in **January 2025** as a personal research initiative
 - A preliminary draft was submitted for course assessment
 - A complete LaTeX draft has been developed (not publicly shared)
-- External feedback is being sought from Natural Language Understanding experts in the field
+- External feedback is being sought from Natural Language Understanding experts in the field as this project is out of scope of CS 830 and Robotics lab, UNH.
+
+- My projects that were (done or completed) after September 25th 2024 after which I am not part of any grant funding and as I do not work with the PI of **NSF Award Number: 1846017**. All of my works done or completed after Sep 25th 2024, are volunteer works and are presently being reviewed by and may have potential authorship from - Natural Language Understanding experts and is outside scope of the said program/grant award.
+
+- Any unconsented written distribution of my works after the said deadline of September 25th 2024 and shared with PIs of **NSF Award Number: 1846017** would potentially create unneccessary complications for the party that distributed without consent and awareness of both PI of **NSF Award Number: 1846017** and me. I do not work with PI of **NSF Award Number: 1846017** since Sep 25th 2024.
+
+- **Please refer to my statement of advocacy and disclaimer for more details: <a href="https://github.com/sushmaakoju/research-experience/blob/main/advocacy_statement.md#note">Note on authorship and attributions towards any existing/new grant award/programs/any other works/collaborations.</a>**
+
+#### Note
+
+- Anyone contacting you about any of these works, without my authorship and without my explicit consent, please report to sakoju2014@gmail.com for authorship verification.
 
 ### Academic Context
 
@@ -94,6 +122,7 @@ The complete project documentation is available upon appropriate academic reques
 ## May 2024 - Aug 2024 : Self Study + Research Assistant works/status for Information Retrieval & neurosymbolic Methods
 
 For employment verification: please contact <a href="http://www.theworknumber.com/"> the work number </a>.
+Note: **Please refer my statement of advocacy and disclaimer: <a href="https://github.com/sushmaakoju/research-experience/blob/main/advocacy_statement.md">Disclaimer and Advocacy Statement, 2025</a>**
 
 - May 15th - May 29th 2024 <a href="https://docs.google.com/document/d/1lBdI0dPcvcqz4ixG4TzM9RC59AZXjuEzSCQRitmg-eU/edit?usp=sharing">Study & Research Idea formation: to generate Atomic facts and Boolean Questions from a Paragraph (doc) </a>
 - June 2024: <a href="https://github.com/sushmaakoju/LLMJudge">LLMJudge challenge: helping team member run it on Google Colab</a>
@@ -109,6 +138,22 @@ For employment verification: please contact <a href="http://www.theworknumber.co
 - September 2024: I initiated and worked with OpenAI EDU team at the University for getting the educational license for teaching OpenAI GPTx tools, for AI courses at UNH, CS department.
 
 ## My presentation on Proof systems Prior to University of New Hampshire : Sep 9th 2024 - Oct 1st 2024
+
+#### Note
+
+- My projects that were (done or completed) after September 25th 2024 after which I am not part of any grant funding and as I do not work with the PI of **NSF Award Number: 1846017**. All of my works are volunteer and are presently being reviewed and potential authorship by other Natural Language Understanding experts and is outside scope of the said award.
+
+- Any unconsented written distribution of my works with the said deadline of September 25th 2024 and shared with PIs of **NSF Award Number: 1846017** would potentially create unneccessary complications for the party that distributed without consent and awareness of both PI of **NSF Award Number: 1846017** and me. I do not work with PI of **NSF Award Number: 1846017** since Sep 25th 2024.
+
+- Any use of my works in new or existing grant applications/funding without my explicit consent and knowledge is unauthorized. Such unauthorized use creates potential authorship conflicts as these works were shared with other Natural Language Understanding experts.
+
+- **Please refer to my statement of advocacy and disclaimer: <a https://github.com/sushmaakoju/research-experience/blob/main/advocacy_statement.md#note">Note on authorship and attributions towards any existing/new grant award/programs.</a>**
+
+- I was not informed if any of my projects were used for NSF grant applications or other funding opportunities. Had such information been provided to me, I would have included proper acknowledgment. **The absence of such disclosure to me serves as evidence of NO association between my works and any grants/funding. For authorship verification, please contact sakoju2014@gmail.com.**
+
+- If anyone contacts you regarding these works without my authorization, please report this to sakoju2014@gmail.com for authorship verification.
+
+### Work details
 
 - I previously studied about Proof systems, Theory of Computation, Linguistics, First Order Logic, Second Order Logic, Decidability, Godel's theorem, Symbolic Logic, Semiotics, etc. My powerpoint slides attempt to depict how proof theory and systems intersect with each one of these theoretical topics and can help with assimilating the information for better understanding:
 
@@ -151,6 +196,9 @@ I started working on this as a volunteer participant for giving knowledge transf
 
 <a href="https://github.com/sushmaakoju/lean-theorem-proving"> Lean Theorem proving, UNH</a>
 
+- This project is outside of September 25th 2024 after which I am not part of any grant funding and is not part of NSF Award Number: 1846017.
+Note: **Please refer my statement of advocacy and disclaimer: <a href="https://github.com/sushmaakoju/research-experience/blob/main/advocacy_statement.md">Disclaimer and Advocacy Statement, 2025</a>**
+
 ## Completed Certifications
 
 ### <a href="https://api.badgr.io/public/assertions/oq0vp12ERfq3G495a62BTQ?identity__email=Sushma.Akoju%40unh.edu">Responsible Conduct of Research & Scholarly Activity for Incoming PhD Students</a>
@@ -159,7 +207,7 @@ I started working on this as a volunteer participant for giving knowledge transf
 
 ### Note
 
-Any research works done after Sep 25th 2024 were outside the scope of funded projects. My works after Sep 25th 2024 do remain as volunteer works except that of Teaching Assistant work.
+Any research works done after Sep 25th 2024 were outside the scope of funded projects. My works after Sep 25th 2024 do remain as volunteer works except that of Teaching Assistant work. 
 
 ### Cite this repository
 

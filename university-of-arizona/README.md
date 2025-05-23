@@ -1,5 +1,17 @@
 # University of Arizona Aug 2022 - Summer 2024
 
+## Enrollment, Employment and Authorship Verification and Attributions
+
+For enrollment verification, employment verification and any other confidential information about extenuating circumstances, please contact sakojuj2014@gmail.com for forensically verified AND legally attested copies of admission acceptance letters, enrollment verification as well as timeline of extenuating circumstances.
+
+### Note
+
+- My projects that were (done or completed) after July 17th 2023 after which I am not part of any grant funding and as I do not work with the PI of <a href="https://www.darpa.mil/research/programs/automating-scientific-knowledge-extraction-modeling">SKEMA</a>. All of my works done or completed after July 17th 2023, are volunteer works and are presently being reviewed by and may have potential authorship from - Natural Language Understanding experts and is outside scope of the said program.
+
+- Any unconsented written distribution of my works with the said deadline of July 17th 2023 and shared with PIs of <a href="https://www.darpa.mil/research/programs/automating-scientific-knowledge-extraction-modeling">SKEMA</a> would potentially create unneccessary complications for the party that distributed without consent and awareness of both PIs of <a href="https://www.darpa.mil/research/programs/automating-scientific-knowledge-extraction-modeling">SKEMA</a> and me. I do not work with PIs of <a href="https://www.darpa.mil/research/programs/automating-scientific-knowledge-extraction-modeling">SKEMA</a> since July 17th 2023.
+
+- **Please refer to my statement of advocacy and disclaimer for more details: <a href="https://github.com/sushmaakoju/research-experience/blob/main/advocacy_statement.md#note">Note on authorship and attributions towards any existing/new grant award/programs/any other works/collaborations.</a>**
+
 ## Volunteer work as an experienced student
 
 - I used to explain Machine Learning theorem proofs such as for Support Vector machines, Neural networks, and for NLP algorithms: Edit distance, RNN, LSTM.
@@ -7,11 +19,11 @@
 - I organized some group study for exam preparations for "Advanced Operating Systems".
 - I volunteered to help students with conceptual practice for Automata, Grammars and Languages during Fall 2023, which set the precedent for Teaching-as-a-Research project for Spring 2024 that we presented at UCATT Teaching Exchange Symposium Spring 2025 and at CIRTL Spring 2025 presentations, respectively. <a href="https://docs.google.com/presentation/d/e/2PACX-1vRbvA0UqKzSfkpQTDGErZ9n7_vvTcaXi7D-CWx3Di7ENL4lYaUSILFK0ij8GL5vRw/pub?start=false&loop=false&delayms=3000&slide=id.p8">Presentation of Teaching-as-a-Research project</a>.
 
-## PhD Student
-
-For enrollment verification, the professors and officials preferred that you contact <a href="https://registrar.arizona.edu/records-enrollment/transcripts-verifications/verifications"> Enrollment verification, University of Arizona </a>.
-
-For employment verification, please contact: <a href="https://hr.arizona.edu/employment-verification-request">Employment Verification, University of Arizona</a>.
+<!--## PhD Student-->
+<!---->
+<!--For enrollment verification, the professors and officials preferred that you contact <a href="https://registrar.arizona.edu/records-enrollment/transcripts-verifications/verifications"> Enrollment verification, University of Arizona </a>.-->
+<!---->
+<!--For employment verification, please contact: <a href="https://hr.arizona.edu/employment-verification-request">Employment Verification, University of Arizona</a>.-->
 
 ## NLP Reading group presentations
 
