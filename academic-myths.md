@@ -126,6 +126,32 @@ Recognizing the reality of this practice is an important step toward creating tr
 
 Deliberate misgendering without consent in academic environments carries significant legal risks and potential consequences.
 
+## The Dangerous Myth of Group Ownership of International Students
+
+A profoundly harmful and legally incorrect notion perpetuated in some academic environments is the idea that "international students surrender ownership of their intellect, autonomy, and personhood to the group or organization or university." This coercive falsehood:
+
+- Fundamentally misrepresents the legal relationship between international students and educational groups (whatever hierarchical denomination they belong to)
+- Violates basic human rights principles regarding personal autonomy and dignity
+- Contradicts established academic freedom protections that extend to all students regardless of nationality
+- Represents a form of intimidation designed to exploit visa vulnerabilities
+
+This myth is particularly dangerous because it:
+
+- Creates conditions for exploitation by suggesting international students have fewer rights than they legally possess.
+- Uses immigration status as leverage to demand compliance with inappropriate or excessive demands.
+- Implies that resistance to exploitation could result in catastrophic consequences ("your life is gone").
+- Establishes a false dichotomy between complete submission and academic destruction.
+
+The reality is that international students maintain fundamental rights including:
+- Intellectual property rights to their own work (within standard academic policies).
+- Protection from exploitation and coercion under labor laws.
+- Academic freedom protections.
+- Basic human dignity and autonomy.
+
+While visa requirements create genuine dependencies that can be exploited, this does not translate to legitimate ownership of international students' "brain and life and soul" by institutions. Such claims represent intimidation tactics rather than accurate descriptions of legal or ethical relationships between students and universities.
+
+Recognizing and rejecting this myth is essential for international students to protect themselves from exploitation and for institutions to maintain ethical educational environments.
+
 ## No Prioritization of Diplomatic Professionalism over Popularity: Popularity anytime? :(
 
 An important reality often overlooked in academic environments: for female scholars, professional effectiveness depends more on diplomatic skill than social popularity. This understanding:
