@@ -1,4 +1,4 @@
-# Addressing Harmful Academic Myths
+# Prebunking and Addressing Harmful Academic Myths
 
 ## Personal identification
 
@@ -126,14 +126,14 @@ Recognizing the reality of this practice is an important step toward creating tr
 
 Deliberate misgendering without consent in academic environments carries significant legal risks and potential consequences.
 
-## The Dangerous Myth of Group Ownership of International Students
+## The Dangerous Myth of Authority Ownership of International Students
 
-A profoundly harmful and legally incorrect notion perpetuated in some academic environments is the idea that "international students surrender ownership of their intellect, autonomy, and personhood to the group or organization or university." This coercive falsehood:
+A profoundly harmful and legally incorrect notion perpetuated in **some, rare** academic environments is the idea that "international students surrender ownership of their intellect, autonomy, and personhood to the authority structure or power hierarchy." Albeit a rare occurrence, but has a profound influence over other authority structures outside of the ones that created it, as they pass the torch of non-existent ownership by vocalizing incorrectly on behalf of international students, without engaging in any conversation with the students. This coercive falsehood:
 
-- Fundamentally misrepresents the legal relationship between international students and educational groups (whatever hierarchical denomination they belong to)
-- Violates basic human rights principles regarding personal autonomy and dignity
-- Contradicts established academic freedom protections that extend to all students regardless of nationality
-- Represents a form of intimidation designed to exploit visa vulnerabilities
+- Fundamentally misrepresents the legal relationship between international students and authority entities.
+- Violates basic human rights principles regarding personal autonomy and dignity.
+- Contradicts established academic freedom protections that extend to all students regardless of nationality.
+- Represents a form of intimidation designed to exploit visa vulnerabilities.
 
 This myth is particularly dangerous because it:
 
@@ -148,9 +148,9 @@ The reality is that international students maintain fundamental rights including
 - Academic freedom protections.
 - Basic human dignity and autonomy.
 
-While visa requirements create genuine dependencies that can be exploited, this does not translate to legitimate ownership of international students' "brain and life and soul" by institutions. Such claims represent intimidation tactics rather than accurate descriptions of legal or ethical relationships between students and universities.
+While visa requirements create genuine dependencies that can be exploited, this does not translate to legitimate ownership of international students' "brain, life and soul" by any authority structure. Such claims represent intimidation tactics rather than accurate descriptions of legal or ethical relationships between students and authority entities.
 
-Recognizing and rejecting this myth is essential for international students to protect themselves from exploitation and for institutions to maintain ethical educational environments.
+Recognizing and rejecting this myth is essential for international students to protect themselves from exploitation and for educational communities to maintain ethical learning environments.
 
 ## No Prioritization of Diplomatic Professionalism over Popularity: Popularity anytime? :(
 

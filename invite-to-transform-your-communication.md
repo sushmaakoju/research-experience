@@ -19,3 +19,4 @@ The goal isn't to suppress legitimate concerns but to express them in ways that:
 This approach can help prevent the escalation of academic disagreements into personal hostilities while still allowing for robust intellectual exchange. It represents a path forward that honors both free expression and the responsibility to maintain environments where all scholars can contribute without fear of harassment or discrimination.
 
 When human and an LLM get together, they have potential to create constructive dialog and communication.
+For example such collaborated work of human and an LLM can address <a href="https://github.com/sushmaakoju/research-experience/blob/main/academic-myths.md">Prebunking Academic Myths and consequences of such myths</a> which are difficult problems to navigate.

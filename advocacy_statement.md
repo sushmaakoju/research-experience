@@ -15,6 +15,8 @@ Learning from AI that was trained by human-annotated labels and AI architectures
 
 This is not intended to target anyone in specific. It is implicit why an advocacy statement is much needed in the present day academic game book and game play and conspiracy creators who work overtime, (more than their own research works) in creating obstacles. I am glad to introduce this approach to anyone: domestic or international students. 
 
+ <a href="https://github.com/sushmaakoju/research-experience/blob/main/authorship-declaration-note.md">Original authorship decalaration note</a>
+ 
 ### Purpose of this advocacy
 
 This advocacy statement from me, is drawn from my three Masters programs, demonstrates my experience from criminal psychological, criminal justice and forensic scientific studies as well as my hard work and hard-earned skills in Natural Language Understanding, effective use of AI tools & algorithms for evidence-based representation, and ability and acumen to read between the lines with continuous self-reflection and self-feedback. Developing a strong irrefutable and decidable logical proof requires strong understanding and analysis of Natural Language as well as statistical and algorithmic understanding and scope of the same. 
@@ -178,12 +180,15 @@ communities:
 "Plagiarism is using the intellectual property or product of someone else without giving proper credit. The undocumented use of someone else's words or ideas in any medium of communication (unless such information is recognized as common knowledge) is a serious offense, subject to disciplinary action that may include failure in a course and/or dismissal from the University."
 5. Please read my authorship note at: <a href="https://github.com/sushmaakoju/research-experience/blob/main/authorship-note.md">Authorship Note on Authorization and Consent</a>
 6. Please read the <a href="https://github.com/sushmaakoju/research-experience/blob/main/a-case-study-of-stereotypes.md">A hypothetical case study: orchestrating and coordinating sexual harassment based on stereotypes and exploitation.</a>
-7. <a href="https://github.com/sushmaakoju/research-experience/blob/main/academic-myths.md">Addressing Harmful Academic Myths</a>
+7. <a href="https://github.com/sushmaakoju/research-experience/blob/main/academic-myths.md">Prebunking & Addressing Harmful Academic Myths</a>
+8. <a href="https://github.com/sushmaakoju/research-experience/blob/main/authorship-declaration-note.md">Original authorship decalaration note</a>
 
 ## Acknowledgments
 
 The advocacy statement on this page were refined with assistance from Anthropic's Claude AI assistant to ensure 
 clarity and professional communication.
+
+Please checkout <a href="https://github.com/sushmaakoju/research-experience/blob/main/authorship-declaration-note.md">Original authorship decalaration note</a>.
 
 I extend my **unequivocal timeless gratitude** to all professors and teachers for everything that was "thrown" at me. These challenges provided opportunities to demonstrate my acumen, hard work and reasoning capabilities in addressing difficult situations and traps and coming out successful from it.
 
