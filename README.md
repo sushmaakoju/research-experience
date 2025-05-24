@@ -6,9 +6,9 @@
 
 0. <a href="https://github.com/sushmaakoju/research-experience/blob/main/learning-as-a-hobby/neurosymbolic-methods-study.md">Neurosymbolic methods: From learning as a hobby towards academic goals</a>
 
-1. <a href="https://github.com/sushmaakoju/research-experience/blob/main/advocacy_statement.md">My Disclaimer and Advocacy Statement, 2025</a>
+1. <a href="https://github.com/sushmaakoju/research-experience/blob/main/first-order-logic-as-a-tool.md">Steps taken to spread awareness on First Order Logic for reasoning in Language Understanding of our daily life</a>
 
-2. <a href="https://github.com/sushmaakoju/research-experience/blob/main/first-order-logic-as-a-tool.md">Steps taken to spread awareness on First Order Logic for reasoning in Language Understanding of our daily life</a>
+2. <a href="https://github.com/sushmaakoju/research-experience/blob/main/README.md#advocacy-statement-authorship-verification-and-case-studies">Advocacy Statement, Authorship verification and case studies</a>
 
 3. <a href="https://github.com/sushmaakoju/research-experience/tree/main/learning-as-a-hobby#teaching-relevant-certifications--case-studies---career-pathway">Teaching relevant experience</a>
 
@@ -38,7 +38,14 @@
     href="https://badges.wes.org/Evidence?i=48995b02-2e99-4670-906a-6f4063642959&type=us">from World Education 
     Services (WES)</a>.
 
-14. A note about next steps: <a href="https://github.com/sushmaakoju/research-experience/blob/main/note-about-programming.md"> Note about programming </a>
+## Advocacy Statement, Authorship verification and case studies
+
+1.  <a href="https://github.com/sushmaakoju/research-experience/blob/main/advocacy_statement.md">Advocacy Statement and Personal/Professional boundaries</a>
+2.  <a href="https://github.com/sushmaakoju/research-experience/blob/main/authorship-note.md">Authorship Note on Authorization and Consent</a>
+3.  <a href="https://github.com/sushmaakoju/research-experience/blob/main/invite-to-transform-your-communication.md">An Open Invitation to Transform Communication</a>
+4. <a href="https://github.com/sushmaakoju/research-experience/blob/main/note-about-programming.md">My Career Path & Professional Background & note on stereotypes</a>
+5. <a href="https://github.com/sushmaakoju/research-experience/blob/main/academic-myths.md">Addressing Harmful Academic Myths</a>
+6.  <a href="https://github.com/sushmaakoju/research-experience/blob/main/a-case-study-of-stereotypes.md">A hypothetical case study: orchestrating and coordinating sexual harassment</a>
 
 ## Causes I support:
 
