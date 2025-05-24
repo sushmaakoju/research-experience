@@ -1,17 +1,43 @@
 
 ## Authorship Note on Authorization and Consent
 
-- I do not work with the PI of <a href="https://www.darpa.mil/research/programs/automating-scientific-knowledge-extraction-modeling">SKEMA</a>. All of my works done or completed after July 17th 2023, are volunteer works and are presently being reviewed by and may have potential authorship from - Natural Language Understanding experts and is outside scope of the said program <a href="https://www.darpa.mil/research/programs/automating-scientific-knowledge-extraction-modeling">SKEMA</a>.
+### Project Affiliations and Boundaries
 
-- Any unconsented written distribution of my works after the said deadline of July 17th 2023 and shared with PIs of <a href="https://www.darpa.mil/research/programs/automating-scientific-knowledge-extraction-modeling">SKEMA</a> would potentially create unneccessary complications for the party that distributed without consent and awareness of both PIs of <a href="https://www.darpa.mil/research/programs/automating-scientific-knowledge-extraction-modeling">SKEMA</a> and me. I do not work with PIs of <a href="https://www.darpa.mil/research/programs/automating-scientific-knowledge-extraction-modeling">SKEMA</a> since July 17th 2023.
+- As of July 17th, 2023, I have no professional affiliation with the DARPA SKEMA program or its Principal Investigators. Any work completed after this date represents my independent volunteer contributions, currently under review by Natural Language Understanding experts outside the scope of the SKEMA program.
 
-- I do not work with the PI of **NSF Award Number: 1846017**. All of my works done or completed after Sep 25th 2024, are volunteer works and are presently being reviewed by and may have potential authorship from - Natural Language Understanding experts and is outside scope of the said program/grant award **NSF Award Number: 1846017**.
+- As of September 25th, 2024, I have no professional affiliation with NSF Award Number: 1846017 or its Principal Investigators. Any work completed after this date represents my independent volunteer contributions, currently under review by Natural Language Understanding experts outside the scope of this NSF award.
 
-- Any unconsented written distribution of my works after the said deadline of September 25th 2024 and shared with PIs of **NSF Award Number: 1846017** would potentially create unneccessary complications for the party that distributed without consent and awareness of both PI of **NSF Award Number: 1846017** and me. I do not work with PI of **NSF Award Number: 1846017** since Sep 25th 2024.
+### Distribution and Attribution Protocols
 
-- Any use of my works based on third parties attempted violation of unconsented distribution towards new or existing grant applications/funding/any other works, without my explicit consent and knowledge is unauthorized. Such unauthorized use creates potential authorship conflicts as these works were shared with other Natural Language Understanding experts. 
+- Unauthorized distribution of my work products to either program after the respective termination dates (July 17th, 2023 for SKEMA; September 25th, 2024 for NSF Award 1846017) may create compliance complications for all parties involved. Please respect these professional boundaries.
 
-- I was not informed if any of my projects were used for NSF grant applications or other funding opportunities. Had such information been provided to me, I would have included proper acknowledgment. **The absence of such disclosure to me serves as evidence of NO association between my works and any grants/funding. For authorship verification, please contact sakoju2014@gmail.com.**
+- I have formally notified appropriate reporting agencies with documentation regarding any continued association with NSF Award 1846017 beyond September 25th, 2024. Please direct any inquiries regarding this award to the appropriate program officers rather than contacting me.
+
+### Professional Conduct and Documentation
+
+- I maintain comprehensive documentation of all professional communications and contributions. Public recording in accordance with applicable laws may be employed to ensure accurate representation of interactions.
+
+- I uphold strict adherence to federal policies and research ethics guidelines. Any instance where pressure was applied to compromise these standards has been appropriately documented and reported to relevant authorities.
+
+### Professional References and Communications
+
+- I have not requested recommendation letters from the Principal Investigators of SKEMA (post July 17th, 2023) or NSF Award 1846017 (post September 25th, 2024) or their colleagues, to maintain professional separation and protect confidentiality. 
+
+- I have not engaged in any backdoor discussion regarding the said parties before or now. Refer the section "Professional Conduct and Documentation" for references and if you need any attested documentation of the same.
+
+- Third-party inquiries to these investigators regarding my work fall outside my authorization and responsibility, as maintaining appropriate distance is necessary for safety reasons aligned with legal guidance.
+
+- I maintain strict professional boundaries in situations involving sensitive circumstances. Attempting to exploit individuals who have experienced significant confidential hardships violates ethical standards and academic integrity.
+
+- I have not authorized disclosure of confidential information to third parties. Unauthorized releases may be subject to legal review under appropriate confidentiality protection frameworks.
+
+- My professional references are maintained through independent sources unaffiliated with these research groups.
+
+### Authorization Requirements
+
+- Use of my intellectual contributions in any grant applications, publications, or other scholarly works requires explicit prior consent. My work has been shared with multiple Natural Language Understanding experts, creating potential authorship conflicts if used without proper authorization.
+
+- For verification of authorship claims or to request proper attribution protocols, please contact sakoju2014@gmail.com.
 
 ## Acknowledgments
 
