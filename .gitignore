@@ -6,6 +6,7 @@
 !.vscode/extensions.json
 !.vscode/*.code-snippets
 .DS_Store
+professional-impact-statement.md
 
 # Local History for Visual Studio Code
 .history/
