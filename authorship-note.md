@@ -21,6 +21,8 @@
 
 ### Professional References and Communications
 
+Reference to <a href="https://github.com/sushmaakoju/research-experience/blob/main/professional-impact-statement.md">Professional Impact Statement</a>:
+
 - I have not requested recommendation letters from the Principal Investigators of SKEMA (post July 17th, 2023) or NSF Award 1846017 (post September 25th, 2024) or their colleagues, to maintain professional separation and protect confidentiality. 
 
 - I have not engaged in any backdoor discussion regarding the said parties before or now. Refer the section "Professional Conduct and Documentation" for references and if you need any attested documentation of the same.
