@@ -46,6 +46,10 @@ Reference to <a href="https://github.com/sushmaakoju/research-experience/blob/ma
 
 - I have not authorized disclosure of confidential information to third parties. Unauthorized releases may be subject to legal review under appropriate confidentiality protection frameworks.
 
+- I have not authorized or consented to anyone to contact my family or my partner. Unauthorized and unconsented contact with family and partner, have been reported. Kindly respect this boundary.
+
+- Given that certain restrictions apply, those restrictions should apply to people creating the extenuating circumstances. Either ways, the solution will not be with me as they need to contact the source of the problem. Therefore I am unable to respond to any communication/explanations expected from me as I refuse to take any accountability for circumstances not created by me and actions/words not done/said by me. Thanks in advance for your kind understanding.
+
 - My professional references are maintained through independent sources unaffiliated with these research groups.
 
 ### Note on Privacy and Release of any future public repositories

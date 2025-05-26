@@ -1,23 +1,26 @@
 ## Causes initiated by me
 
+Author of this page and idea: Sushma Anand Akoju.
+For authorship verification: please contact sakoju2014@gmail.com . Anyone else other than listed authors claiming ownership of this page needs to be reported to sakoju2014@gmail.com .
+
 ## Steps taken to spread awareness on First Order Logic for reasoning in Language Understanding of our daily life
 
 The following materials,
-<a href="https://tinyurl.com/fol-as-a-tool">First Order Logic as a Tool</a> is written and prepared by me. It was 
-NOT reviewed by anyone. I am happy to provide any authorship verification of this document as needed.
+<a href="https://tinyurl.com/fol-as-a-tool">First Order Logic as a Tool</a> is written and prepared by me. It was NOT reviewed by anyone. I am happy to provide any authorship verification of this document as needed. Anyone else other than listed authors claiming ownership of this page needs to be reported to sakoju2014@gmail.com .
 
 ### Note
+
 Navigating situations where one's integrity is questioned presents unique challenges. When faced with 
-misinformation or false allegations, individuals often struggle to effectively defend themselves despite having 
-logical reasoning and supporting evidence. There exists an imbalance in how society responds to accusations 
-versus defenses—those who raise allegations frequently receive immediate support, while those defending 
-themselves bear a disproportionate burden of proof that can extend over years.
+misinformation or false allegations, individuals often struggle to effectively defend themselves despite 
+having  logical reasoning and supporting evidence. There exists an imbalance in how society responds to 
+accusations versus defenses—those who raise allegations frequently receive immediate support, while those 
+defending themselves bear a disproportionate burden of proof that can extend over years.
 
 Even when falsification is demonstrated, those who have been wrongfully accused may continue to face being 
-targeted or social consequences. This dynamic affects people across all walks of life, from private individuals 
-to public figures. Addressing this imbalance requires developing robust, verifiable systems that support 
-evidence-based discourse and protect against information misuse, ensuring that verification processes are both 
-reliable and accessible.
+targeted or social consequences. This dynamic affects people across all walks of life, from private 
+individuals to public figures. Addressing this imbalance requires developing robust, verifiable systems that 
+support evidence-based discourse and protect against information misuse, ensuring that verification 
+processes are both reliable and accessible.
 
 To equip yourself to defend against becoming a social target or hazing or 
 misuse of information to defend, you would need tools that are "irrefutable" and also are "decidable".

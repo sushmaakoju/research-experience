@@ -46,7 +46,7 @@
 2.  <a href="https://github.com/sushmaakoju/research-experience/blob/main/authorship-note.md">Authorship Note on Authorization and Consent</a>
 3.  <a href="https://github.com/sushmaakoju/research-experience/blob/main/invite-to-transform-your-communication.md">An Open Invitation to Transform Communication</a>
 4. <a href="https://github.com/sushmaakoju/research-experience/blob/main/note-about-programming.md">My Career Path & Professional Background & note on stereotypes</a>
-5. <a href="https://github.com/sushmaakoju/research-experience/blob/main/academic-myths.md">Prebunking & Addressing Harmful Academic Myths</a>
+5. <a href="https://github.com/sushmaakoju/research-experience/blob/main/myths-explanations.md">Prebunking & Addressing Harmful Common Myths</a>
 6. <a href="https://github.com/sushmaakoju/research-experience/blob/main/authorship-declaration-note.md">Original authorship decalaration note</a>
 7.  <a href="https://github.com/sushmaakoju/research-experience/blob/main/a-case-study-of-stereotypes.md">A hypothetical case study: orchestrating and coordinating sexual harassment</a>
 

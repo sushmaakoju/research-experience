@@ -187,7 +187,7 @@ communities:
 "Plagiarism is using the intellectual property or product of someone else without giving proper credit. The undocumented use of someone else's words or ideas in any medium of communication (unless such information is recognized as common knowledge) is a serious offense, subject to disciplinary action that may include failure in a course and/or dismissal from the University."
 9. Please read my authorship note at: <a href="https://github.com/sushmaakoju/research-experience/blob/main/authorship-note.md">Authorship Note on Authorization and Consent</a>
 10. Please read the <a href="https://github.com/sushmaakoju/research-experience/blob/main/a-case-study-of-stereotypes.md">A hypothetical case study: orchestrating and coordinating sexual harassment based on stereotypes and exploitation.</a>
-11. <a href="https://github.com/sushmaakoju/research-experience/blob/main/academic-myths.md">Prebunking & Addressing Harmful Academic Myths</a>
+11. <a href="https://github.com/sushmaakoju/research-experience/blob/main/myths-explanations.md">Prebunking & Addressing Harmful Academic Myths</a>
 12. <a href="https://github.com/sushmaakoju/research-experience/blob/main/authorship-declaration-note.md">Original authorship decalaration note</a>
 
 ## Acknowledgments

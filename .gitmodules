@@ -1,0 +1,3 @@
+[submodule "my-prompts-for-generating-harmless-texts"]
+	path = my-prompts-for-generating-harmless-texts
+	url = https://github.com/sushmaakoju/my-prompts-for-generating-harmless-texts.git

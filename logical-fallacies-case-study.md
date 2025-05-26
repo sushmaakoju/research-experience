@@ -1,11 +1,14 @@
 
 # Notes on Logical Fallacies and Policy Interpretations
 
+Author of this page and this content & idea: Sushma Anand Akoju.
+For authorship verification: please contact sakoju2014@gmail.com . Anyone else other than listed authors claiming ownership of this page needs to be reported to sakoju2014@gmail.com .
+
 As I have a Masters in Forensic Science and criminal justice, I like to present an example of a almost real-life situation. There is an inherent alignment with logical fallacies, hidden paradoxes/traps and law enforcement penalties. 
 
 ## Example 1: Legal and Ethical Dimensions of Logical Fallacies: A Theoretical Framework
 
-Prompt for example 1: <a href="https://github.com/sushmaakoju/cs-830/blob/main/my_first_example_prompt1_sushma_akoju.png">first prompt for exaample 1</a>
+Prompt for example 1: <a href="https://github.com/sushmaakoju/research-experience/blob/main/my_first_example_prompt1_sushma_akoju.png">first prompt for exaample 1</a>
 
 #### Additional Hypothetical Consideration: Potential Legal Implications
 
@@ -47,7 +50,7 @@ This theoretical scenario underscores the importance of:
 
 ## Example 2: Policy Interpretation Analysis
 
-One of the first prompts for example 2: <a href="https://github.com/sushmaakoju/cs-830/blob/main/my_second_example_prompt1_sushmaakoju.png">first prompt for example 2</a>
+One of the first prompts for example 2: <a href="https://github.com/sushmaakoju/research-experience/blob/main/my_second_example_prompt1_sushmaakoju.png">first prompt for example 2</a>
 
 
 The following example examines a hypothetical situation involving syllabus policies, assignment-specific exceptions, and the logical analysis of potential contradictions leading to legal consequences. This serves as an educational demonstration of:
@@ -131,9 +134,9 @@ I am Sushma Anand Akoju (pronouns: she/her), PhD student, focussed on Natural La
 
 ## Prompts and design
 
-My Prompts for designing the content of section <a href="https://github.com/sushmaakoju/cs-830?tab=readme-ov-file#example-1-legal-and-ethical-dimensions-of-logical-fallacies-a-theoretical-framework">Notes on Logical fallacies and policy</a>
+My Prompts for designing the content of section <a href="https://github.com/sushmaakoju/research-experience?tab=readme-ov-file#example-1-legal-and-ethical-dimensions-of-logical-fallacies-a-theoretical-framework">Notes on Logical fallacies and policy</a>
 
-<a href="https://github.com/sushmaakoju/cs-830?tab=readme-ov-file#example-2-policy-interpretation-analysis">My prompts for the section Notes on Logical Fallacies and Policy Interpretations</a>
+<a href="https://github.com/sushmaakoju/research-experience?tab=readme-ov-file#example-2-policy-interpretation-analysis">My prompts for the section Notes on Logical Fallacies and Policy Interpretations</a>
 
 ### Approach:
 
@@ -152,9 +155,9 @@ My Prompts for designing the content of section <a href="https://github.com/sush
 
 To not fully disclose the complete method that was used (in view of some ongoing work), only one of the first prompts for two examples is included for reference as follows:
 
-Prompt for example 1: <a href="https://github.com/sushmaakoju/cs-830/blob/main/my_first_example_prompt1_sushma_akoju.png">first prompt for exaample 1</a>
+Prompt for example 1: <a href="https://github.com/sushmaakoju/research-experience/blob/main/my_first_example_prompt1_sushma_akoju.png">first prompt for exaample 1</a>
 
-Prompt for example 2: <a href="https://github.com/sushmaakoju/cs-830/blob/main/my_second_example_prompt1_sushmaakoju.png">first prompt for example 2</a>
+Prompt for example 2: <a href="https://github.com/sushmaakoju/research-experience/blob/main/my_second_example_prompt1_sushmaakoju.png">first prompt for example 2</a>
 
 ### Results
 
@@ -165,7 +168,7 @@ Prompt for example 2: <a href="https://github.com/sushmaakoju/cs-830/blob/main/m
 
 ### References of my prior work on First Order Logic: 
 
-<a href="https://github.com/sushmaakoju/cs-830?tab=readme-ov-file#my-prior-works-on-first-order-logic"> My prior works on First Order Logic since 2018 - 2023</a>
+<a href="https://github.com/sushmaakoju/research-experience?tab=readme-ov-file#my-prior-works-on-first-order-logic"> My prior works on First Order Logic since 2018 - 2023</a>
 
 ## My prior works on First Order Logic:
 
