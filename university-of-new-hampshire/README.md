@@ -1,227 +1,92 @@
-# My contributions, achievements at University of New Hampshire
+## Professional Contributions and Achievements at University of New Hampshire
 
-## Enrollment, Employment and Authorship Verification and Attributions
+**Authorship, Enrollment/Employment Verification and Contact Information:**
+For enrollment verification, employment verification, and confidential documentation regarding academic circumstances, please contact sakoju2014@gmail.com for legally attested copies of admission letters, enrollment records, and timeline documentation.
 
-For enrollment verification, employment verification and any other confidential information about extenuating circumstances, please contact sakojuj2014@gmail.com for forensically verified AND legally attested copies of admission acceptance letters, enrollment verification as well as timeline of extenuating circumstances.
+### Volunteer Academic Contributions
 
-<!--For enrollment verification, the professors and officials preferred that you contact <a href="https://www.unh.edu/registrar/registration/enrollment-verification"> Enrollment Verification, University of New Hampshire</a>.-->
-<!---->
-<!--For employment verification: please contact <a href="http://www.theworknumber.com/"> Employment Verification, University of New Hampshire </a>.-->
+**Fall 2024 Initiatives:**
+- Volunteered to learn Lean programming language as a new technical skill.
+- Developed and presented background material on proof systems, logic, automata, formal languages, and theorem provers.
+- Delivered final project presentation on December 5th, 2024, providing educational content for student motivation.
+- I am not affiliated to the Reinforcement lab and I do not work with anyone at Reinforcement Lab.
 
-## Volunteer work as an experienced student
+**Community Engagement:**
+- Volunteer Community Educator for Consent-based Communication at UNHSHARPP, Spring 2025.
+- Participated in UNH 603 Challenge for UNHSHARPP.
 
-- I volunteered to learn a new tool such as Lean programming only for Fall 2024.
-- I volunteered to share the background to <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-new-hampshire#my-presentation-on-proof-systems-prior-to-university-of-new-hampshire--sep-9th-2024---oct-1st-2024">proof systems, logic, automata, languages, turing machine and theorem provers</a>.
+### Recent Employment: Teaching Assistant (January 2025 - May 2025)
 
-- I volunteered to motivate the students on <a href="https://docs.google.com/presentation/d/e/2PACX-1vQCJ_3PrWZp_06_yQPbKDFmGYzWZZpxYI58NY47SRQMiAf6FTisMi9cVYjxAYBQUJH52YJTbdjGsZhd/pub?start=false&loop=false&delayms=3000">Final project presentation, Dec 5th 2024, with a last minute notice to explain with an example to motivate students</a>.
+**Position Details:**
+- Teaching Assistant for Machine Learning course.
+- Primary responsibilities: conducting office hours and grading homework assignments.
+- Position does not include formal performance appraisal per institutional policy.
+- Employment verification available through official channels.
 
-- I am volunteer Community Educator for Consent-based communication at UNHSHARPP, Spring 2025.
-- I volunteered for UNH 603 challenge for UNHSHARPP.
+**Additional Voluntary Contributions:**
+- Responding to student questions on course discussion platforms.
+- Developing grading rubrics for homework assignments.
+- Supporting diverse programming language submissions (Julia, Python, R).
 
-- I was given a chance to present as a guest lecture on AI for Academic writing <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-new-hampshire#march-2025-guest-lecture-on-ai-for-academic-writing-under-supervision-of-prof-jessica-bolker">Guest lecture on AI for Academic writing, focussed on ethical, scientific and functional aspects of Large Language models for Academic writing </a> for BIOL 950 Science Communication and BIOL 902 Scientific Writing classes respectively, **under supervision of Prof. Jessica Bolker.**
+### Guest Lecture: AI for Academic Writing (March 2025)
 
-## Jan 2025 - May 2025, Teaching Assistant, UNH
+**Supervised Academic Presentation:**
+Under the supervision of Professor Jessica Bolker, delivered guest lectures for:
+- BIOL 950: Science Communication (March 3, 2025).
+- BIOL 902: Scientific Writing (March 7, 2025).
 
-For employment verification: please contact <a href="http://www.theworknumber.com/"> the work number </a>.
+The presentation focused on ethical considerations, scientific implications, and practical applications of Large Language Models in academic writing contexts, focussed on AI for academic writing.
 
-- I work as a Teaching Assistant for Machine Learning course. Responsibilities are to conduct Office Hours and grading homework assignments.
-- This job does NOT have an appraisal as per policy.
-- For employment verification/offer and delrivered job responsibilities, please contact sakoju2014@gmail.com.
+### Independent Research Projects
 
-### Self-volunteered responsibilities outside of assigned TA responsibilities:
+**Science Communication Project: First Order Logic for Everyday Reasoning**
+- Developed tutorial materials making formal logic accessible for practical reasoning applications.
+- Created resources for analyzing logical fallacies, paradoxes, and misinformation detection.
+- Project materials: [First Order Logic as a Practical Tool](https://tinyurl.com/fol-as-a-tool).
+- All content independently authored and prepared without external review by me.
 
-- Responding to the questions on the Piazza to help students and designing grading rubric for each homework assignment.
+**CS 830 Final Project: Natural Language Understanding Research**
+- Developed project aligned with NLP/NLU specialization within AI course framework.
+- Work began January 2025 as personal research initiative.
+- Complete LaTeX documentation prepared for external expert review.
+- Project represents intersection of course requirements with my ongoing research interests.
+- Currently this project is being reviewed by Natural Language Understanding experts, as the class's instructional team does not work on Natural Language Understanding.
 
-### Observations from my analysis
+### Previous Research Experience (May - September 2024)
 
-- The problem questions within homework assignments of this class were intentionally left open-ended by the instructor due to vastly available internet solutions and the assignments have very less weight on the final grade. This nearly restricts the scope to give zero-point score. This renders that there is ano accurate correct answer, but there are several seemingly-correct answers but there are potentially fewer true-correct answers (ground truth). This brings new aspects that students who do not follow default solution based on class lecture materials, would end up learning it while learning other correct/seemingly-correct solutions.
+**Research Assistant Position:**
+- Focus on Information Retrieval and Neurosymbolic Methods.
+- Contributions included environment setup, documentation, and analysis work.
+- Professional separation completed September 25th, 2024.
+- All subsequent work represents independent volunteer contributions.
 
-- The homework assignments still require executing the code blocks in each one of the submissions. This is because they are programming assignments and submissions include different programming languages: julia, python, R.
+**Technical Contributions:**
+- Facilitated OpenAI Educational licensing for university AI courses.
+- Developed presentation materials on proof systems and formal logic.
+- Created educational resources bridging theoretical concepts with practical applications.
 
-- Since there is no appraisal for this job, as I am an International student, I want safeguard myself from any potential false targets from anyone who is unaware of aforementioned limitations.
+### Professional Development
 
-## March 2025 Guest Lecture: AI for Academic Writing
+**Completed Certification:**
+- Responsible Conduct of Research & Scholarly Activity for Incoming PhD Students (November 18, 2024)
 
-Under the supervision of Professor Jessica Bolker, I had the opportunity to deliver a guest lecture on the applications of artificial intelligence in academic writing. This presentation was offered to two graduate-level courses:
+### Research Documentation and Attribution
 
-- BIOL 950: Science Communication (March 3, 2025)
-- BIOL 902: Scientific Writing (March 7, 2025)
+**Important Notes:**
+- Works completed after September 25th, 2024 represent independent volunteer contributions.
+- Current projects under review by external Natural Language Understanding experts.
+- All authorship verification requests should be directed to sakoju2014@gmail.com
+- Comprehensive documentation maintained for all professional communications and contributions.
 
-The lecture explored the ethical considerations, scientific implications, and practical advantages and limitations of using Large Language Models (including GPT models, Claude AI, and DeepSeek R1) in scientific writing contexts.
-
-This collaborative opportunity with Professor Bolker provided valuable experience in translating complex AI concepts for audiences in biological sciences, focusing on responsible technology use in academic contexts.
-
-[Presentation materials available upon request]
-
-## BIOL 950 Science Communication Project: First Order Logic for Everyday Reasoning
-
-#### Note
-
-This is my initiative to spread awareness of First Order Logic as a tool for reasoning in news/social media for fact/logical verification. Logic has become an occult subject similar to many AI and computer science subjects, referring to public opinion. With the advent of LLMs, spreading awareness on First Order Logic sems to have made it easier to self-learn using Human-LLM assisted learning. This draft tutorial is fully written and prepared by me. It was not reviewed by anyone.  https://tinyurl.com/fol-as-a-tool I would be uploading a youtube video in a few days, while I review my draft on First Order Logic. I am happy to provide any authorship verification of this document as needed. Please contact sakoju2014@gmail.com. I also could not share many details during planning stage with anyone due to other demanding priorities.
-
-### Project Overview
-
-As part of Professor Jessica Bolker's BIOL 950 Science Communication course, I developed an independent project exploring how First Order Logic can serve as a practical tool for complex reasoning in daily situations. Logic is an occult/specialized subject, the advent of LLMs creates new opportunities for making these concepts more accessible through Human-AI/Human-LLM assisted/collaborated learning approaches.
-
-Similar to how research works used First Order Logic to evaluate logical fallacies and paradoxes in LLMs [Ontanon et all (2022), oshi, N., Saparov, A., Wang, Y., & He, H. (2024) and Lalwani, A et al (2024)], I introduce First Order Logic (FOL) as a tool for real life complex reasoning situations such as logical fallacies, paradoxes, misinformation... - on social media or in your life.
- 
-### Project Resources
-
-This original project demonstrates applications of formal logic in addressing everyday reasoning challenges:
-
-- **A tutorial/guide**: [First Order Logic as a Practical Tool](https://tinyurl.com/fol-as-a-tool)
-- **Presentation**: [Teaching First Order Logic with LLMs](https://tinyurl.com/fol-llm-teaching)
-
-### Real-World Applications
-
-The project examines how formal logic frameworks can help analyze and understand:
-- Logical fallacies in everyday arguments
-- Paradoxes we encounter in reasoning
-- Misinformation and disinformation detection strategies
-- Media literacy through analyzing news claims
-
-Notable examples include analysis of fabricated news premises, evaluation of text-image consistency in reporting, and examination of how presentation affects believability of headlines.
-
-This work represents my contribution to making formal reasoning techniques accessible to non-specialists in scientific communication contexts.
-
-#### Note
-The document [First Order Logic as a Practical Tool](https://tinyurl.com/fol-as-a-tool) was not reviewed by anyone. I did not receive any review from anyone. I am happy to provide any authorship verification of this document as needed. I also could not share many details during the planning stage with anyone due to other demanding priorities.
-
-
-## CS 830: Introduction to AI - Final Project
-
-### Project Overview: Natural Language Understanding Research
-
-This repository contains my final project for CS 830 (Intro to AI), focused on Natural Language Understanding research. While CS 830 typically emphasizes robotics applications, I developed this project to align with my specialization in Natural Language Processing and Understanding.
-
-### Development Timeline
-
-- Work on this project began in **January 2025** as a personal research initiative
-- A preliminary draft was submitted for course assessment
-- A complete LaTeX draft has been developed (not publicly shared)
-- External feedback is being sought from Natural Language Understanding experts in the field as this project is out of scope of CS 830 and Robotics lab, UNH.
-
-- My projects that were (done or completed) after September 25th 2024 after which I am not part of any grant funding and as I do not work with the PI of **NSF Award Number: 1846017**. All of my works done or completed after Sep 25th 2024, are volunteer works and are presently being reviewed by and may have potential authorship from - Natural Language Understanding experts and is outside scope of the said program/grant award.
-
-- Any unconsented written distribution of my works after the said deadline of September 25th 2024 and shared with PIs of **NSF Award Number: 1846017** would potentially create unneccessary complications for the party that distributed without consent and awareness of both PI of **NSF Award Number: 1846017** and me. I do not work with PI of **NSF Award Number: 1846017** since Sep 25th 2024.
-
-- **Please refer to my statement of advocacy and disclaimer for more details: <a href="https://github.com/sushmaakoju/research-experience/blob/main/advocacy_statement.md#note">Note on authorship and attributions towards any existing/new grant award/programs/any other works/collaborations.</a>**
-
-#### Note
-
-- Anyone contacting you about any of these works, without my authorship and without my explicit consent, please report to sakoju2014@gmail.com for authorship verification.
-
-### Academic Context
-
-This course builds upon my previous experience with AI concepts from my work as a research programmer at Carnegie Mellon University (2016-2018). As my research focus is specifically in Natural Language Understanding, this project represents the intersection of course requirements with my ongoing research interests.
-
-### Project Status
-
-The complete project documentation is available upon appropriate academic request. This work represents a continuation of my research focus despite transitions between academic institutions.
-
-## May 2024 - Aug 2024 : Self Study + Research Assistant works/status for Information Retrieval & neurosymbolic Methods
-
-For employment verification: please contact <a href="http://www.theworknumber.com/"> the work number </a>.
-Note: **Please refer my statement of advocacy and disclaimer: <a href="https://github.com/sushmaakoju/research-experience/blob/main/advocacy_statement.md">Disclaimer and Advocacy Statement, 2025</a>**
-
-- May 15th - May 29th 2024 <a href="https://docs.google.com/document/d/1lBdI0dPcvcqz4ixG4TzM9RC59AZXjuEzSCQRitmg-eU/edit?usp=sharing">Study & Research Idea formation: to generate Atomic facts and Boolean Questions from a Paragraph (doc) </a>
-- June 2024: <a href="https://github.com/sushmaakoju/LLMJudge">LLMJudge challenge: helping team member run it on Google Colab</a>
-- June 2024 - July 2024: Setting up Poetry & nix on the GPUs, on CPU and on Google Colab. Poetry and nix are not supported on CPU-based or Google Colab environments. <a href="https://github.com/laura-dietz/rubric-internal/issues">rubric open question, documentation and bug</a>
-- Aug 2024: <a href="https://drive.google.com/drive/folders/1DhXFPqVj9iIvGpy_Rza1uYoh2DyfIE5Q?usp=sharing"> RA: Identifying Neurosymbolic Methods for Information Retrieval using RAG for relevance measurement and evaluation</a>
-- Aug - Sep 25th 2024: <a href="https://docs.google.com/document/d/1osU4jchsB9sld57F8c35XlWiyk5--gWdXZqWCzvDNSI/edit?usp=sharing"> Running nix/poetry versions on laptop remotely on GPU</a>
-- Aug 30 - Sep 2024: <a href="https://drive.google.com/drive/folders/1ycrg4xJigxYKpK9yfziYMy9lfshkpB0D?usp=sharing"> RA: Neuro symbolic methods, relevance metrics and Information Retrieval study/papers & status </a>
-- Sep 2024: <a href="https://docs.google.com/presentation/d/1jVgO3Lu-JGP-VCOW50dE1AilU8WK0Ujq/edit?usp=sharing&ouid=109002193141570811635&rtpof=true&sd=true">Introduction presentation</a>
-- RA: Sep 2024: Nix Environment fixed on GPU with custom setup and running scripts from RUBRIC work on GPUs and sharing results and analysis of randomized results.  <sup><sub><sup><sub> Ended, as my skill alignment was more towards Neurosymbolic Methods in Natural Language Understanding which is a subset of Natural Language Processing.</sub></sup></sub></sup>
-
-- Works done after Sep 25th 2024, are outside of scope of this project. The volunteer works done by me after Sep 25th 2024, have not been shared towards the formal reports of this project and they are NOT funded by the RUBRIC team/NSF project. No Contract binding before or after.
-
-- September 2024: I initiated and worked with OpenAI EDU team at the University for getting the educational license for teaching OpenAI GPTx tools, for AI courses at UNH, CS department.
-
-## My presentation on Proof systems Prior to University of New Hampshire : Sep 9th 2024 - Oct 1st 2024
-
-#### Note
-
-- My projects that were (done or completed) after September 25th 2024 after which I am not part of any grant funding and as I do not work with the PI of **NSF Award Number: 1846017**. All of my works are volunteer and are presently being reviewed and potential authorship by other Natural Language Understanding experts and is outside scope of the said award.
-
-- Any unconsented written distribution of my works with the said deadline of September 25th 2024 and shared with PIs of **NSF Award Number: 1846017** would potentially create unneccessary complications for the party that distributed without consent and awareness of both PI of **NSF Award Number: 1846017** and me. I do not work with PI of **NSF Award Number: 1846017** since Sep 25th 2024.
-
-- Any use of my works in new or existing grant applications/funding without my explicit consent and knowledge is unauthorized. Such unauthorized use creates potential authorship conflicts as these works were shared with other Natural Language Understanding experts.
-
-- **Please refer to my statement of advocacy and disclaimer: <a https://github.com/sushmaakoju/research-experience/blob/main/advocacy_statement.md#note">Note on authorship and attributions towards any existing/new grant award/programs.</a>**
-
-- I was not informed if any of my projects were used for NSF grant applications or other funding opportunities. Had such information been provided to me, I would have included proper acknowledgment. **The absence of such disclosure to me serves as evidence of NO association between my works and any grants/funding. For authorship verification, please contact sakoju2014@gmail.com.**
-
-- If anyone contacts you regarding these works without my authorization, please report this to sakoju2014@gmail.com for authorship verification.
-
-### Work details
-
-- I previously studied about Proof systems, Theory of Computation, Linguistics, First Order Logic, Second Order Logic, Decidability, Godel's theorem, Symbolic Logic, Semiotics, etc. My powerpoint slides attempt to depict how proof theory and systems intersect with each one of these theoretical topics and can help with assimilating the information for better understanding:
-
-- <a href="https://docs.google.com/presentation/d/e/2PACX-1vTmE7POHvRJoTksgRH9r9rWEnAx9iQX_wpJIDsP1SWn2CnYALeOd5X8Pcc0XtjkzQ/pub?start=false&loop=false&delayms=3000">My presentation on Proof Systems </a>
-
-- My prior work on Sympy <a href="https://github.com/sushmaakoju/polynomial-equation-parser">Polynomial Equation Parser, 2020</a>
-
-- My prior work on Automated Theorem Proving <a href="https://github.com/sushmaakoju/demo-ATLS5214">using string parsing versus Microsoft Z3 Prover, 2022</a>
-
-- <a href="https://github.com/sushmaakoju/demo-ATLS5214/blob/main/z3_prover_examples.ipynb">Examples on Microsoft Z3 Prover, 2022 </a>
-
-- The list of topics covered in <a href="https://docs.google.com/presentation/d/e/2PACX-1vTmE7POHvRJoTksgRH9r9rWEnAx9iQX_wpJIDsP1SWn2CnYALeOd5X8Pcc0XtjkzQ/pub?start=false&loop=false&delayms=300&slide=id.g3098b16f33b_0_156">my presentation on Proof Systems, 2024 </a> are as follows: 
-
-    - What is a proof
-    - What is a derivation
-    - Logic as a Formal System
-    - Propositional Logic and First Order Logic
-    - Second Order Logic & Comparison
-    - Semantic Decomposition & Parsers for Natural Language 
-    - Semiotics & Symbolic Logic
-    - Natural Logic
-    - Decidability, Completeness and Soundness
-    - Turing Machines
-    - Natural Deduction
-    - Tableau Method
-    - Sequent Calculus
-    - Axiomatic Derivations
-    - Lean Proof Systems
-    - References
-
-### My work on Lean 4 prover from Sep 10 2024 to Dec 5th 2024.
-
-#### Presentation of my work Dec 5th, 2024: 
-
-I started working on this as a volunteer participant for giving knowledge transfer and as a courtesy participation. Thanks for the invite to participate and be part of the RLLab, CS department, UNH organized by Prof. Marek Petrik for Fall 2024. This work is a volunteer work and does not belong to any specific funded research project.
-
-<a href="https://docs.google.com/presentation/d/e/2PACX-1vQCJ_3PrWZp_06_yQPbKDFmGYzWZZpxYI58NY47SRQMiAf6FTisMi9cVYjxAYBQUJH52YJTbdjGsZhd/pub?start=false&loop=false&delayms=3000">Final project presentation, Dec 5th 2024</a>
-
-#### Lean theorem proving progress and status until Dec 5th 2024:
-
-<a href="https://github.com/sushmaakoju/lean-theorem-proving"> Lean Theorem proving, UNH</a>
-
-- This project is outside of September 25th 2024 after which I am not part of any grant funding and is not part of NSF Award Number: 1846017.
-Note: **Please refer my statement of advocacy and disclaimer: <a href="https://github.com/sushmaakoju/research-experience/blob/main/advocacy_statement.md">Disclaimer and Advocacy Statement, 2025</a>**
-
-## Completed Certifications
-
-### <a href="https://api.badgr.io/public/assertions/oq0vp12ERfq3G495a62BTQ?identity__email=Sushma.Akoju%40unh.edu">Responsible Conduct of Research & Scholarly Activity for Incoming PhD Students</a>
-
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/oq0vp12ERfq3G495a62BTQ?identity__email=Sushma.Akoju%40unh.edu"><img width="120px" height="120px" src="https://media.badgr.com/uploads/badges/assertion-oq0vp12ERfq3G495a62BTQ.png"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Responsible Conduct of Research &amp; Scholarly Activity for Incoming PhD Students</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>Nov 18, 2024</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> Sushma Akoju</span></p><script async="async" src="https://badgr.com/assets/widgets.bundle.js"></script></blockquote>
-
-### Note
-
-Any research works done after Sep 25th 2024 were outside the scope of funded projects. My works after Sep 25th 2024 do remain as volunteer works except that of Teaching Assistant work. 
-
-### Cite this repository
-
-Thank you for visiting this repository!
-This repository receives from 10 to 35+ clones each time this repository is updated and various versions were renamed and saved for analysis of visits.
-
-If you found this repository helpful and have used any of the documents on this repository for your work/research or have referred these materials to anyone else, please cite this work to support healthy & collaborative competition and for the intellectual integrity:
-
+**Repository Citation:**
 ```
 @online{githubsakojuresearchstudyrecommendations,
-	title        = {github sakoju/research-experience},
-	author       = {sushmaanandakoju},
-	year         = {2015-present},
-	note         = {[Accessed in 2023/2024/2025]},
-	howpublished = {\url{https://github.com/sushmaakoju/research-experience}}
+    title        = {github sakoju/research-experience},
+    author       = {sushmaanandakoju},
+    year         = {2015-present},
+    note         = {[Accessed in 2023/2024/2025]},
+    howpublished = {\url{https://github.com/sushmaakoju/research-experience}}
 }
 ```
+
+This documentation serves to clarify professional boundaries, establish proper attribution protocols, and ensure accurate representation of contributions within appropriate institutional frameworks.
