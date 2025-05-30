@@ -1,87 +1,81 @@
+## Professional Authorship and Consent Statement
 
-## Authorship Note on Authorization and Consent
+**Purpose and Background:**
+- This statement establishes clear professional boundaries and consent protocols for verification of my work and affiliations.
+- Due to ongoing institutional transitions and confidentiality requirements, direct verification of certain affiliations may require alternative protocols.
+- This documentation serves to clarify authorized communication channels and protect all parties involved.
 
-The reason for following note, are as follows:
+**Consent and Authorization Protocols:**
+- I have not provided consent for sharing confidential information or work products with unauthorized parties.
+- Use of my name or work in any context requires explicit prior authorization since - Jan 20 2023, as of May 9th, 2024 and further, as per consolidating the timeline of increasing severity.
+- All verification requests should be directed through official channels outlined in this statement.
 
-- due to several ongoing changes at various levels
-- due to consistent targetted safety concerns many experience there may not be immediate verification of the said affiliations. This note serves as a boundary and my note on consent-based information verification and authorship verification.
+### Current Professional Affiliations and Boundaries
 
-### Project Affiliations and Boundaries
+**Research Program agreed Separations:**
+- As of July 17th, 2023: No professional affiliation with DARPA SKEMA program or its Principal Investigators.
+- As of September 25th, 2024: No professional affiliation with NSF Award Number 1846017 or its Principal Investigator and affiliated members.
+- Post-separation work represents independent contributions under review by external Natural Language Understanding experts and can be verified for my authorship and ownership attributions @ sakoju2014@gmail.com.
 
-- As of July 17th, 2023, I have no professional affiliation with the DARPA SKEMA program or its Principal Investigators. Any work completed after this date represents my independent volunteer contributions, currently under review by Natural Language Understanding experts outside the scope of the SKEMA program.
+**Institutional Confidentiality:**
+- Confidential information sharing requires explicit consent through proper institutional channels as well as my consent.
+- Previous consent forms have been formally redacted as of February 2024 so any sharing of information violates institutional level confidentiality as well as person -level confidentiality and privacy.
+- Any information sharing outside authorized protocols may create compliance complications for all parties.
 
-- As of September 25th, 2024, I have no professional affiliation with NSF Award Number: 1846017 or its Principal Investigators. Any work completed after this date represents my independent volunteer contributions, currently under review by Natural Language Understanding experts outside the scope of this NSF award.
+### Professional Communication Protocols
 
-### Distribution and Attribution Protocols
+**Verification Procedures:**
+- All verification inquiries should be directed to sakoju2014@gmail.com to ensure accuracy and protect confidentiality.
+- Direct contact with previous affiliations is not authorized and may compromise ongoing confidentiality requirements.
+- Professional references are maintained through independent sources unaffiliated with restricted research groups.
 
-- Unauthorized distribution of my work products to either program after the respective termination dates (July 17th, 2023 for SKEMA; September 25th, 2024 for NSF Award 1846017) may create compliance complications for all parties involved. Please respect these professional boundaries.
+**Documentation Standards:**
+- I maintain comprehensive documentation of all professional communications and contributions.
+- Recording of interactions may be employed in accordance with applicable laws to ensure accurate representation.
+- Strict adherence to federal policies and research ethics guidelines is maintained with appropriate reporting when necessary.
 
-- I have formally notified appropriate reporting agencies with documentation regarding any continued association with NSF Award 1846017 beyond September 25th, 2024. Please direct any inquiries regarding this award to the appropriate program officers rather than contacting me.
+### Current Work Status
 
-### Professional Conduct and Documentation
+**University of New Hampshire Affiliations:**
+- Research affiliation with NSF Award Number 1846017 concluded September 25th, 2024.
+- Teaching Assistant work ended May 16th, 2024.
+- Volunteer work on proof systems and Lean 4 prover concluded December 20th, 2024.
+- No current association with Reinforcement Learning Lab or Robotics labs due to research focus alignment with Natural Language Understanding rather than their specialized areas.
+- Per institutional guidance, matters involving external program connections fall outside University of New Hampshire jurisdiction and are addressed through separate protocols.
 
-- I maintain comprehensive documentation of all professional communications and contributions. Public recording in accordance with applicable laws may be employed to ensure accurate representation of interactions.
+**Research Focus Clarification:**
+- Current research remains focused on Natural Language Understanding and related areas.
+- No plans to discontinue PhD studies in Natural Language Understanding - please verify any contrary information through official channels at sakoju2014@gmail.com.
+- Despite external pressures to alter my research "interests" and focus, I remain committed to Natural Language Understanding as my area of specialization.
 
-- I uphold strict adherence to federal policies and research ethics guidelines. Any instance where pressure was applied to compromise these standards has been appropriately documented and reported to relevant authorities.
+### Privacy and Contact Protocols
 
-- I maintain the fundamental right to determine my professional associations based on safety considerations and ethical standards. Any attempt to misrepresent this appropriate exercise of professional discretion as something other than a legitimate safety measure constitutes an exploitative mischaracterization of reasonable boundaries.
+**Authorized Communications:**
+- Family, partner, and long-term mentors should not be contacted regarding professional matters without explicit authorization.
+- Unauthorized contact with personal networks has been formally reported and appropriate protective measures implemented.
 
-- This statement acknowledges works contributed from July 17 2023 to May 2025, remain unrecognized, unacknowledged, due to influences of situations that came up before July 17th 2023. 
-
-- Any assessment of my professional work or conduct originating from these sources should be evaluated within the framework of our formal professional separation and its documented circumstances that depend on extenuating circumstances. This consideration is necessary due to certain contextual factors subject to confidentiality protocols established through appropriate legal channels.
-
-### Professional References and Communications
-
-Reference to <a href="https://github.com/sushmaakoju/research-experience/blob/main/professional-impact-statement.md">Professional Impact Statement</a>:
-
-- I have not requested recommendation letters from the Principal Investigators of SKEMA (post July 17th, 2023) or NSF Award 1846017 (post September 25th, 2024) or their colleagues, to maintain professional separation and protect confidentiality. 
-
-- Therefore kindly redirect all of your verification queries/attested letters to sakoju2014@gmail.com for my safety and saving loss of time, request to kindly, not contact the aforementioned Principle Investigators.
-
-- I have not engaged in any backdoor discussion regarding the said parties before or now. Refer the section "Professional Conduct and Documentation" for references and if you need any attested documentation of the same.
-
-- Third-party inquiries to these investigators regarding my work fall outside my authorization and responsibility, as maintaining appropriate distance is necessary for safety reasons aligned with legal guidance.
-
-- I maintain strict professional boundaries in situations involving sensitive circumstances. Attempting to exploit individuals who have experienced significant confidential hardships violates ethical standards and academic integrity.
-
-- I have not authorized disclosure of confidential information to third parties. Unauthorized releases may be subject to legal review under appropriate confidentiality protection frameworks.
-
-- I have not authorized or consented to anyone to contact my family or my partner. Unauthorized and unconsented contact with family and partner, have been reported. Kindly respect this boundary.
-
-- Given that certain restrictions apply, those restrictions should apply to people creating the extenuating circumstances. Either ways, the solution will not be with me as they need to contact the source of the problem. Therefore I am unable to respond to any communication/explanations expected from me as I refuse to take any accountability for circumstances not created by me and actions/words not done/said by me. Thanks in advance for your kind understanding.
-
-- My professional references are maintained through independent sources unaffiliated with these research groups.
-
-### Note on Privacy and Release of any future public repositories
-
-I am unable to share any more open public repositories of my works that are in-progress as stated here <a href="https://github.com/sushmaakoju/research-experience/blob/main/learning-as-a-hobby/neurosymbolic-methods-study.md#natural-language-processing">Learning as a hobby: Neurosymbolic Methods in AI</a> and <a href="https://github.com/sushmaakoju/recent-works">Recent works</a> as the people who referenced my open repositories and failed attributions, are the ones I earlier worked with but do not honor female scholars and engaged in IPV. For evidence verification and attorney attested letter confirmation, please contact sakoju2014@gmail.com . Don't fall for misinformation and false allegations. If you received any information and/or misinformation but have not contacted sakoju2014@gmail.com, please do so immediately. As of May 2025, please contact sakoju2014@gmail.com for attorney attested letters/verifications of this information. 
+**Repository and Work Sharing:**
+- Future public repository sharing is currently restricted due to attribution concerns with previous collaborations.
+- Current work is under review by independent Natural Language Understanding experts outside previous institutional frameworks.
 
 ### Authorization Requirements
 
-- Use of my intellectual contributions in any grant applications, publications, or other scholarly works requires explicit prior consent. My work has been shared with multiple Natural Language Understanding experts, creating potential authorship conflicts if used without proper authorization.
+**Intellectual Property Protection:**
+- Use of my contributions in grant applications, publications, or scholarly works requires explicit prior written consent.
+- Work has been shared with multiple independent experts, creating potential conflicts if used without proper authorization.
 
-- For verification of authorship claims or to request proper attribution protocols, please contact sakoju2014@gmail.com. This is mainly for employers, universities and other government agencies.
-    when you contact me, please provide me:
-    
-    1. your name, organization name that you represent (with pronouns, if you prefer).
-    2. your reason for requesting authorship verification (in a concise manner).
-    3. depending on the reason for request, my attorney may need more information from you.
-    4. subject to your verification of ID/etc as needed by my attorney, which will not be disclosed to me.
+**Verification Contact Protocol:**
+When contacting sakoju2014@gmail.com for verification, please provide:
+1. Your name and organizational affiliation (your pronouns, if you prefer).
+2. Specific reason for verification request.
+3. Additional information as may be required for proper authentication.
+4. Understanding that attorney review may be necessary for certain inquiries.
 
-## Acknowledgments
+**Legal Framework:**
+This statement operates within established confidentiality protocols and professional ethics guidelines. All parties are expected to respect these boundaries while ensuring appropriate verification procedures for legitimate institutional needs.
 
-The authorship statement on this page were refined with assistance from Anthropic's Claude AI assistant to ensure clarity and professional communication.
+### Professional Safety and Academic Integrity Statement
+
+<a href="https://github.com/sushmaakoju/research-experience/blob/main/academic-integrity-professional-statement.md">Professional Safety and Academic Integrity Statement</a>
 
 ---
-
-```
-@online{githubSushmaAnandAkojuadvocacystatement,
-    title        = {github sakoju/research-experience/advocacy_statement},
-    author       = {sushmaanandakoju},
-    year         = {2015-present},
-    note         = {[Accessed in 2023/2024/2025/future]},
-    howpublished = {\url{https://github.com/sushmaakoju/research-experience/blob/main/advocacy_statement.md}}
-}
-```
-
-----

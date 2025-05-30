@@ -44,11 +44,12 @@
 
 1.  <a href="https://github.com/sushmaakoju/research-experience/blob/main/advocacy_statement.md">Advocacy Statement and Personal/Professional boundaries</a>
 2.  <a href="https://github.com/sushmaakoju/research-experience/blob/main/authorship-note.md">Authorship Note on Authorization and Consent</a>
-3.  <a href="https://github.com/sushmaakoju/research-experience/blob/main/invite-to-transform-your-communication.md">An Open Invitation to Transform Communication</a>
-4. <a href="https://github.com/sushmaakoju/research-experience/blob/main/note-about-programming.md">My Career Path & Professional Background & note on stereotypes</a>
-5. <a href="https://github.com/sushmaakoju/research-experience/blob/main/myths-explanations.md">Prebunking & Addressing Harmful Common Myths</a>
-6. <a href="https://github.com/sushmaakoju/research-experience/blob/main/authorship-declaration-note.md">Original authorship decalaration note</a>
-7.  <a href="https://github.com/sushmaakoju/research-experience/blob/main/a-case-study-of-stereotypes.md">A hypothetical case study: orchestrating and coordinating sexual harassment</a>
+3. <a href="https://github.com/sushmaakoju/research-experience/blob/main/academic-integrity-professional-statement.md">Professional Safety and Academic Integrity Statement</a>
+4.  <a href="https://github.com/sushmaakoju/research-experience/blob/main/invite-to-transform-your-communication.md">An Open Invitation to Transform Communication</a>
+5. <a href="https://github.com/sushmaakoju/research-experience/blob/main/note-about-programming.md">My Career Path & Professional Background & note on stereotypes</a>
+6. <a href="https://github.com/sushmaakoju/research-experience/blob/main/myths-explanations.md">Prebunking & Addressing Harmful Common Myths</a>
+7. <a href="https://github.com/sushmaakoju/research-experience/blob/main/authorship-declaration-note.md">Original authorship decalaration note</a>
+8.  <a href="https://github.com/sushmaakoju/research-experience/blob/main/a-case-study-of-stereotypes.md">A hypothetical case study: orchestrating and coordinating sexual harassment</a>
 
 ## Causes I support:
 
