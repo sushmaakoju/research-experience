@@ -12,10 +12,14 @@
 
 ### Current Professional Affiliations and Boundaries
 
-**Research Program agreed Separations:**
+**Research Grant Program agreed Separations:**
 - As of July 17th, 2023: No professional affiliation with DARPA SKEMA program or its Principal Investigators.
+- As of July 17th 2023: No professional affiliation to linguistics department at University of Arizona.
+- As of Jan 1st 2024: No professional association with Clulab, at Department of Computer Science, University of Arizona.
+- As of July 31st, 2024, No professional association with Department of Computer Science, University of Arizona.
 - As of September 25th, 2024: No professional affiliation with NSF Award Number 1846017 or its Principal Investigator and affiliated members.
 - Post-separation work represents independent contributions under review by external Natural Language Understanding experts and can be verified for my authorship and ownership attributions @ sakoju2014@gmail.com.
+- This consented separation followed documented concerns regarding proper attribution of scholarly contributions and subsequent impacts on academic standing that remain unaddressed at the time. These matters were addressed through appropriate institutional channels and remain relevant to current verification protocols.
 
 **Institutional Confidentiality:**
 - Confidential information sharing requires explicit consent through proper institutional channels as well as my consent.
@@ -42,6 +46,7 @@
 - Volunteer work on proof systems and Lean 4 prover concluded December 20th, 2024.
 - No current association with Reinforcement Learning Lab or Robotics labs due to research focus alignment with Natural Language Understanding rather than their specialized areas.
 - Per institutional guidance, matters involving external program connections fall outside University of New Hampshire jurisdiction and are addressed through separate protocols.
+- The conclusion of these affiliations resulted from documented concerns regarding professional conduct standards, including disputes over attribution of work and dissemination of inaccurate personal information and disclosure of such inaccurate information. Documentation regarding these matters is available upon legitimate request through proper channels.
 
 **Research Focus Clarification:**
 - Current research remains focused on Natural Language Understanding and related areas.
