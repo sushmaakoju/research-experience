@@ -50,6 +50,7 @@
 6. <a href="https://github.com/sushmaakoju/research-experience/blob/main/myths-explanations.md">Prebunking & Addressing Harmful Common Myths</a>
 7. <a href="https://github.com/sushmaakoju/research-experience/blob/main/authorship-declaration-note.md">Original authorship decalaration note</a>
 8.  <a href="https://github.com/sushmaakoju/research-experience/blob/main/a-case-study-of-stereotypes.md">A hypothetical case study: orchestrating and coordinating sexual harassment</a>
+9. <a href="https://github.com/sushmaakoju/research-experience/blob/main/faqs.md">Frequently Asked Questions</a>
 
 ## Causes I support:
 
