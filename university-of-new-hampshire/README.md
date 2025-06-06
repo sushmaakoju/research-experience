@@ -5,10 +5,11 @@ For enrollment verification, employment verification, and confidential documenta
 
 ### Volunteer Academic Contributions
 
+- Presented background material on proof systems, logic, automata, formal languages, and theorem provers, for bringing awareness of how theory and applications come together. This was not requested by Professors, I volunteered to give this knowledge transfer based on my past experience and studies.
+
 **Fall 2024 Initiatives:**
-- Volunteered to learn Lean programming language as a new technical skill.
-- Developed and presented background material on proof systems, logic, automata, formal languages, and theorem provers.
-- Delivered final project presentation on December 5th, 2024, providing educational content for student motivation.
+- Volunteered to learn Lean programming language as a new technical skill and to donated work to RLLab and Prof. Petrik's team as a courtesy to Department of Computer Science.
+- Delivered final project presentation for Lean Programming project on December 5th, 2024, providing educational content for student motivation.
 - I am not affiliated to the Reinforcement lab and I do not work with anyone at Reinforcement Lab.
 
 **Community Engagement:**
@@ -46,11 +47,14 @@ The presentation focused on ethical considerations, scientific implications, and
 - All content independently authored and prepared without external review by me.
 
 **CS 830 Final Project: Natural Language Understanding Research**
-- Developed project aligned with NLP/NLU specialization within AI course framework.
-- Work began January 2025 as personal research initiative.
-- Complete LaTeX documentation prepared for external expert review.
-- Project represents intersection of course requirements with my ongoing research interests.
-- Currently this project is being reviewed by Natural Language Understanding experts, as the class's instructional team does not work on Natural Language Understanding.
+- Developed comprehensive NLP/NLU research project aligned with AI specialization requirements, outside of Course requirements as course is more robotics focussed.
+- Independent research initiative launched January 2025.
+- Complete LaTeX documentation prepared and currently under NLU/NLP experts review.
+- Project demonstrates integration of advanced coursework with specialized research interests, which fall outside of robotics, due to extensive robotics focussed instruction of the course.
+- Work is being evaluated by external Natural Language Understanding domain experts.
+- Full project documentation and verification available upon request.
+
+**Note:** For any verification of academic records or accommodations, please contact me directly at [sakoju2014@gmail.com] for official documentation and certified records from UNH.
 
 ### Previous Research Experience (May - September 2024)
 

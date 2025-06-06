@@ -21,6 +21,13 @@
 - Post-separation work represents independent contributions under review by external Natural Language Understanding experts and can be verified for my authorship and ownership attributions @ sakoju2014@gmail.com.
 - This consented separation followed documented concerns regarding proper attribution of scholarly contributions and subsequent impacts on academic standing that remain unaddressed at the time. These matters were addressed through appropriate institutional channels and remain relevant to current verification protocols.
 
+<!--**Workplace Environment Concerns:**-->
+<!--- During my affiliation with the University of Arizona, I experienced documented instances of interpersonal misconduct, including sexual harassment from two students and coordinated bystander harassment.-->
+<!--- These incidents were formally reported through appropriate university channels, with documentation available upon legitimate request.-->
+<!--- Despite these documented safety concerns, I was expected to maintain academic productivity without appropriate accommodations or protective measures since April 10th 2023.-->
+<!--- The separation from these affiliations became necessary to ensure my personal safety and professional wellbeing after attempts to address these concerns through institutional channels did not result in adequate resolution.-->
+<!--- Any inquiries regarding these circumstances should be directed to sakoju2014@gmail.com, as direct contact with previous affiliations may risk further complications.-->
+
 **Institutional Confidentiality:**
 - Confidential information sharing requires explicit consent through proper institutional channels as well as my consent.
 - Previous consent forms have been formally redacted as of February 2024 so any sharing of information violates institutional level confidentiality as well as person -level confidentiality and privacy.
