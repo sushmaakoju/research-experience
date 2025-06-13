@@ -66,6 +66,45 @@ I believe in reciprocal professional relationships built on mutual respect and p
 
 My approach is to focus on authentic professional relationships where contributions are valued and properly attributed from all parties involved.
 
+### Q: Do you plan to shift to robotics or other fields outside of language, consciousness, or multimodal perception? <br>
+A: No, I do not plan to move into robotics or Lean programming for theorem provers. I have never given consent or confirmation to work on either of these areas. I prefer to focus on language understanding, consciousness, multimodal perception, cognitive science, and neuroscience aspects of AI. However, I have received coercion to either give up my PhD or change subjects to robotics or Lean programming for theorem provers.
+
+**My areas of study Natural Language Understanding 360-degree focussed:**
+1. Natural Language Understanding in Deep Learning architectures.
+2. Theoretical aspects of Logic.
+3. Automata, Grammars, Languages and Theory of Computation.
+4. Neuroscientific aspects of Language Understanding.
+5. Cognitive Science approaches to AI.
+6. Neuroscience of reasoning.
+7. Symbolic encodings in Deep Learning and cognitive systems.
+
+**My professional strengths:**
+1. Focused commitment to my research area.
+2. Persistence in pursuing my academic goals.
+3. Consistent dedication despite various challenges.
+4. Interdisciplinary approach combining AI and cognitive science.
+5. Ability to make complex/challenging tasks look easy, which remains an esoteric skill less understood by many.
+
+### Q: How do you handle attempts to copy your work or target your research? <br>
+A: I have implemented various protective measures when facing persistent harassment, unauthorized attempts to copy my work, and inappropriate targeting of myself and my partner. Following guidance from confidential resources, I have sometimes used strategic misdirection to protect my intellectual property and personal safety.
+
+When individuals have refused to respect professional boundaries and retaliated against rejection of personal advances, protective measures became necessary. Any claims about inconsistency in my stated research interests should be understood as deliberate protective strategies, not confusion or instability.
+
+My actual research focus remains consistent with Natural Language Understanding and can be verified through my published work and official academic records. 
+
+### Q: Are all your works and ideas your own, or were they created by someone else? <br>
+A: All of my works are entirely my own, including course projects and research ideas. I have not given consent for anyone to use my work or claim authorship of my ideas.
+
+There appears to be a persistent, perhaps antiquated perception that questions female scholars' intellectual capabilities. When a female scholar develops innovative ideas or demonstrates exceptional ability, it is often misrepresented or met with disbelief—as if the assumption is "no female scholar can be this capable." This reaction comes particularly from individuals already established in the same or adjacent fields who may feel threatened by emerging talent, new ideas, or innovative works.
+
+This unbearable professional envy, whether from established or unestablished colleagues or others, represents a significant barrier that female scholars face—a curse disguised as professional skepticism. Such attitudes not only undermine individual achievements but also perpetuate systemic biases that harm the entire academic community.
+
+It is also commonly attributed that if an idea is developed by a female scholar or student, it must have originated from a male colleague or someone more established. This represents a significant obstacle to many female scholars and contributes to the systematic erasure of women's intellectual contributions. If this belief were scientifically valid and supported by evidence, then no female scholars or students would exist in academia. The very presence of women in academic fields is proof enough of the substantial contributions many female scholars make toward research.
+
+It is those people who still uphold cobwebbed beliefs and use such obvious false narratives that exploit and ruin healthy work collaborations. We need to "vacuum clean" such beliefs by sitting down such people with confidential resources and institutional experts to make them understand statistics, progress, and state-of-the-art work distribution for constructive engagements.
+
+I maintain comprehensive documentation of my work's development and can provide verification of original authorship through appropriate channels.
+
 ### Q: Are you targeting anyone through your communications? <br>
 A: No, I am not targeting anyone. I patiently waited for individuals to respectfully and sensitively understand my situation, but unfortunately, bias appears to influence many interactions. I feel compelled to speak for myself when I am consistently being targeted by people who refuse to engage in direct conversation with me.
 
@@ -90,7 +129,7 @@ The languages I learnt during my highschool - Hindi, Urdu, French & English. Mor
 
 Similar to understanding different languages, understanding different cultures requires us to "symbolically encode" and develop sensitivity to understanding it. 
 
-Therefore anyone making reverse claims of me having nationalistic hatred is NOT only FALSE, it is completelty legally actionable based on my upbringing and the values I upheld always. Anyone making such false claims have ZERO understanding of my background, work, experience and caeer. My friends from different cultures and religious backgrounds are willing to come forward to stand by my side if such a push comes to shove from anyone targeting me and my values without seeking any clarification.
+Therefore anyone making reverse claims of me having nationalistic hatred is FALSE, and it is completelty legally actionable based on my upbringing and the values I upheld always. Anyone making such false claims have ZERO understanding of my background, work, experience and caeer. My friends from different cultures and religious backgrounds are willing to come forward to stand by my side if such a push comes to shove from anyone targeting me and my values without seeking any clarification.
 
 I received (recorded) in-person attacks of hatred based on some nationalistic students that are NOT domestic students and making anonymous threats to give up my research (all of which have recorded evidences) which I believe is a crime in USA. Engaging in nationalistic hatred/religious hatred/or any in-group or out-group hatred has no place in USA - per constitution, federal laws, policies. (speech such as "because she is from this nationality, she deserves more extreme form of harassment for correction/hard luck lessons/testing resilience" actually calls for safety protocols and is well protected under institutional policies)
 

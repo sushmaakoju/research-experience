@@ -1,12 +1,12 @@
 
 ## Learning as a hobby: Neurosymbolic Methods in AI
 
-This page documents my ongoing educational journey outside formal degree programs. I've created this resource to provide transparency about my learning path while maintaining professional boundaries.
+I am Sushma Anand Akoju (she/her/hers). This page documents my ongoing educational journey outside formal degree programs. I've created this resource to provide transparency about my learning path while maintaining professional boundaries.
 
 #### Purpose of this page 
 
 ***********************
-**_This following Purpose statement refined with assistance from Anthropic's Claude AI._**
+**_This Purpose statement only refined with assistance from Anthropic's Claude AI._**
 
 This compilation serves as a record of my self-directed learning and is shared with the following principles:
 - To provide context for my academic and research background
