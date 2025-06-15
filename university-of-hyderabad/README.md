@@ -1,5 +1,7 @@
 ## University of Hyderabad
 
+Sushma Anand Akoju, she/her/hers, May 2025
+
 Studied Forensic Science and Criminal Justice.
 
 Courses:

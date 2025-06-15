@@ -1,5 +1,7 @@
 ## Teaching Assistant, CSC 473 Automata, Grammars and Languages, Aug 2023 - May 2023.
 
+Sushma Anand Akoju, she/her/hers, May 2025
+
 I worked as Teaching Assistant for CSC 473 Automata, Grammars and Languages taught by and under supervision of Prof. Cesim Erten.
 
 Assigned Responsibilities were :

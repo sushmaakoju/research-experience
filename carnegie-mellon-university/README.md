@@ -1,4 +1,5 @@
 # Carnegie Mellon University
+Sushma Anand Akoju, she/her/hers, May 2025
 
 ## Volunteer work
 

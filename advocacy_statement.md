@@ -1,11 +1,10 @@
 # Disclaimer and Advocacy Statement, 2025
 
+Sushma Anand Akoju, she/her/hers, May 2025 <br>
 The idea of having Advocacy statement is my own. It was not suggested or recommended by anyone. 
 
 <a href="https://winstonchurchill.org/resources/quotes/quotes-falsely-attributed/">"The longer you can look back, 
 the farther you can look forward"</a>.
-
-My pronouns: she/her/hers.
 
 ## NOTE
 

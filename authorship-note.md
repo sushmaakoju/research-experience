@@ -1,5 +1,7 @@
 ## Professional Authorship and Consent Statement
 
+Sushma Anand Akoju, she/her/hers, May 2025
+
 **Purpose and Background:**
 - This statement establishes clear professional boundaries and consent protocols for verification of my work and affiliations.
 - Due to ongoing institutional transitions and confidentiality requirements, direct verification of certain affiliations may require alternative protocols.
@@ -64,7 +66,20 @@
 
 **Authorized Communications:**
 - Family (as I do not have cousins in the USA), partner, and long-term mentors should not be contacted regarding professional matters without explicit authorization.
+- I maintain strict separation between professional and personal relationships and have not engaged in romantic relationships within any academic institutional settings.
+- My current relationship predates any overlapping professional associations and should not be subject to professional inquiry or verification.
 - Unauthorized contact with personal networks has been formally reported and appropriate protective measures implemented.
+
+**Privacy Protection Statement:**
+- No consent given and any misrepresentation of private/confidential information is a crime.
+- Unauthorized disclosure of private or confidential information as an intimidation or control tactic constitutes a serious violation of personal and professional boundaries.
+- Any attempts to use private information to coerce, embarrass, or "teach lessons" will be reported through appropriate institutional and legal channels.
+- I maintain strict documentation of all communications and have implemented comprehensive protective measures against such violations.
+
+**Civil Rights Protection Statement:**
+- Coercion to change religion or to marry/date someone is a violation of fundamental civil rights and personal autonomy.
+- Any attempts at religious coercion or forced relationship arrangements will be reported to appropriate civil rights authorities and law enforcement.
+- Such actions constitute harassment and discrimination based on protected characteristics.
 
 **Repository and Work Sharing:**
 - Future public repository sharing is currently restricted due to attribution concerns with previous collaborations.

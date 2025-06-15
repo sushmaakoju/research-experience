@@ -1,4 +1,5 @@
 ## A hypothetical case study: orchestrating and coordinating sexual harassment
+Sushma Anand Akoju, she/her/hers, May 2025
 
 ### Disclaimer
 

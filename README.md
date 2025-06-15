@@ -1,4 +1,4 @@
-## Research experience of Sushma Anand Akoju, she/her.
+## Research experience of Sushma Anand Akoju, she/her/hers, Aug 2012 - Present
 
 **Keywords:** Natural Language Understanding, MultiModal models, Large Language Models (LLMs), Vision-based LLMs, Neurosymbolic Methods, Natural Language Reinforcement Learning, reasoning, teaching.
 

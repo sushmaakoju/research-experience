@@ -1,4 +1,6 @@
-# Frequently Asked Questions
+# Frequently Asked Questions <br>
+
+Sushma Anand Akoju, she/her/hers, May 2025
 
 **Written based on FAQs received and answered by: Sushma Anand Akoju (she/her/hers) <br>
 Please contact sakoju2014@gmail.com for official verification/ inquiries and for consent.**
@@ -27,6 +29,8 @@ A: Yes, I maintain strict boundaries between my personal and professional life. 
 I have consistently declined social invitations that could blur professional boundaries. Unfortunately, some individuals have not respected these boundaries and have made false claims about my personal relationships or involvement with others.
 
 My partner (he/him) and I (she/her) have always been transparent about our relationship status when appropriate. Anyone who had asked directly would have received clear information about my boundaries and relationship status. Those who received refusal also tried to influence my relationship by false claims of crossing a line.
+
+I maintain strict separation between professional and personal relationships and have not engaged in romantic relationships within any academic institutional settings. My current relationship predates any overlapping professional associations and should not be subject to professional inquiry or verification.
 
 Anyone claiming otherwise or trying to enforce association with false claims even after refusing explicitly has been reported not only to internal organizational systems but also to external systems relevant to harassment. False claims of meeting someone are easily verifiable with satellite imagery, text message verifications, and other documentation. I don't cross these lines as I follow these boundaries strictly.
 

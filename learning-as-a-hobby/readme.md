@@ -1,5 +1,7 @@
 ## Learning as a Hobby: Courses, Workshops, Tutorials & Status
 
+Sushma Anand Akoju, she/her/hers, May 2025
+
 This page documents my ongoing educational journey outside formal degree programs. I've created this resource to provide transparency about my learning path while maintaining professional boundaries.
 
 #### Purpose of this page 
