@@ -1,5 +1,7 @@
 # University of Colorado Boulder Sep 2021 - July 2022
 
+Sushma Anand Akoju, she/her/hers, May 2025
+
 For enrollment verification, the professors and officials preferred that you contact <a href="https://www.colorado.edu/registrar/students/records/info/verifications"> Enrollment Verification, University of Colorado Boulder</a>.
 
 For employment verification, please contact <a href="https://www.colorado.edu/hr/content/contact-hr"> Employment Verification, University of Colorado Boulder</a>.

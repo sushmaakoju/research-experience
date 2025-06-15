@@ -1,4 +1,5 @@
 ## My Career Path & Professional Background
+Sushma Anand Akoju, she/her/hers, May 2025
 
 I want to express my sincere gratitude to everyone who has reached out with career suggestions and support. Your interest in my professional journey means a great deal to me.
 

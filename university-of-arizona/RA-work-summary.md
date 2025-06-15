@@ -1,5 +1,7 @@
 # Work as Research Assistant, for a DARPA project, at Clulab, University of Arizona. Aug 19th, 2022 - July 22nd, 2023:
 
+Sushma Anand Akoju, she/her/hers, May 2025
+
 This works are evidences of great collaboration with Prof. Mihai Surdeanu and Dr. Enrique Noriega Atala. 
 The main goals were to learn scala, Odin rules system. We cannot reveal many details of the "what" and "how".
 

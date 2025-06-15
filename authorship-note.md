@@ -1,5 +1,7 @@
 ## Professional Authorship and Consent Statement
 
+Sushma Anand Akoju, she/her/hers, May 2025
+
 **Purpose and Background:**
 - This statement establishes clear professional boundaries and consent protocols for verification of my work and affiliations.
 - Due to ongoing institutional transitions and confidentiality requirements, direct verification of certain affiliations may require alternative protocols.
@@ -64,6 +66,8 @@
 
 **Authorized Communications:**
 - Family (as I do not have cousins in the USA), partner, and long-term mentors should not be contacted regarding professional matters without explicit authorization.
+- I maintain strict separation between professional and personal relationships and have not engaged in romantic relationships within any academic institutional settings.
+- My current relationship predates any overlapping professional associations and should not be subject to professional inquiry or verification.
 - Unauthorized contact with personal networks has been formally reported and appropriate protective measures implemented.
 
 **Repository and Work Sharing:**

@@ -1,4 +1,5 @@
 # An Open Invitation to Transform Communication $^{TM}$
+Sushma Anand Akoju, she/her/hers, May 2025
 
 ## Purpose statement from author
 

@@ -1,4 +1,5 @@
 # Navigating Intellectual Intimidation: A Strategic Approach
+Sushma Anand Akoju, she/her/hers, May 2025
 
 When others demonstrate intimidation in response to your intellectual capabilities, it can be hard place if you're dealing with it for years without respect and dignity. People fail to recognize intellectual contributions of Female International students because they feel insecure and use offense/defense as a form of response which creates more IPV behaviors which in turn shows their own intellectual/cognitive impairments. Consider these strategic approaches:
 

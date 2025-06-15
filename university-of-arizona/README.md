@@ -1,4 +1,5 @@
 # University of Arizona Aug 2022 - Summer 2024
+Sushma Anand Akoju, she/her/hers, May 2025
 
 ## Enrollment, Employment and Authorship Verification and Attributions
 

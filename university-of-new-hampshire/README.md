@@ -1,5 +1,7 @@
 ## Professional Contributions and Achievements at University of New Hampshire
 
+Sushma Anand Akoju, she/her/hers, May 2025
+
 **Authorship, Enrollment/Employment Verification and Contact Information:**
 For enrollment verification, employment verification, and confidential documentation regarding academic circumstances, please contact sakoju2014@gmail.com for legally attested copies of admission letters, enrollment records, and timeline documentation.
 
