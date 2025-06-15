@@ -34,7 +34,7 @@ As someone with a Master's degree in Forensic Science and Criminal Justice, I am
 
 4. Any academic recommendations regarding health services should follow proper institutional channels, be made in good faith, and respect the autonomy and dignity of all parties involved.
 
-5. **For purposes of clarity and accuracy**: I do not have PTSD or any other mental health condition that has been attributed to me in academic settings. I have documented instances where such inaccurate information has been shared and have addressed these through appropriate channels.
+5. **For purposes of clarity and accuracy**: I do not have PTSD and do not have any other mental health condition that has been attributed to me in academic settings. I have documented instances where such inaccurate information has been shared and have addressed these through appropriate channels. It is illegal and civilly defamatory to make false allegations surrounding health when they are not licensed professionals with appropriate medical credentials whether psychological or biological or whatever the false accusation when there is NO evidence based on diagnosis.  
 
 6. **Regarding professional conduct**: I maintain the highest standards of professional conduct and expect the same from colleagues. When professional boundaries are not respected, I reserve the right to limit interactions to necessary academic contexts and to document concerns through appropriate institutional channels.
 

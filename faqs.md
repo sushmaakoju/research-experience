@@ -7,7 +7,9 @@ Please contact sakoju2014@gmail.com for official verification/ inquiries and for
 
 ### Q: Why create an FAQ? Are you interviewing yourself? lol <br>
 
-A: Well, yes— people don't often ask directly. People seldom say "I don't know" when it comes to representing or speaking about a colleague, classmate, or even friend that has no information about research/academic experience as much. If such a colleague, classmate, or friend is envious while pretending to be your ally, anyone who falls for such misinformation ends up empowering enemies disguised as allies. As my coach said back in 2019, the human mind is like a monkey—one minute someone speaks well about you, the next minute the opinion flips. There are many colors to human thinking and perception.
+A: Well, yes— people don't often ask directly. People seldom say "I don't know" when it comes to representing or speaking about a colleague, classmate, or even friend that has no information about research/academic experience as much. If such a colleague, classmate, or friend is envious while pretending to be your ally, anyone who falls for such misinformation ends up empowering enemies disguised as allies. As my coach said back in 2019, the human mind is like a monkey—one minute someone speaks well about you, the next minute the opinion flips. There are many colors to human thinking and perception. 
+
+Misinformation often gains credibility when repeated by multiple sources, and even experienced professionals can sometimes act on incomplete information when it appears to come from multiple directions. However, experienced professionals should ideally not fall for misinformation—more authentic verification of information is called for, whether someone is a professional or not.
 
 I created this FAQ to ensure accurate representation of my views and experiences. I frequently receive these questions, and sometimes individuals in positions of authority make demands for information while failing to extend basic respect and courtesy.
 

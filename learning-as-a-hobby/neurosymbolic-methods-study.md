@@ -1,7 +1,7 @@
 
 ## Learning as a hobby: Neurosymbolic Methods in AI
 
-I am Sushma Anand Akoju (she/her/hers). This page documents my ongoing educational journey outside formal degree programs. I've created this resource to provide transparency about my learning path while maintaining professional boundaries.
+I am Sushma Anand Akoju (she/her/hers). This page documents my ongoing educational journey outside formal degree programs. I've created this resource to provide transparency about my learning path while maintaining professional boundaries. My gratitude to all longterm mentors and shortterm mentors whenever I received support. I did not consistently receive mentorship, but it was some occassions when my mentors recognized I was interested to study.
 
 #### Purpose of this page 
 
@@ -9,10 +9,10 @@ I am Sushma Anand Akoju (she/her/hers). This page documents my ongoing education
 **_This Purpose statement only refined with assistance from Anthropic's Claude AI._**
 
 This compilation serves as a record of my self-directed learning and is shared with the following principles:
-- To provide context for my academic and research background
-- To document the progression of my interests and expertise
-- Not intended for competitive purposes or professional promotion
-- Reflects voluntary learning outside of funded research projects
+- To provide context for my academic and research background.
+- To document the progression of my interests and expertise.
+- Not intended for competitive purposes or professional promotion or intellectual domination or self-sustainability.
+- Reflects voluntary learning outside of funded research projects.
 
 *********************
 
@@ -46,16 +46,49 @@ This compilation serves as a record of my self-directed learning and is shared w
     - <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/csc-588-project-report-sushma-akoju.pdf">I worked on short literature review on Adaptive Machine Unlearning. </a>
     - To include the report for the unlearning in LLMs.  $\color{blue}(notes, WIP)$
 
+## Theoretical Logic
+
+- <a href="https://github.com/sushmaakoju/research-experience/tree/main/carnegie-mellon-university#course-project-for-10812-architectures-in-never-ending-learning-spring-2018-prof-tom-mitchell-and-abulhair-saparov">The course project on first order logic for a class as an employee of Yahoo Inmind, supervised by Abulhair Saparov, grateful!</a>
+- Sequent calculus, natural deduction and first-order logic with Horn clauses, 2018 (taught & referred by mentor+friend) $\color{blue}(notes, WIP)$
+- Study on Theory of Computation, 2021 onwards
+- Study of First Order Logic and Second Order Logic (as a language), 2018
+- Study of Automated Theorem Proving, 2020
+- Study of Markov Logic Neural networks (MLNs), 2022
+- Study of Probabilistic MLNs, 2022
+- Study of Logical Neural Networks, 2022
+- Study of Abstract Meaning Representation, 2022
+- Study of Natural Logic, 2022-2023
+- Study of Natural Proofs, 2022
+- Study of Philosophies of logic, 2021-2022
+
 ## Theoretical aspects of Language
 
+The following topics change how one perceives and views language as a symbolic representation itself and how any other representations of language also appear symbolic.
+
 - Constructed Languages Conlanging, 2020 (referred by mentor+friend) $\color{blue}(notes, WIP)$
-- References in World Atlas of Language Structures, 2019
+- References in World Atlas of Language Structures, 2019 onwards
 - History of Language, 2019 (referred by mentor+friend)
 - Automata, Grammars and Languages, Summer 2021 (referred by mentor+friend) $\color{blue}(notes, WIP)$ 
-- Smart Contracts as a language and Turing-completeness, 2021
+- Smart Contracts as a language and Turing-completeness, 2021 onwards
+- Study on Theory of Computation, 2021 onwards
+- Study of Language of Proteins in Computational Biology, 2021 onwards
+- Study of Smart Contracts as a language and Turing-completeness, 2021 onwards
+- Study of First Order Logic and Second Order Logic (as a language), 2018 onwards
+- Study of tactics in proofs (as a language), 2021 onwards
+- Study of Automated Theorem Proving, 2020 onwards
+- Study of Markov Logic Neural networks (MLNs), 2022
+- Study of Probabilistic MLNs, 2022
+- Study of Logical Neural Networks, 2022 onwards
+- Study of Abstract Meaning Representation, 2022 onwards
+- Study of Synctactic, Semantic, Morphology, Phonetics, Phonology and Pragmatics in Language, 2022 onwards
+- Study of Auditory features (as signals) in spoken language in auditory format, 2016 onwards
+- Study of Numerical encodings as a language for Neural Networks (I summarized a broad number of topics into this one for simplicity), 2020 onwards
+- Study of types of parsers and parsing methods, 2020 onwards
 
 ## Neurosymbolic Methods and Knowledge Representation & Reasoning
 
+- Study of neuroscience of reasoning, 2021 onwards
+- Study of Cognitive neuroscience of language, 2021 onwards
 - Sequent calculus, natural deduction and first-order logic with Horn clauses, 2018 (taught & referred by mentor+friend) $\color{blue}(notes, WIP)$
 - Automated Theorem Proving, 2018-19 (referred by mentor+friend) $\color{blue}(notes, WIP)$
 - Symbolic Logic, 2019 (referred by mentor+friend)
@@ -147,6 +180,17 @@ This compilation serves as a record of my self-directed learning and is shared w
 - Language Understanding and Intent recognition, 2016
 - Natural Language Understanding, Summer-Fall 2021 (Stanford University Lecture materials) $\color{blue}(notes, WIP)$ (referred by mentor+friend)
 - Natural Language Understanding (with LLMs), 2024, ongoing $\color{blue}(notes, WIP)$
+- Study on Context Free Languages (such as Programming Languages)
+- Study of Language of Proteins in Computational Biology
+- Study of Smart Contracts as a language and Turing-completeness, 2021
+- Study of First Order Logic and Second Order Logic, 2018
+- Study of Automated Theorem Proving, 2020
+- Study of Markov Logic Neural networks (MLNs), 2022
+- Study of Probabilistic MLNs, 2022
+- Study of Logical Neural Networks, 2022
+- Study of Abstract Meaning Representation, 2022
+- Study of neuroscience of reasoning, 2021 onwards
+- Study of Cognitive neuroscience of language, 2021 onwards
 
 ## Image Processing and Computer Vision
 
@@ -209,11 +253,32 @@ If you found this repository helpful and have used any of the documents on this 
 
 ```
 @online{githubsakojuresearchstudyrecommendations,
-	title        = {github sakoju/research-experience},
-	author       = {sushmaanandakoju},
-	year         = {2015-present},
-	note         = {[Accessed in 2023/2024/2025]},
-	howpublished = {\url{https://github.com/sushmaakoju/research-experience}}
+    title        = {github sakoju/research-experience},
+    author       = {sushmaanandakoju},
+    year         = {2015-present},
+    note         = {[Accessed in 2023/2024/2025]},
+    howpublished = {\url{https://github.com/sushmaakoju/research-experience}}
 }
 ```
+
+### Note about criticisms
+**About criticisms and learning philosophies:**
+
+While pursuing my research independently, I have encountered various forms of feedback and critique - some constructive, others less so. I maintain selective engagement with criticism based on several factors rooted in professional experience and personal boundaries.
+
+I recognize that interdisciplinary expertise spanning multiple domains may not always be immediately understood or appreciated. Recognition of innovative work often requires time. I encourage those who value scholarly diversity to support researchers with unique skill sets, as such individuals may face disproportionate challenges in traditional academic environments.
+
+My skills from different mentors draws the analogy to Princess Ida from Monument Valley games - no one learns anything by themselves but by the knowledge that is passed on as torch or clues to the student. Like my mentors, I also am open to hearing from my students and I keep my communication approachable, with open and safe conevrsations for mutual learning (with roles of teacher/student exchanged), without any ulterior motives. There is no reason to be territorial either about the knowledge acquired. This non-competitive approach reinforces my belief that intellectual domination is ultimately an illusion. Through curiosity driven exploration across unexplored/underexplored subjects, I have discovered interesting connections to neurosymbolic nature of language. 
+
+The academic environment sometimes creates what I call a "prove yourself" paradox - where talented individuals are simultaneously asked to demonstrate their capabilities while facing systemic barriers that prevent such demonstration. This creates an impossible situation where genuine opportunities for growth are disguised as tests, but the path to success is deliberately obstructed.
+
+I believe strongly that the future remains flexible and self-determined. Despite external pressures or attempts to limit one's trajectory, each person retains the agency to shape their own path forward.
+
+The future is never written in pen but always in pencil with an ability to alter it. Anyone that claims "I write your future, it is written in pen", is lying.
+
+*This reflects my personal philosophy developed through years of self-directed learning and professional experience.*
+
+    - By Sushma Anand Akoju, she/her/hers, June 15th 2025
+
+------------------------------------------
 

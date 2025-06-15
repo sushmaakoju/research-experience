@@ -16,7 +16,7 @@
 - As of July 17th, 2023: No professional affiliation with DARPA SKEMA program or its Principal Investigators.
 - As of July 17th 2023: No professional affiliation to linguistics department at University of Arizona.
 - As of Jan 1st 2024: No professional association with Clulab, at Department of Computer Science, University of Arizona.
-- As of July 31st, 2024, No professional association with Department of Computer Science, University of Arizona.
+- As of July 31st, 2024: No professional association with Department of Computer Science, University of Arizona.
 - As of September 25th, 2024: No professional affiliation with NSF Award Number 1846017 or its Principal Investigator and affiliated members.
 - Post-separation work represents independent contributions under review by external Natural Language Understanding experts and can be verified for my authorship and ownership attributions @ sakoju2014@gmail.com.
 - This consented separation followed documented concerns regarding proper attribution of scholarly contributions and subsequent impacts on academic standing that remain unaddressed at the time. These matters were addressed through appropriate institutional channels and remain relevant to current verification protocols.
@@ -30,7 +30,7 @@
 
 **Institutional Confidentiality:**
 - Confidential information sharing requires explicit consent through proper institutional channels as well as my consent.
-- Previous consent forms have been formally redacted as of February 2024 so any sharing of information violates institutional level confidentiality as well as person -level confidentiality and privacy.
+- Previous consent forms to share information have been formally redacted as of February 2024 so any sharing of information violates institutional level confidentiality as well as person -level confidentiality and privacy.
 - Any information sharing outside authorized protocols may create compliance complications for all parties.
 
 ### Professional Communication Protocols
@@ -50,7 +50,7 @@
 **University of New Hampshire Affiliations:**
 - Research affiliation with NSF Award Number 1846017 concluded September 25th, 2024.
 - Teaching Assistant work ended May 16th, 2024.
-- Volunteer work on proof systems and Lean 4 prover concluded December 20th, 2024.
+- Volunteer work on proof systems and Lean 4 prover concluded December 20th, 2024, NO affiliation after whatsoever.
 - No current association with Reinforcement Learning Lab or Robotics labs due to research focus alignment with Natural Language Understanding rather than their specialized areas.
 - Per institutional guidance, matters involving external program connections fall outside University of New Hampshire jurisdiction and are addressed through separate protocols.
 - The conclusion of these affiliations resulted from documented concerns regarding professional conduct standards, including disputes over attribution of work and dissemination of inaccurate personal information and disclosure of such inaccurate information. Documentation regarding these matters is available upon legitimate request through proper channels.
@@ -63,7 +63,7 @@
 ### Privacy and Contact Protocols
 
 **Authorized Communications:**
-- Family, partner, and long-term mentors should not be contacted regarding professional matters without explicit authorization.
+- Family (as I do not have cousins in the USA), partner, and long-term mentors should not be contacted regarding professional matters without explicit authorization.
 - Unauthorized contact with personal networks has been formally reported and appropriate protective measures implemented.
 
 **Repository and Work Sharing:**
@@ -81,7 +81,9 @@ When contacting sakoju2014@gmail.com for verification, please provide:
 1. Your name and organizational affiliation (your pronouns, if you prefer).
 2. Specific reason for verification request.
 3. Additional information as may be required for proper authentication.
-4. Understanding that attorney review may be necessary for certain inquiries.
+4. Understanding that some inquiries may require additional verification procedures to ensure compliance with professional contact restrictions and protocols.
+
+Non-compliant communications will be handled according to established institutional/safety protocols.
 
 **Legal Framework:**
 This statement operates within established confidentiality protocols and professional ethics guidelines. All parties are expected to respect these boundaries while ensuring appropriate verification procedures for legitimate institutional needs.
