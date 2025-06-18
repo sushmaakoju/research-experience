@@ -23,6 +23,36 @@ International students and researchers with unique career trajectories are often
 
 This proactive approach allows me to focus my time and energy on meaningful work and relationships rather than repeatedly addressing the same misconceptions or inappropriate demands for personal information.
 
+
+### Q: Have there been false allegations about the authorship of your course projects or research work? <br>
+A: Yes, false claims have been made alleging that my course projects and some of my research ideas belonged to my partner or others or someone/some research program/grant that I worked briefly during my PhD but I no longer work with. I have experienced false attribution claims regarding my independent work, including situations where access to my own projects was restricted based on inaccurate information. Such incidents highlight the importance of maintaining thorough documentation of work development.
+
+All my course projects, homework assignments, research project ideas, and study path are entirely my own work. When I have received guidance or mentorship, I have explicitly attributed such guidance/mentorship in my projects and research works. However, I have not seen others provide the same level of attribution for my contributions—which is the primary reason for maintaining comprehensive documentation on GitHub. This pattern represents a concerning deviation from ethical academic competition and scholarly discourse.
+
+My works on GitHub represent my independent capabilities and intellectual contributions. I am fully capable and have the intellectual autonomy to conduct my research and coursework independently. I have discontinued professional relationships with individuals who feel entitled to claim credit for my work without making actual contributions to my course projects, research ideas, or academic projects.
+
+I can provide verification of original authorship through appropriate channels and maintain strict professional boundaries regarding intellectual property rights and academic integrity.
+
+### Q: Have you experienced privacy and confidentiality violations? <br>
+A: Yes, I have experienced privacy violations from individuals who did not have authorized access to my personal information. These violations occurred following my polite refusal of social invitations, as I maintain strict boundaries between personal and professional relationships and am in a committed relationship.
+
+In attempting to protect both my partner's privacy and show understanding for the individuals involved, I initially addressed these matters discretely. However, this has resulted in ongoing harassment, mischaracterization, and misrepresentation spanning approximately three years.
+
+Additional individuals have exploited these situations to damage my reputation, despite having no legitimate access to private or confidential information. This appears to be motivated by competitive dynamics rather than any substantive professional concerns.
+
+I maintain comprehensive documentation of all privacy violations and have reported these matters through appropriate institutional and legal channels. All such incidents continue to be monitored and addressed according to established protocols.
+
+### Q: What do you attribute such treatment to, considering you've been working quietly for ten years? Did you make any mistakes? <br>
+A: Refusing to date someone is not a mistake. Attempting to be supportive when someone experiences rejection is also not a mistake. Working to maintain stability in lab and professional environments to prevent serious repercussions from others' behavior is not a mistake.
+
+I found myself shouldering responsibilities that weren't mine because some faculty and students lack awareness of how their mistreatment and reckless abuse of power causes broader damage to the professional environment. I consistently tried to minimize harm to the overall academic community while protecting my own professional integrity.
+
+The only way to cut my losses and protect my wellbeing was to relocate, move away, or sever ties with such individuals and groups. This pattern of having to remove myself from toxic situations rather than seeing inappropriate behavior addressed reflects systemic failures in academic environments and educational institutions due to impacts from external policies that fail to acknowledge serious impacts of interpersonal violence (physical/psychological).
+
+They call me in for expertise and refer to me as an expert, but once work is done, mistreatment and damage seems to be a motto for some. They do everything to insult publicly, as such people never receive gratification and focus less on seeking gratification for their own professional goals. Some people ardently wait for others' downfall while covering up their own personal and professional failures and constantly mischaracterize, until they feel satisfied. I cut my ties with such people. Such use and throw mechanism downgrades the respect for educational environments that are supposed to gain respect for preserving academic integrity.
+
+I refuse to accept responsibility for others' inability to handle professional rejection appropriately or their choice to retaliate rather than conduct themselves professionally. Choosing peace without loss of respect is a double-edged sword, but if others don't respect boundaries, fail to choose peace, and have overly high expectations that I should forget their attempts of damage, that represents overconfidence and unreasonable expectations.
+
 ### Q: Do you maintain boundaries between personal and professional relationships in academic settings? <br>
 A: Yes, I maintain strict boundaries between my personal and professional life. I am in a committed relationship and do not engage in romantic relationships within academic or professional environments.
 
@@ -48,7 +78,7 @@ I have documented allergies to some foods, dust, pollen, and even substances inc
 I celebrate holidays and special occasions with my partner and family, maintaining healthy personal relationships and traditions.
 
 ### Q: Do you and your partner think alike or collaborate on research? <br>
-A: No, my partner and I have different ideas, research directions, and working styles. We maintain strict separation of our research works and works-in-progress, and we do not interfere with each other's professional projects. We dislike any personal/professional interference between both of us, introduced by anyone. We always reported anyone sharing our works with each other without each other's consent. We both have not given any consent to share our works with each other through third-parties. We also declare conflicts of interest whenever applicable.
+A: No, my partner and I have different ideas, research directions even though same broader research areas (such as NLU/Neurosymbolic Methods), and working styles. We respect each other's professional/personal independence and professional boundaries. My partner has been very supportive. We maintain strict separation of our research works and works-in-progress, and we do not interfere with each other's professional projects. We dislike any personal/professional interference between both of us, introduced by anyone. We always reported anyone sharing our works with each other without each other's consent. We both have not given any consent to share our works with each other through third-parties. We also declare conflicts of interest whenever applicable.
 
 Once our respective works are published, we review them independently and form our own opinions. We share constructive criticism only about published works, and our research ideas and analyses from such publichsed works are vastly different, which adds value to both our relationship and our individual professional development. We do not prefer any third party interventions and we have reported any interventions before and now also.
 
@@ -60,6 +90,17 @@ A: Those who don't know me have sometimes engaged in mockery, insults, and publi
 Unfortunately, humans are often not humble or flexible enough to acknowledge their errors and apologize when they realize they've acted on false information. It is not my responsibility to prove someone else's false claims wrong or to correct their misjudgments about me.
 
 I focus my energy on my work and relationships with people who take the time to understand me accurately rather than making assumptions based on incomplete information or hearsay.
+
+### Q: Do you receive institutional support for additional safety and cybersecurity measures? <br>
+A: No, I do not receive institutional funding or support for additional online and cybersecurity protection, despite documented security threats and privacy violations.
+
+There appears to be a systemic pattern where institutions and individuals demand promotion of their labs/programs and expect to benefit from my achievements without providing appropriate acknowledgment or support. When I address these attribution issues or call out inappropriate behavior, the response is often retaliation rather than resolution.
+
+In my experience, there are very few instances where my contributions have been genuinely appreciated and rewarded. The majority of institutional interactions involve expectations that I contribute to others' advancement while receiving minimal recognition or protection in return. This creates a challenging environment where those who speak up about problems become targets rather than receiving support.
+
+While I have had a few faculty mentors who have genuinely vouched for me, the majority appear to seek leverage rather than provide mutual professional respect. This reflects a concerning pattern in academic environments that prioritizes institutional interests over individual safety and recognition.
+
+I have had to implement and fund my own security measures due to lack of institutional support for documented threats and harassment. I personally don't see much difference these days between Hollywood's PR tactics and those of educational institutions— both prioritize image management and promotional benefits over individual wellbeing, ensuring reputation & confidentiality and authentic recognition.
 
 ### Q: Do you promote institutions and labs? <br>
 A: I am frequently asked, and sometimes pressured, to promote certain institutions and labs. However, I find this challenging because I believe promotion should be based on genuine positive experiences rather than coercion or obligation.
@@ -73,7 +114,7 @@ I believe in reciprocal professional relationships built on mutual respect and p
 My approach is to focus on authentic professional relationships where contributions are valued and properly attributed from all parties involved.
 
 ### Q: Do you plan to shift to robotics or other fields outside of language, consciousness, or multimodal perception? <br>
-A: No, I do not plan to move into robotics or Lean programming for theorem provers. I have never given consent or confirmation to work on either of these areas. I prefer to focus on language understanding, consciousness, multimodal perception, cognitive science, and neuroscience aspects of AI. However, I have received coercion to either give up my PhD or change subjects to robotics or Lean programming for theorem provers.
+A: No, I do not plan to move into robotics or Lean programming for theorem provers. I have never given consent or confirmation to work on either of these areas. I prefer to focus on Natural Language Understanding, Neurosymbolic Methods, consciousness, multimodal perception, cognitive science, and neuroscience aspects of AI. However, I have received coercion to either give up my PhD or change subjects to robotics or Lean programming for theorem provers.
 
 **My areas of study Natural Language Understanding 360-degree focussed:**
 1. Natural Language Understanding in Deep Learning architectures.
