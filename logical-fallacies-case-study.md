@@ -118,7 +118,7 @@ This example serves as a reminder of the importance of:
 - Upholding principles of equity and inclusion in all academic evaluations
 
 ##### Conclusion
-This example illustrates the importance of comprehensive evidence evaluation and proper policy interpretation when making determinations about academic compliance. It highlights how thoughtful analysis can foster a shared academic environment where misunderstandings can be resolved through evidence-based reasoning rather than hasty judgments. **The willingness to reconsider initial conclusions based on complete evidence demonstrates intellectual integrity and preserves the academic dignity of all parties involved. **Absence of such willingness to reconsider false conclusions, has the potential lead to misdemeanor charges, as perpetuating false allegations can lead defamation and harassment from victims who fall for such false allegations, under existing sexual harassment/violence situations.** Case won!
+This example illustrates the importance of comprehensive evidence evaluation and proper policy interpretation when making determinations about academic compliance. It highlights how thoughtful analysis can foster a shared academic environment where misunderstandings can be resolved through evidence-based reasoning rather than hasty judgments. **The willingness to reconsider initial conclusions based on complete evidence demonstrates intellectual integrity and preserves the academic dignity of all parties involved. **Absence of such willingness to reconsider false conclusions, has the potential lead to misdemeanor charges, as perpetuating false allegations can lead defamation and harassment from secondary victims who fall for such false allegations, under existing Interpersonal Violence (IPV) situations to primary victims.** Case won!
 
 *Note: This analysis is provided purely as an educational demonstration of logical reasoning in academic contexts. It does not reference any specific real-world situation and serves only as an illustrative example of critical thinking in policy interpretation.*
 
@@ -182,7 +182,6 @@ Prompt for example 2: <a href="https://github.com/sushmaakoju/research-experienc
     - <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-colorado-boulder#summary-reports-of-the-study-and-approach-for-the-independent-study">Independent study</a> and <a herf="https://github.com/sushmaakoju/named-entity-text-extraction-ocr-slave-trade-volumes">the study and design of Named Entity Recognition from OCR scanned Handwritten Slave Trade Volumes and to train a search over OCR scanned documents, Summer 2022</a>
     - <a href="https://github.com/sushmaakoju/nlp-final-2021-pcl-semeval2022-task">I received #1 rank on the leaderboard in the first round of SemEval task competition that was part of the NLP class, despite finger fracture and wildfires in Boulder.</a>
 - These works were from 2018 to 2022. Take it with a pinch of salt as libraries and Language Models underwent evolutionary changes!
-
 
 ----
 ```

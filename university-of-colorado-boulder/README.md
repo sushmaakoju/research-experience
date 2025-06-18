@@ -6,6 +6,11 @@ For enrollment verification, the professors and officials preferred that you con
 
 For employment verification, please contact <a href="https://www.colorado.edu/hr/content/contact-hr"> Employment Verification, University of Colorado Boulder</a>.
 
+### Proactive measures
+- Due to previous experiences with authorship concerns, potential plagiarism/copyright threats, hazing, and coercive behavior, I implemented additional protective measures before sharing all of my projects on Github. I proactively recorded each feedback received, of which only a couple of comments that were relevant to Natural Language Understanding/Neurosymbolic methods and my study focus were implemented.
+- No consent given to anyone to share with others or make false claims. I worked with my attorney to have an exhaustive documentation and verification to safeguard myself from any such potential threats.
+- If anyone making false claims/false complaints of authorship for my works, they are getting themselves in legal trouble due to forensically verified authorship.
+
 ## Masters in Data Science:
 
 ### Volunteer work as an experienced student:

@@ -5,6 +5,16 @@ Sushma Anand Akoju, she/her/hers, May 2025
 **Authorship, Enrollment/Employment Verification and Contact Information:**
 For enrollment verification, employment verification, and confidential documentation regarding academic circumstances, please contact sakoju2014@gmail.com for legally attested copies of admission letters, enrollment records, and timeline documentation.
 
+**Proactive measures**
+- Due to previous experiences with authorship concerns, potential plagiarism/copyright threats, hazing, and coercive behavior, I implemented additional protective measures before sharing all of my projects on Github. I proactively recorded each feedback received, of which only a couple of comments that were relevant to Natural Language Understanding/Neurosymbolic methods and my study focus were implemented.
+- No consent given to anyone to share with others or make false claims. I worked with my attorney to have an exhaustive documentation and verification to safeguard myself from any such potential threats.
+- If anyone making false claims/false complaints of authorship for my works, they are getting themselves in legal trouble due to forensically verified authorship.
+
+**Additional University of New Hampshire Clarifications:**
+- I am NOT affiliated with Prof. Wheeler Ruml, Prof. Marek Petrik, or Prof. Laura Dietz, as I did not receive supervision from them due to lack of intersection with my research interests in Natural Language Understanding/Neurosymbolic methods and are more focussed on applied-programming research jobs for the cohort than research-focussed jobs.
+- Other professors I met at UNH from Life Sciences and Biological Sciences were similarly unable to provide guidance due to the same lack of domain intersection, though I had positive interactions with several faculty members.
+- These clarifications ensure accurate representation of my academic relationships and prevent any misunderstanding about supervisory or collaborative arrangements.
+
 ### Volunteer Academic Contributions
 
 - Presented background material on proof systems, logic, automata, formal languages, and theorem provers, for bringing awareness of how theory and applications come together. This was not requested by Professors, I volunteered to give this knowledge transfer based on my past experience and studies.
@@ -40,6 +50,8 @@ Under the supervision of Professor Jessica Bolker, delivered guest lectures for:
 
 The presentation focused on ethical considerations, scientific implications, and practical applications of Large Language Models in academic writing contexts, focussed on AI for academic writing.
 
+- Due to previous experiences with authorship concerns, potential plagiarism/copyright threats, hazing, and coercive behavior, I implemented additional protective measures before sharing this project. I proactively recorded each feedback received, of which only a couple of comments that were relevant to Natural Language Understanding/Neurosymbolic methods and my study focus were implemented.
+
 ### Independent Research Projects
 
 **Science Communication Project: First Order Logic for Everyday Reasoning**
@@ -47,14 +59,16 @@ The presentation focused on ethical considerations, scientific implications, and
 - Created resources for analyzing logical fallacies, paradoxes, and misinformation detection.
 - Project materials: [First Order Logic as a Practical Tool](https://tinyurl.com/fol-as-a-tool).
 - All content independently authored and prepared without external review by me.
+- Due to previous experiences with authorship concerns, potential plagiarism/copyright threats, hazing, and coercive behavior, I implemented additional protective measures before sharing this project. I proactively recorded each feedback received, of which only a couple of comments that were relevant to Natural Language Understanding/Neurosymbolic methods and my study focus were implemented.
 
-**CS 830 Final Project: Natural Language Understanding Research**
-- Developed comprehensive NLP/NLU research project aligned with AI specialization requirements, outside of Course requirements as course is more robotics focussed.
+**Final Project presentation: Natural Language Understanding Research, Spring 2025, CS Poster presentation**
+- Developed comprehensive NLP/NLU research project outside of scope of Robotics specialization requirements, outside of Course requirements as course is more robotics focussed.
 - Independent research initiative launched January 2025.
 - Complete LaTeX documentation prepared and currently under NLU/NLP experts review.
 - Project demonstrates integration of advanced coursework with specialized research interests, which fall outside of robotics, due to extensive robotics focussed instruction of the course.
 - Work is being evaluated by external Natural Language Understanding domain experts.
-- Full project documentation and verification available upon request.
+- Full project documentation, authorship and verification available upon request.
+- Due to previous experiences with authorship concerns, potential plagiarism/copyright threats, hazing, and coercive behavior, I implemented additional protective measures before sharing this project. I proactively recorded each feedback received, of which only a couple of comments that were relevant to Natural Language Understanding/Neurosymbolic methods and my study focus were implemented.
 
 **Note:** For any verification of academic records or accommodations, please contact me directly at [sakoju2014@gmail.com] for official documentation and certified records from UNH.
 

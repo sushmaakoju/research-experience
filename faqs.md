@@ -1,9 +1,18 @@
-# Frequently Asked Questions <br>
+# Frequently Asked Questions/False Allegations as Questions (FAQs)
 
-Sushma Anand Akoju, she/her/hers, May 2025
+**Sushma Anand Akoju, she/her/hers, May 2025**
 
-**Written based on FAQs received and answered by: Sushma Anand Akoju (she/her/hers) <br>
-Please contact sakoju2014@gmail.com for official verification/ inquiries and for consent.**
+**Written and answered by: Sushma Anand Akoju (she/her/hers)**
+
+This document addresses frequently asked questions and false allegations I have received. It demonstrates that regardless of how many FAQs or false allegations arise, my work, values, and goals remain consistent and unchanged. Though desperate times do need desperate measures, but it certainly does NOT imply bypassing violations, academic misconduct and violation of academic, legal and institutional policies. 
+
+**Proactive measures**
+
+- Due to previous experiences with authorship concerns, potential plagiarism/copyright threats, hazing, and coercive behavior, I implemented additional protective measures before sharing all of my projects on Github. I proactively recorded each feedback received, of which only a couple of comments that were relevant to Natural Language Understanding/Neurosymbolic methods and my study focus were implemented.
+- No consent given to anyone to share with others or make false claims. I worked with my attorney to have an exhaustive documentation and verification to safeguard myself from any such potential threats.
+- If anyone making false claims/false complaints of authorship for my works, they are getting themselves in legal trouble due to forensically verified authorship.
+
+Please contact sakoju2014@gmail.com for official verification, inquiries, and consent regarding any matters discussed herein.
 
 ## Why FAQs
 
@@ -23,6 +32,82 @@ International students and researchers with unique career trajectories are often
 
 This proactive approach allows me to focus my time and energy on meaningful work and relationships rather than repeatedly addressing the same misconceptions or inappropriate demands for personal information.
 
+### Q: Have there been false allegations about the authorship of your course projects or research work? <br>
+A: Yes, false claims have been made alleging that my course projects and some of my research ideas belonged to my partner or others or someone/some research program/grant that I worked briefly during my PhD but I no longer work with. I have experienced false attribution claims regarding my independent work, including situations where access to my own projects was restricted based on inaccurate information. Such incidents highlight the importance of maintaining thorough documentation of work development.
+
+All my course projects, homework assignments, research project ideas, and study path are entirely my own work. When I have received guidance or mentorship, I have explicitly attributed such guidance/mentorship in my projects and research works. However, I have not seen others provide the same level of attribution for my contributions—which is the primary reason for maintaining comprehensive documentation on GitHub. This pattern represents a concerning deviation from ethical academic competition and scholarly discourse.
+
+My works on GitHub represent my independent capabilities and intellectual contributions. I am fully capable and have the intellectual autonomy to conduct my research and coursework independently. I have discontinued professional relationships with individuals who feel entitled to claim credit for my work without making actual contributions to my course projects, research ideas, or academic projects.
+
+I can provide verification of original authorship through appropriate channels and maintain strict professional boundaries regarding intellectual property rights and academic integrity.
+
+### Q: Have people attempted to coerce you to quit your PhD for employment, commercial and marriage purposes? <br>
+A: Yes, there have been multiple instances where individuals engaged in coordinated schemes to manipulate groups of people with the goal of pressuring me to abandon my PhD, pursue high-paying employment, and marry one of them—all without any conversation with me or my consent. This also highlights the "mi casa su casa" mentality that fails to respect personal, professional, as well as intellectual boundaries. Some of them also give me unsolicited advice about what relationships I should seek and engage in manipulative schemes regarding my health—they are not my doctors or gynecologists, and such behavior is completely inappropriate in professional environments. This approach is so cheap and so undignified and in bad taste, that they're engaging in this out of sheer commercial aspirations is a feeling that I don't even know how to express. Their failure to accept and respect my boundaries, is a point in contention.
+
+This situation completely disregards my personal aspirations and the fact that I am in a committed relationship. It represents a deeply concerning and dangerous pattern of behavior that treats me as an object to be manipulated rather than an autonomous individual with my own goals and choices.
+
+This reflects broader institutional problems where institutions often support faculty over students, even when students face harassment. There's an expectation that top students should promote institutions and labs, while receiving inadequate funding or scholarship support but also engaging in romantic relationships with anyone in the cohort, creating vulnerability to such coercive schemes.
+
+These attempts at life manipulation represent serious violations of personal autonomy and academic freedom, yet they are often overlooked or minimized by institutional authorities who should be protecting students from such coordinated harassment.
+
+I have collected evidences continuously and have reported these incidents to both internal and external agencies for my safety.
+
+### Q: Have you experienced privacy and confidentiality violations? <br>
+A: Yes, I have experienced privacy violations from individuals who did not have authorized access to my personal information. These violations occurred following my polite refusal of social invitations, as I maintain strict boundaries between personal and professional relationships and am in a committed relationship.
+
+In attempting to protect both my partner's privacy and show understanding for the individuals involved, I initially addressed these matters discretely. However, this has resulted in ongoing harassment, mischaracterization, and misrepresentation spanning approximately three years.
+
+Additional individuals have exploited these situations to damage my reputation, despite having no legitimate access to private or confidential information. This appears to be motivated by competitive dynamics rather than any substantive professional concerns.
+
+I maintain comprehensive documentation of all privacy violations and have reported these matters through appropriate institutional and legal channels. All such incidents continue to be monitored and addressed according to established protocols.
+
+### Q: What do you attribute such treatment to, considering you've been working quietly for ten years? Did you make any mistakes? <br>
+A: Refusing to date someone is not a mistake. Attempting to be supportive when someone experiences rejection is also not a mistake. Working to maintain stability in lab and professional environments to prevent serious repercussions from others' behavior is not a mistake.
+
+I found myself shouldering responsibilities that weren't mine because some faculty and students lack awareness of how their mistreatment and reckless abuse of power causes broader damage to the professional environment. I consistently tried to minimize harm to the overall academic community while protecting my own professional integrity.
+
+The only way to cut my losses and protect my wellbeing was to relocate, move away, or sever ties with such individuals and groups. This pattern of having to remove myself from toxic situations rather than seeing inappropriate behavior addressed reflects systemic failures in academic environments and educational institutions due to impacts from external policies that fail to acknowledge serious impacts of interpersonal violence (physical/psychological).
+
+They call me in for expertise and refer to me as an expert, but once work is done, mistreatment and damage seems to be a motto for some. They do everything to insult publicly, as such people never receive gratification and focus less on seeking gratification for their own professional goals. Some people ardently wait for others' downfall while covering up their own personal and professional failures and constantly mischaracterize, until they feel satisfied. I cut my ties with such people. Such use and throw mechanism downgrades the respect for educational environments that are supposed to gain respect for preserving academic integrity.
+
+I refuse to accept responsibility for others' inability to handle professional rejection appropriately or their choice to retaliate rather than conduct themselves professionally. Choosing peace without loss of respect is a double-edged sword, but if others don't respect boundaries, fail to choose peace, and have overly high expectations that I should forget their attempts of damage, that represents overconfidence and unreasonable expectations.
+
+### Q: What best practices do you have in place for intellectual property rights? <br>
+
+**Intellectual Property Boundaries:**
+Some people assume "mi casa su casa" (my house is your house) regarding intellectual exchange of ideas in professional environments, treating others' work as freely available for their use without proper attribution or consent.
+
+This attitude represents a fundamental misunderstanding of intellectual property rights and professional boundaries. While academic environments encourage collaboration and idea exchange, this does not mean that all intellectual contributions become communal property or that others can freely use, modify, or claim credit for work they did not create. 
+
+Part of the problem is that some researchers sweep these violations under the carpet, claiming "the person can't do anything about it" and end up sharing documents even when no-contact situations have been established. Such unconsented sharing, despite explicit requests not to exchange documents with specific individuals, creates not only threatening situations but also severe points of contention. I don't expect such mentalities and ignorance to change anytime soon. This is the reason I follow very rigorous documentation and recording techniques that may be unconventional yet remain legally binding and protective.
+
+Proper intellectual exchange requires:
+- Explicit consent for use of others' ideas.
+- Clear attribution of contributions.
+- Respect for individual intellectual property rights.
+- Understanding that sharing ideas for discussion does not grant usage rights.
+
+The "mi casa su casa" mentality becomes particularly problematic when applied to:
+- Research projects and methodologies.
+- Course work and assignments.
+- Unpublished ideas and works-in-progress.
+- Intellectual contributions.
+
+There are also people who pretend to investigate plagiarism as a pretext to extract information about techniques used to detect plagiarism through inappropriate means, which constitutes intellectual property violation disguised as academic integrity enforcement and falls under harassment. People can directly ask me for tips, but that is not how some people seek information. Information extraction through abuse, IPV, and manipulation has become a common yet deeply disrespectful practice among certain individuals.
+
+### Q: Why do some people think interpersonal violence (IPV) is an illusion? <br>
+A: Many people fail to recognize IPV patterns in their own behavior and remain oblivious to how their actions affect others. This lack of self-awareness creates a dangerous dynamic where harmful behaviors continue unchecked while observers are expected to simply watch without intervention.
+
+From a psychological perspective, individuals who engage in IPV often rationalize their behavior through various cognitive mechanisms—minimization, denial, or reframing abuse as "motivation" or "tough love." This self-deception allows them to maintain their behavior while genuinely believing they are not causing harm.
+
+Additionally, IPV in professional or academic settings can be particularly insidious because it's often disguised as legitimate authority, mentorship, or performance management. This makes it harder for both perpetrators and observers to recognize the abusive nature of the behavior.
+
+The result is a culture where harmful behaviors are normalized, victims are isolated, and systemic change becomes difficult because those with the power to intervene may not recognize the severity of the situation or may be complicit in maintaining the status quo.
+
+This is one of the many reasons I volunteer for consent-based communication. No matter how advanced we may be in terms of technology and AI, we always have to deal with IPV, because it is a pattern many are not even aware of.
+
+**"We have become a generation of peeping ... What people ought to do is get outside their own house and look in for a change. Readers Digest, April 1939." — quote from Rear Window movie, 1954, which seems to only become more relevant by every year.**
+
 ### Q: Do you maintain boundaries between personal and professional relationships in academic settings? <br>
 A: Yes, I maintain strict boundaries between my personal and professional life. I am in a committed relationship and do not engage in romantic relationships within academic or professional environments.
 
@@ -40,6 +125,16 @@ For anyone who feels like retaliating, there is a constructive alternative: tran
 
 This is evidence that even when I am given toxic situations, I always convert them into something positive and constructive. However, upon continuous targeted toxic experiences, I report to appropriate systems that take actions appropriately. **I make things look easy even when they are difficult, and so others don't recognize the effort involved. This stands as a paradox that handling challenges will lead to less recognition.**
 
+### Q: Did you ever try to converse and resolve situations with people? <br>
+A: Yes, I consistently put in significant effort—sometimes too much effort—to converse and negotiate with individuals involved in conflicts. I have always prioritized communication and attempted peaceful resolution of professional disagreements.
+
+However, when people refuse to show respect, continue to engage in coercive behavior, and fail to stop inappropriate conduct despite clear communication, I discontinue interaction with them. At that point, continued engagement becomes counterproductive and potentially harmful.
+
+I believe in exhausting diplomatic options before severing professional relationships, but I also recognize when further attempts at resolution are futile and may actually enable continued misconduct. But once I sever professional relationships based on misconduct/other violations, I stick to my decisions with same resilience I have towards my research goals despite such challenges.
+
+### Q: Did someone create obstacles to change your research goals or report false reports of behavior from you?
+A. Yes. People tend to fall for false allegations and false claims. But the only way forward is being yourself and eventually people will know who did not cross the line. I did not cross the line, but some folks do (unfortunately both students and professors). 
+
 ### Q: Do you have any substance use issues or addictions? <br>
 A: No, I do not have any addictions and I do not use intoxicants. I maintain a clear lifestyle free from substances that could impair my judgment or professional performance.
 
@@ -48,7 +143,7 @@ I have documented allergies to some foods, dust, pollen, and even substances inc
 I celebrate holidays and special occasions with my partner and family, maintaining healthy personal relationships and traditions.
 
 ### Q: Do you and your partner think alike or collaborate on research? <br>
-A: No, my partner and I have different ideas, research directions, and working styles. We maintain strict separation of our research works and works-in-progress, and we do not interfere with each other's professional projects. We dislike any personal/professional interference between both of us, introduced by anyone. We always reported anyone sharing our works with each other without each other's consent. We both have not given any consent to share our works with each other through third-parties. We also declare conflicts of interest whenever applicable.
+A: No, my partner and I have different ideas, research directions even though same broader research areas (such as NLU/Neurosymbolic Methods), and working styles. We respect each other's professional/personal independence and professional boundaries. My partner has been very supportive. We maintain strict separation of our research works and works-in-progress, and we do not interfere with each other's professional projects. We dislike any personal/professional interference between both of us, introduced by anyone. We always reported anyone sharing our works with each other without each other's consent. We both have not given any consent to share our works with each other through third-parties. We also declare conflicts of interest whenever applicable.
 
 Once our respective works are published, we review them independently and form our own opinions. We share constructive criticism only about published works, and our research ideas and analyses from such publichsed works are vastly different, which adds value to both our relationship and our individual professional development. We do not prefer any third party interventions and we have reported any interventions before and now also.
 
@@ -60,6 +155,17 @@ A: Those who don't know me have sometimes engaged in mockery, insults, and publi
 Unfortunately, humans are often not humble or flexible enough to acknowledge their errors and apologize when they realize they've acted on false information. It is not my responsibility to prove someone else's false claims wrong or to correct their misjudgments about me.
 
 I focus my energy on my work and relationships with people who take the time to understand me accurately rather than making assumptions based on incomplete information or hearsay.
+
+### Q: Do you receive institutional support for additional safety and cybersecurity measures? <br>
+A: No, I do not receive institutional funding or support for additional online and cybersecurity protection, despite documented security threats and privacy violations.
+
+There appears to be a systemic pattern where institutions and individuals demand promotion of their labs/programs and expect to benefit from my achievements without providing appropriate acknowledgment or support. When I address these attribution issues or call out inappropriate behavior, the response is often retaliation rather than resolution.
+
+In my experience, there are very few instances where my contributions have been genuinely appreciated and rewarded. The majority of institutional interactions involve expectations that I contribute to others' advancement while receiving minimal recognition or protection in return. This creates a challenging environment where those who speak up about problems become targets rather than receiving support.
+
+While I have had a few faculty mentors who have genuinely vouched for me, the majority appear to seek leverage rather than provide mutual professional respect. This reflects a concerning pattern in academic environments that prioritizes institutional interests over individual safety and recognition.
+
+I have had to implement and fund my own security measures due to lack of institutional support for documented threats and harassment. I personally don't see much difference these days between Hollywood's PR tactics and those of educational institutions— both prioritize image management and promotional benefits over individual wellbeing, ensuring reputation & confidentiality and authentic recognition.
 
 ### Q: Do you promote institutions and labs? <br>
 A: I am frequently asked, and sometimes pressured, to promote certain institutions and labs. However, I find this challenging because I believe promotion should be based on genuine positive experiences rather than coercion or obligation.
@@ -73,7 +179,7 @@ I believe in reciprocal professional relationships built on mutual respect and p
 My approach is to focus on authentic professional relationships where contributions are valued and properly attributed from all parties involved.
 
 ### Q: Do you plan to shift to robotics or other fields outside of language, consciousness, or multimodal perception? <br>
-A: No, I do not plan to move into robotics or Lean programming for theorem provers. I have never given consent or confirmation to work on either of these areas. I prefer to focus on language understanding, consciousness, multimodal perception, cognitive science, and neuroscience aspects of AI. However, I have received coercion to either give up my PhD or change subjects to robotics or Lean programming for theorem provers.
+A: No, I do not plan to move into robotics or Lean programming for theorem provers. I have never given consent or confirmation to work on either of these areas. I prefer to focus on Natural Language Understanding, Neurosymbolic Methods, consciousness, multimodal perception, cognitive science, and neuroscience aspects of AI. However, I have received coercion to either give up my PhD or change subjects to robotics or Lean programming for theorem provers.
 
 **My areas of study Natural Language Understanding 360-degree focussed:**
 1. Natural Language Understanding in Deep Learning architectures.

@@ -261,6 +261,11 @@ If you found this repository helpful and have used any of the documents on this 
 }
 ```
 
+### Proactive measures
+- Due to previous experiences with authorship concerns, potential plagiarism/copyright threats, hazing, and coercive behavior, I implemented additional protective measures before sharing all of my projects on Github. I proactively recorded each feedback received, of which only a couple of comments that were relevant to Natural Language Understanding/Neurosymbolic methods and my study focus were implemented.
+- No consent given to anyone to share with others or make false claims. I worked with my attorney to have an exhaustive documentation and verification to safeguard myself from any such potential threats.
+- If anyone making false claims/false complaints of authorship for my works, they are getting themselves in legal trouble due to forensically verified authorship.
+
 ### Note about criticisms
 **About criticisms and learning philosophies:**
 
@@ -271,6 +276,8 @@ I recognize that interdisciplinary expertise spanning multiple domains may not a
 My skills from different mentors draws the analogy to Princess Ida from Monument Valley games - no one learns anything by themselves but by the knowledge that is passed on as torch or clues to the student. Like my mentors, I also am open to hearing from my students and I keep my communication approachable, with open and safe conevrsations for mutual learning (with roles of teacher/student exchanged), without any ulterior motives. There is no reason to be territorial either about the knowledge acquired. This non-competitive approach reinforces my belief that intellectual domination is ultimately an illusion. Through curiosity driven exploration across unexplored/underexplored subjects, I have discovered interesting connections to neurosymbolic nature of language. 
 
 The academic environment sometimes creates what I call a "prove yourself" paradox - where talented individuals are simultaneously asked to demonstrate their capabilities while facing systemic barriers that prevent such demonstration. This creates an impossible situation where genuine opportunities for growth are disguised as tests, but the path to success is deliberately obstructed.
+
+Metaphorically, some educational approaches create impossible conditions - demanding performance while removing the tools needed for success (break the very hand that writes programming software and beat it to get the work done, if needed chop it). Such counterproductive methods unfortunately persist in some academic settings, despite clear evidence of their ineffectiveness which falls under Interpersonal Violence. No matter how strongly one would have evidences, some people, take pride (from power, not by evidences) in twisting and making false claims. May god bless them!!
 
 I believe strongly that the future remains flexible and self-determined. Despite external pressures or attempts to limit one's trajectory, each person retains the agency to shape their own path forward.
 

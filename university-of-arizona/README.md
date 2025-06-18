@@ -5,6 +5,11 @@ Sushma Anand Akoju, she/her/hers, May 2025
 
 For enrollment verification, employment verification and any other confidential information about extenuating circumstances, please contact sakojuj2014@gmail.com for forensically verified AND legally attested copies of admission acceptance letters, enrollment verification as well as timeline of extenuating circumstances.
 
+### Proactive measures
+- Due to previous experiences with authorship concerns, potential plagiarism/copyright threats, hazing, and coercive behavior, I implemented additional protective measures before sharing all of my projects on Github. I proactively recorded each feedback received, of which only a couple of comments that were relevant to Natural Language Understanding/Neurosymbolic methods and my study focus were implemented.
+- No consent given to anyone to share with others or make false claims. I worked with my attorney to have an exhaustive documentation and verification to safeguard myself from any such potential threats.
+- If anyone making false claims/false complaints of authorship for my works, they are getting themselves in legal trouble due to forensically verified authorship.
+
 ### Note
 
 - My projects that were (done or completed) after July 17th 2023 after which I am not part of any grant funding and as I do not work with the PI of <a href="https://www.darpa.mil/research/programs/automating-scientific-knowledge-extraction-modeling">SKEMA</a>. All of my works done or completed after July 17th 2023, are volunteer works and are presently being reviewed by and may have potential authorship from - Natural Language Understanding experts and is outside scope of the said program.
