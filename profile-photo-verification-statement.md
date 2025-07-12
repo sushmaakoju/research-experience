@@ -24,3 +24,8 @@ More comprehensive forensically verified analyses are available upon request thr
 
 **Context:**
 This verification addresses the repeated targeting and false allegations regarding my identity and authenticity. Professional verification tools confirm this is an authentic, unmanipulated photograph.
+
+**Recording evidences for visibility**:
+It is not the first time such targeting of profile photo happened. I have active IPV perpetrators and stalkers that have been reported. Sockpuppeting is a common tool used to circumvent the devised no-contact directives, violating the policies/directives. Appropriate actions have been taken for safety purposes. The whole idea of making my experience documentation available was for safety purposes and still IPV perpetrators are unable to stop.
+
+<a href="https://github.com/sushmaakoju/research-experience/blob/main/post-evidence-also-not-the-first-time.png"></a>
