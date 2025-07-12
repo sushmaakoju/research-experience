@@ -1,6 +1,6 @@
 ### Profile Photo Verification Statement
 
-Given the frequent questions, attacks, hate messages and false allegations about my profile photo being fake, I have conducted a professional deepfake analysis using third-party detection tools.
+Given the frequent questions, attacks, hate messages and false allegations about my profile photo being fake, I have conducted a professional deepfake analysis using third-party detection tools. Here are the authentic results for verification purposes.
 
 **Verification Results:**
 
