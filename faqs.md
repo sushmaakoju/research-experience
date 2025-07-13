@@ -106,7 +106,7 @@ The result is a culture where harmful behaviors are normalized, victims are isol
 
 This is one of the many reasons I volunteer for consent-based communication. No matter how advanced we may be in terms of technology and AI, we always have to deal with IPV, because it is a pattern many are not even aware of.
 
-**"We have become a generation of peeping ... What people ought to do is get outside their own house and look in for a change. Readers Digest, April 1939." — quote from Rear Window movie, 1954, which seems to only become more relevant by every year.**
+**"We have become a generation of peeping ... What people ought to do is get outside their own house and look in for a change. Readers Digest, April 1939." — quote from "Rear Window" movie, 1954, which seems to only become more relevant by every year like Moore's law.**
 
 ### Q: Do you maintain boundaries between personal and professional relationships in academic settings? <br>
 A: Yes, I maintain strict boundaries between my personal and professional life. I am in a committed relationship and do not engage in romantic relationships within academic or professional environments.
@@ -131,6 +131,20 @@ A: Yes, I consistently put in significant effort—sometimes too much effort—t
 However, when people refuse to show respect, continue to engage in coercive behavior, and fail to stop inappropriate conduct despite clear communication, I discontinue interaction with them. At that point, continued engagement becomes counterproductive and potentially harmful.
 
 I believe in exhausting diplomatic options before severing professional relationships, but I also recognize when further attempts at resolution are futile and may actually enable continued misconduct. But once I sever professional relationships based on misconduct/other violations, I stick to my decisions with same resilience I have towards my research goals despite such challenges.
+
+But once no-contact directives came up, I seized from any communication further. However upon receiving anonymous texts, I have used tools and responded appropriately to combat anonymous threats and texts, as texts were anonymous that do not reveal their identity to the receiver (me) as I do not have any of their contact numbers or new accounts they use that circumvent the no-contact directives.
+
+### Q. Have you experienced people not believing your medical conditions such as allergies?
+A. Yes, I've encountered situations where people have questioned the validity of my allergies, including instances where allergens were deliberately introduced to food. This required emergency medical intervention and an epipen. As an international student, I've found that some individuals exploit perceived vulnerabilities, including medical conditions such as allergies, as vectors for harassment. Some have even gone to the extent of gifting me candies with allergens for my birthday, a specially curated toxic gesture. I've learned that sometimes protective silence and careful documentation are necessary survival strategies. These experiences have shaped my understanding of how systematic targeting can occur over extended durations. Unfortunately, this targeting doesn't only come from out-group members but also from in-group members—a sad irony. Being proactive always helps, though unknowingly people that target continue since proactiveness protects the person while dissappoints the perpetrator that has targeted.
+
+### Q. Are you proactive?
+A. Yes, I am deliberately proactive in documenting my work, achievements, and enriching experiences through social media—not for popularity, but to create a public record for others to view and engage with. Due to a turn of events where I received diminished support from potential recommenders following toxic and retaliatory attempts by IPV perpetrators, I decided that increased visibility was necessary for my safety. While digital information cannot fully capture rich, layered, complex human experience, it provides a glimpse of authenticity, which is one of my core strengths. I sever ties with people who engage in denial or refuse to respect boundaries around work and collaboration. 
+
+I recognize that many international students maintain an active social media presence to improve their prospects, and this visibility can be interpreted differently by various audiences. I've encountered increasingly aggressive individuals who react poorly to refusal of personal invitations or advances. These individuals often attempt to coerce reconciliation or collaboration using IPV as their primary tool, potentially engaging in defamation through misinformation and false allegations. 
+
+Their strategy appears to be persistent repetition—operating under the assumption that repeating harmful behavior enough times might eventually succeed, similar to how even a stopped clock is right twice a day. By increasing the volume of attempts through repeated failed IPV incidents, they seem to believe that eventually one attempt will work. According to criminal psychology patterns, such relentless perpetrators tend to escalate the intensity of their IPV tactics over time.
+
+Consequently, I've developed proactive measures to identify IPV patterns and hidden motives, strategically anticipating potential consequences similar to chess strategy.
 
 ### Q: Did someone create obstacles to change your research goals or report false reports of behavior from you?
 A. Yes. People tend to fall for false allegations and false claims. But the only way forward is being yourself and eventually people will know who did not cross the line. I did not cross the line, but some folks do (unfortunately both students and professors). 
