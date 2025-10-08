@@ -16,6 +16,50 @@ This compilation serves as a record of my self-directed learning and is shared w
 
 *********************
 
+### Note on Course Selection and Academic Context
+
+The courses listed in these sections reflect areas of study that were not part of standard or available course listings when I began my PhD in August 2022. As a result, I pursued many of these topics independently outside of formal university offerings, often without consistent access to subject matter experts in these specific domains. For this purpose, I have separated skills and learning that are not part of formal course offerings. This distinction is maintained to safeguard against biased or presumptive evaluations of my skills, and to ensure that any formal assessment is conducted through a professional, respectful, and fact-based conversation. <a href="https://tinyurl.com/skills-learnt-no-enrollment"> skills-learnt-without-enrollment </a>
+
+## Courses and subjects learnt outside of University's listed courses
+
+1. Fundamentals Of Neuroscience (Audit, online course), Summer 2022
+2. Neuroscience of Reasoning, 2023 $\color{blue}(notes, WIP)$
+3. Fundamentals Of Neuroscience (self-learning through textbooks), 2024, ongoing  $\color{blue}(notes, WIP)$
+4. Neural Basis of Language, 2024 (through another online material)
+5. Study on Theory of Computation, 2021 onwards
+6. Study of Automated Theorem Proving, 2020
+7. Study of Markov Logic Neural networks (MLNs), 2022
+8. Study of Probabilistic MLNs, 2022
+9. Study of Logical Neural Networks, 2022
+10. Study of Abstract Meaning Representation, 2022
+11. Study of Natural Logic, 2022-2023
+12. Study of Natural Proofs, 2022
+13. Study of Philosophies of logic, 2021-2022
+14. Study of Language of Proteins in Computational Biology, 2021 onwards
+15. Study of Smart Contracts as a language and Turing-completeness, 2021 onwards
+16. Study of First Order Logic and Second Order Logic (as a language), 2018 onwards
+17. Study of tactics in proofs (as a language), 2021 onwards
+18. Study of Automated Theorem Proving, 2020 onwards
+19. Study of Markov Logic Neural networks (MLNs), 2022
+20. Study of Probabilistic MLNs, 2022
+21. Study of Logical Neural Networks, 2022 onwards
+22. Study of Abstract Meaning Representation, 2022 onwards
+23. Study of Synctactic, Semantic, Morphology, Phonetics, Phonology and Pragmatics in Language, 2022 onwards
+24. Study of Auditory features (as signals) in spoken language in auditory format, 2016 onwards
+25. Study of Numerical encodings as a language for Neural Networks (I summarized a broad number of topics into this one for simplicity), 2020 onwards
+26. Study of types of parsers and parsing methods, 2020 onwards
+27. Embodied Cognition, 2023
+28. Theory of Mind, 2024
+29. Mechanistic Interpretability, 2024 - 2025 
+30. Constructed Languages Conlanging, 2020 (referred by mentor+friend)
+31. Artificial Intelligence, Textbook based, 2018 (referred by mentors, referred by mentor+friend)
+32. Neural Networks, 2015-2017
+33. Deep Reinforcement Learning, 2019 (referred by mentor+friend)
+34. Natural Language Processing, Youtube/online lecture materials, Summer 2021
+35. Deep Learning Architectures, Summer & Fall 2022
+36. Symbolic Logic, 2016
+
+
 ## Neuroscience and Cognitive Science
 
 - Fundamentals Of Neuroscience (Audit), Summer 2022
