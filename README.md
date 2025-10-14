@@ -1,6 +1,6 @@
 ## Research experience of Sushma Anand Akoju, she/her/hers, Aug 2012 - Present
 
-**Keywords:** Natural Language Understanding, MultiModal models, Large Language Models (LLMs), Vision-based LLMs, Neurosymbolic Methods, Natural Language Reinforcement Learning, reasoning, teaching.
+**Keywords:** Natural Language Understanding, MultiModal models, Large Language Models (LLMs), Cognitive Science, Neurosceince, Vision-based LLMs, Neurosymbolic Methods, reasoning and teaching.
 
 00. <a href="https://github.com/sushmaakoju/research-experience/tree/main/learning-as-a-hobby">Learning as a hobby</a>
 
