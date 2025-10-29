@@ -67,6 +67,7 @@ The courses listed in these sections reflect areas of study that were not part o
 - Fundamentals Of Neuroscience (enrolled), 2024, ongoing  $\color{blue}(notes, WIP)$
 - Consciousness theory and neuroscience (based on research works) and <a href="https://amcs-community.org/">AMCS</a> talks, from 2023 - ongoing
 - Cognitive science aspects of Language, Audio and Vision
+- Cognitive Science Colloquium, University of Arizona (<a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/sushma-akoju-cogsci-Summary_of_Talks_related_to_Consciousness__Metacognition_and_Representation_Similarity_Analysis.pdf"> Cognitive Science Colloquium, COGS 595, Fall 2022</a>, <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/sushma-akoju-cog-sci-summary_of_Talks_related_to_Episodic_memory__Sentience__Social_norms_and_discussion_dynamics.pdf"> Cognitive Science Colloquium, COGS 595, Spring 2023</a>)
 - Neural Basis of Language, PSY 530, Fall 2023 (readings)
 
 ## Artificial Intelligence
@@ -244,8 +245,8 @@ The following topics change how one perceives and views language as a symbolic r
 
 ## Multimodal AI
 
-- OpenFace, 2016 
-- OpenSmile, 2016
+- OpenFace <a href="https://github.com/sushmaanandakoju/research-experience/tree/main/carnegie-mellon-university#note">Conversational AI, CMU</a>, 2016 
+- OpenSmile <a href="https://github.com/sushmaanandakoju/research-experience/tree/main/carnegie-mellon-university#note">Conversational AI, CMU</a>, 2016
 - Basics of Speech Processing, 2016-2017
 - Audio signal Encoding algorithms, 2017
 - Image Sampling applications, 2021
@@ -256,6 +257,8 @@ The following topics change how one perceives and views language as a symbolic r
         - <a href="https://github.com/sushmaakoju/named-entity-text-extraction-ocr-slave-trade-volumes">Independent Study: Study and design of NER & Text extraction from OCR scanned Handwritten Slave Trade Volumes (British Parliamentary Papers)</a>
 - Image Processing, Image Classification and Image Segmentation, Summer 2022
 - MultiModal AI, 2023 - ongoing $\color{blue}(notes, WIP)$
+- Deep Learning for Audio Processing, 2024 - ongoing $\color{blue}(notes, WIP)$
+- Natural Language Understanding, Summer-Fall 2021 (Stanford University Lecture materials) $\color{blue}(notes, WIP)$ (referred by mentor+friend)
 
 ## Large Language Models
 
